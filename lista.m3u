@@ -3,11 +3,11 @@
 #EXTINF:-1,WOU TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-1 ,CANAL 1
+#EXTINF:-1 ,CANAL-1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1 ,FILMSTREAM
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,HBO
+http://clubtv.link/120425ab/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 ,MOVIEFE
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -18,13 +18,20 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 ,WIN SPORT+
 https://laisa.crackstreamslivehd.com/global/winplus/index.m3u8?token=9571a1eda8bdc31512d7da1787afaf9ff9fcfe5e-9a-1744542958-1744510558&ip=181.78.77.97
 
+#EXTINF:-1 ,HBO XTREME
+http://clubtv.link/120425ab/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,DISNEY CHANNEL
+http://clubtv.link/120425ab/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,RCN CO
+http://clubtv.link/120425ab/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
+
 #EXTINF:-1 ,Nombre
 #EXTINF:-1 ,Nombre
 #EXTINF:-1 ,Nombre
 #EXTINF:-1 ,Nombre
-#EXTINF:-1 ,Nombre
-#EXTINF:-1 ,Nombre
-#EXTINF:-1 ,Nombre
+
 #EXTINF:-1,EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
@@ -35,7 +42,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 ,CARACOL
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+http://clubtv.link/120425ab/phpcode/lista0.php?c=86&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1,PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
