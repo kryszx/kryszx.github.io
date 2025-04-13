@@ -27,6 +27,37 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 ,RCN CO
 http://clubtv.link/120425ab/phpcode/lista0.php?c=71&token=Tecnoplus11&f=.m3u8
 
+#EXTINF:-1 ,TELEPACIFICO
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+#EXTINF:-1 ,FREETV ACCIÓN
+https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/e8263ca7-6e01-4e84-a201-3e67647084e9/0.m3u8
+
+#EXTINF:-1 ,WWE NETWORK
+http://clubtv.link/120425ab/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,WARNER TV
+http://clubtv.link/120425ab/phpcode/lista0.php?c=2&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,TNT SERIES
+http://clubtv.link/120425ab/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,CINECANAL
+http://clubtv.link/120425ab/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,CINEMAX
+http://clubtv.link/120425ab/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,DISCOVERY TURBO
+http://clubtv.link/120425ab/phpcode/lista0.php?c=80&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,ESPN PLUS
+http://clubtv.link/120425ab/phpcode/lista0.php?c=64&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,UNIVERSAL CINEMA
+http://clubtv.link/120425ab/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
+
+#EXTINF:-1 ,Nombre
 #EXTINF:-1 ,Nombre
 #EXTINF:-1 ,Nombre
 #EXTINF:-1 ,Nombre
