@@ -7,7 +7,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 ,HBO
-http://clubtv.link/120425ab/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo/master.m3u8
 
 #EXTINF:-1 ,MOVIEFE
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -16,7 +16,7 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 http://clubtv.link/120425ab/phpcode/lista0.php?c=67&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 ,WIN SPORT+
-https://laisa.crackstreamslivehd.com/global/winplus/index.m3u8?token=9571a1eda8bdc31512d7da1787afaf9ff9fcfe5e-9a-1744542958-1744510558&ip=181.78.77.97
+http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8
 
 #EXTINF:-1 ,HBO XTREME
 http://clubtv.link/120425ab/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8
@@ -57,9 +57,30 @@ http://clubtv.link/120425ab/phpcode/lista0.php?c=64&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 ,UNIVERSAL CINEMA
 http://clubtv.link/120425ab/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
 
-#EXTINF:-1 ,Nombre
-#EXTINF:-1 ,Nombre
-#EXTINF:-1 ,Nombre
+#EXTINF:-1 ,ESPN-1
+http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8
+
+#EXTINF:-1 ,ESPN-2
+http://tv.teleclub.xyz/stream/server_2/deportes/espn2/master.m3u8
+
+#EXTINF:-1 ,ESPN-3
+http://tv.teleclub.xyz/stream/server_2/deportes/espn3/master.m3u8
+
+#EXTINF:-1 ,ESPN-4
+http://tv.teleclub.xyz/stream/server_2/deportes/espn4/master.m3u8
+
+#EXTINF:-1 ,ESPN-5
+http://tv.teleclub.xyz/stream/server_2/deportes/espn5/master.m3u8
+
+#EXTINF:-1 ,ESPN PREMIUM
+http://tv.teleclub.xyz/stream/server_2/deportes/espnpremium/master.m3u8
+
+#EXTINF:-1 ,START CHANNEL
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/starchannel/master.m3u8
+
+#EXTINF:-1 ,UNIVERSAL TV
+http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8
+
 #EXTINF:-1 ,Nombre
 #EXTINF:-1 ,Nombre
 
