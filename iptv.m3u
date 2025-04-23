@@ -1,385 +1,385 @@
 #EXTM3U
 
-#EXTINF:-1,RCN MAX
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1,Caracol TV
-http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
-
-#EXTINF:-1,RCN
-http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
-
-#EXTINF:-1,SEÑAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1,WIN SPORT+ 1
-https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
-
-#EXTINF:-1,Win Sports+ 2
-http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8
-
-#EXTINF:-1,WOU TV
+#EXTINF:-1 ,WOU TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-1,CANAL-1
+#EXTINF:-1 ,Caracol TV
+http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
+
+#EXTINF:-1 ,RCN
+http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
+
+#EXTINF:-1 ,SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 ,WIN SPORT+ 1
+https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
+
+#EXTINF:-1 ,Win Sports+ 2
+http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8
+
+#EXTINF:-1 ,RCN MAX
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 ,CANAL-1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1,MOVIEFE
+#EXTINF:-1 ,MOVIEFE
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 
-#EXTINF:-1,TELEPACIFICO
+#EXTINF:-1 ,TELEPACIFICO
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 ,ESPN
 http://190.60.38.114:1010/play/a096/index.m3u8
 
-#EXTINF:-1,TELEMUNDO
+#EXTINF:-1 ,TELEMUNDO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1,LOCOMOTION
+#EXTINF:-1 ,LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1,ESTRELLA TV
+#EXTINF:-1 ,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,A&E
+#EXTINF:-1 ,A&E
 http://190.60.38.114:1010/play/a085/index.m3u8
 
-#EXTINF:-1,AMC
+#EXTINF:-1 ,AMC
 http://190.60.38.114:1010/play/a047/index.m3u8
 
-#EXTINF:-1,ANIMAL PLANET
+#EXTINF:-1 ,ANIMAL PLANET
 http://190.60.38.114:1010/play/a06t/index.m3u8
 
-#EXTINF:-1,DISCOVEY
+#EXTINF:-1 ,DISCOVEY
 http://190.60.38.114:1010/play/a076/index.m3u8
 
-#EXTINF:-1,DISCOVEY H&H
+#EXTINF:-1 ,DISCOVEY H&H
 http://190.60.38.114:1010/play/a06q/index.m3u8
 
-#EXTINF:-1,FOX SPORT-2
+#EXTINF:-1 ,FOX SPORT-2
 http://190.60.38.114:1010/play/a02o/index.m3u8
 
-#EXTINF:-1,HISTORY 2
+#EXTINF:-1 ,HISTORY 2
 http://190.60.38.114:1010/play/a04j/index.m3u8
 
-#EXTINF:-1,HISTORY CHANNEL
+#EXTINF:-1 ,HISTORY CHANNEL
 http://190.60.38.114:1010/play/a02a/index.m3u8
 
-#EXTINF:-1,SONY
+#EXTINF:-1 ,SONY
 http://190.60.38.114:1010/play/a02c/index.m3u8
 
-#EXTINF:-1,EXTREMA TV
+#EXTINF:-1 ,EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,Bein Sports Extra
+#EXTINF:-1 ,Bein Sports Extra
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 
-#EXTINF:-1,Directv Sports
+#EXTINF:-1 ,Directv Sports
 http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
 
-#EXTINF:-1,Directv Sports +
+#EXTINF:-1 ,Directv Sports +
 http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8
 
-#EXTINF:-1,Directv Sports 2
+#EXTINF:-1 ,Directv Sports 2
 http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8
 
-#EXTINF:-1,ESPN 1
+#EXTINF:-1 ,ESPN 1
 http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 ,ESPN 2
 http://tv.teleclub.xyz/stream/server_2/deportes/espn2/master.m3u8
 
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 ,ESPN 3
 http://tv.teleclub.xyz/stream/server_2/deportes/espn3/master.m3u8
 
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 ,ESPN 4
 http://tv.teleclub.xyz/stream/server_2/deportes/espn4/master.m3u8
 
-#EXTINF:-1,ESPN 5
+#EXTINF:-1 ,ESPN 5
 http://tv.teleclub.xyz/stream/server_2/deportes/espn5/master.m3u8
 
-#EXTINF:-1,ESPN Premium
+#EXTINF:-1 ,ESPN Premium
 http://tv.teleclub.xyz/stream/server_2/deportes/espnpremium/master.m3u8
 
-#EXTINF:-1,Fox Sports 1
+#EXTINF:-1 ,Fox Sports 1
 http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1/master.m3u8
 
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 ,Fox Sports 2
 http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2/master.m3u8
 
-#EXTINF:-1,Fox Sports 2 MX
+#EXTINF:-1 ,Fox Sports 2 MX
 http://tv.teleclub.xyz/stream/server_3/deportes/foxsports2mx/master.m3u8
 
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 ,Fox Sports 3
 http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3/master.m3u8
 
-#EXTINF:-1,Fox Sports Premium MX
+#EXTINF:-1 ,Fox Sports Premium MX
 http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8
 
-#EXTINF:-1,Gol Peru
+#EXTINF:-1 ,Gol Peru
 http://tv.teleclub.xyz/stream/server_2/deportes/golperu/master.m3u8
 
-#EXTINF:-1,Gol TV
+#EXTINF:-1 ,Gol TV
 http://tv.teleclub.xyz/stream/server_2/deportes/goltv/master.m3u8
 
-#EXTINF:-1,TNT Sports
+#EXTINF:-1 ,TNT Sports
 http://tv.teleclub.xyz/stream/server_2/deportes/tntsports/master.m3u8
 
-#EXTINF:-1,TUDN
+#EXTINF:-1 ,TUDN
 http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8
 
-#EXTINF:-1,TyC Sports
+#EXTINF:-1 ,TyC Sports
 http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 ,Cartoon Network
 http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
 
-#EXTINF:-1,Cartoonito
+#EXTINF:-1 ,Cartoonito
 http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
 
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 ,Discovery Kids
 http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
 
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 ,Disney Channel
 http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
 
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 ,Disney Jr
 http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
 
-#EXTINF:-1,Nick
+#EXTINF:-1 ,Nick
 http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
 
-#EXTINF:-1,Tooncast
+#EXTINF:-1 ,Tooncast
 http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
 
-#EXTINF:-1,ATV
+#EXTINF:-1 ,ATV
 http://tv.teleclub.xyz/stream/server_1/mundo/atv/master.m3u8
 
-#EXTINF:-1,Azteca 7
+#EXTINF:-1 ,Azteca 7
 http://tv.teleclub.xyz/stream/server_1/mundo/azteca7/master.m3u8
 
-#EXTINF:-1,Azteca Uno
+#EXTINF:-1 ,Azteca Uno
 http://tv.teleclub.xyz/stream/server_1/mundo/aztecauno/master.m3u8
 
-#EXTINF:-1,Canal 5
+#EXTINF:-1 ,Canal 5
 http://tv.teleclub.xyz/stream/server_1/mundo/canal5/master.m3u8
 
-#EXTINF:-1,Canal E!
+#EXTINF:-1 ,Canal E!
 http://tv.teleclub.xyz/stream/server_1/mundo/canal_e/master.m3u8
 
-#EXTINF:-1,DW Channel
+#EXTINF:-1 ,DW Channel
 http://tv.teleclub.xyz/stream/server_1/mundo/dwchannel/master.m3u8
 
-#EXTINF:-1,Ecuavisa
+#EXTINF:-1 ,Ecuavisa
 http://tv.teleclub.xyz/stream/server_1/mundo/ecuavisa/master.m3u8
 
-#EXTINF:-1,El Trece
+#EXTINF:-1 ,El Trece
 http://tv.teleclub.xyz/stream/server_1/mundo/eltrece/master.m3u8
 
-#EXTINF:-1,Galavisión
+#EXTINF:-1 ,Galavisión
 http://tv.teleclub.xyz/stream/server_1/mundo/galavision/master.m3u8
 
-#EXTINF:-1,Imagen TV
+#EXTINF:-1 ,Imagen TV
 http://tv.teleclub.xyz/stream/server_1/mundo/imagenmx/master.m3u8
 
-#EXTINF:-1,Las Estrellas
+#EXTINF:-1 ,Las Estrellas
 http://tv.teleclub.xyz/stream/server_1/mundo/lasestrellas/master.m3u8
 
-#EXTINF:-1,Latina TV
+#EXTINF:-1 ,Latina TV
 http://tv.teleclub.xyz/stream/server_1/mundo/latina/master.m3u8
 
-#EXTINF:-1,Pasiones
+#EXTINF:-1 ,Pasiones
 http://tv.teleclub.xyz/stream/server_1/mundo/pasiones/master.m3u8
 
-#EXTINF:-1,Telefe
+#EXTINF:-1 ,Telefe
 http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8
 
-#EXTINF:-1,Telemundo Puerto Rico
+#EXTINF:-1 ,Telemundo Puerto Rico
 http://tv.teleclub.xyz/stream/server_1/mundo/telemundopuertorico/master.m3u8
 
-#EXTINF:-1,TLC
+#EXTINF:-1 ,TLC
 http://tv.teleclub.xyz/stream/server_1/mundo/tlc/master.m3u8
 
-#EXTINF:-1,tlnovelas
+#EXTINF:-1 ,tlnovelas
 http://tv.teleclub.xyz/stream/server_1/mundo/tlnovelas/master.m3u8
 
-#EXTINF:-1,Unicable
+#EXTINF:-1 ,Unicable
 http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8
 
-#EXTINF:-1,Univisión
+#EXTINF:-1 ,Univisión
 http://tv.teleclub.xyz/stream/server_1/mundo/univision/master.m3u8
 
-#EXTINF:-1,Willax TV
+#EXTINF:-1 ,Willax TV
 http://tv.teleclub.xyz/stream/server_1/mundo/willaxtv/master.m3u8
 
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 ,Animal Planet
 http://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 ,Discovery Channel
 http://tv.teleclub.xyz/stream/server_1/cultura/discoverychannel/master.m3u8
 
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 ,Discovery H&H
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryh_h/master.m3u8
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 ,Discovery Science
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryscience/master.m3u8
 
-#EXTINF:-1,Discovery Theater
+#EXTINF:-1 ,Discovery Theater
 http://tv.teleclub.xyz/stream/server_1/cultura/discoverytheater/master.m3u8
 
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 ,Discovery Turbo
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryturbo/master.m3u8
 
-#EXTINF:-1,Discovery World
+#EXTINF:-1 ,Discovery World
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryworld/master.m3u8
 
-#EXTINF:-1,El Gourmet
+#EXTINF:-1 ,El Gourmet
 http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8
 
-#EXTINF:-1,H2
+#EXTINF:-1 ,H2
 http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8
 
-#EXTINF:-1,History
+#EXTINF:-1 ,History
 http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8
 
-#EXTINF:-1,ID
+#EXTINF:-1 ,ID
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8
 
-#EXTINF:-1,National Geographic
+#EXTINF:-1 ,National Geographic
 http://tv.teleclub.xyz/stream/server_1/cultura/nationalgeographic/master.m3u8
 
-#EXTINF:-1,A&E
+#EXTINF:-1 ,A&E
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8
 
-#EXTINF:-1,AMC
+#EXTINF:-1 ,AMC
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/amc/master.m3u8
 
-#EXTINF:-1,Antena 3 Series
+#EXTINF:-1 ,Antena 3 Series
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/antena3series/master.m3u8
 
-#EXTINF:-1,AXN
+#EXTINF:-1 ,AXN
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8
 
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 ,Cinecanal
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8
 
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 ,Comedy Central
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/comedycentral/master.m3u8
 
-#EXTINF:-1,DePelicula
+#EXTINF:-1 ,DePelicula
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/depelicula/master.m3u8
 
-#EXTINF:-1,Distrito Comedia
+#EXTINF:-1 ,Distrito Comedia
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/distritocomedia/master.m3u8
 
-#EXTINF:-1,FX 1
+#EXTINF:-1 ,FX 1
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/fx/master.m3u8
 
-#EXTINF:-1,FX 2
+#EXTINF:-1 ,FX 2
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/fx/master.m3u8
 
-#EXTINF:-1,Golden
+#EXTINF:-1 ,Golden
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/golden/master.m3u8
 
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 ,Golden Edge
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8
 
-#EXTINF:-1,Golden Plus
+#EXTINF:-1 ,Golden Plus
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenplus/master.m3u8
 
-#EXTINF:-1,Golden Premier
+#EXTINF:-1 ,Golden Premier
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier/master.m3u8
 
-#EXTINF:-1,HBO
+#EXTINF:-1 ,HBO
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo/master.m3u8
 
-#EXTINF:-1,HBO 2
+#EXTINF:-1 ,HBO 2
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo2/master.m3u8
 
-#EXTINF:-1,HBO Family
+#EXTINF:-1 ,HBO Family
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbofamily/master.m3u8
 
-#EXTINF:-1,HBO Mundi
+#EXTINF:-1 ,HBO Mundi
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbomundi/master.m3u8
 
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 ,HBO Plus
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hboplus/master.m3u8
 
-#EXTINF:-1,HBO Pop
+#EXTINF:-1 ,HBO Pop
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbopop/master.m3u8
 
-#EXTINF:-1,HBO Xtreme
+#EXTINF:-1 ,HBO Xtreme
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hboxtreme/master.m3u8
 
-#EXTINF:-1,Paramount Network
+#EXTINF:-1 ,Paramount Network
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8
 
-#EXTINF:-1,Sony 1
+#EXTINF:-1 ,Sony 1
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/sony/master.m3u8
 
-#EXTINF:-1,Sony 2
+#EXTINF:-1 ,Sony 2
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/sony/master.m3u8
 
-#EXTINF:-1,Space
+#EXTINF:-1 ,Space
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/space/master.m3u8
 
-#EXTINF:-1,Star Channel 1
+#EXTINF:-1 ,Star Channel 1
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/starchannel/master.m3u8
 
-#EXTINF:-1,Star Channel 2
+#EXTINF:-1 ,Star Channel 2
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/starchannel/master.m3u8
 
-#EXTINF:-1,Studio Universasl
+#EXTINF:-1 ,Studio Universasl
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/studiouniversal/master.m3u8
 
-#EXTINF:-1,TNT
+#EXTINF:-1 ,TNT
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8
 
-#EXTINF:-1,TNT Series 1
+#EXTINF:-1 ,TNT Series 1
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/tntseries/master.m3u8
 
-#EXTINF:-1,TNT Series 2
+#EXTINF:-1 ,TNT Series 2
 http://tv.teleclub.xyz/stream/server_2/entretenimiento/tntseries/master.m3u8
 
-#EXTINF:-1,Universal Cinema
+#EXTINF:-1 ,Universal Cinema
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8
 
-#EXTINF:-1,Universal TV 1
+#EXTINF:-1 ,Universal TV 1
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/universaltv/master.m3u8
 
-#EXTINF:-1,Universal TV 2
+#EXTINF:-1 ,Universal TV 2
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
 
-#EXTINF:-1,USA TV
+#EXTINF:-1 ,USA TV
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/usatv/master.m3u8
 
-#EXTINF:-1,Warner Channel
+#EXTINF:-1 ,Warner Channel
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/warnerchannel/master.m3u8
 
-#EXTINF:-1,PLUTO TV ANIME
+#EXTINF:-1 ,PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,KANAL D DRAMA
+#EXTINF:-1 ,KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1,PLUTO TV CINE COMEDIA
+#EXTINF:-1 ,PLUTO TV CINE COMEDIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,PLUTO TV TERROR
+#EXTINF:-1 ,PLUTO TV TERROR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,PLUTO TV DEPORTES
+#EXTINF:-1 ,PLUTO TV DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,PLUTO TV NOVELAS
+#EXTINF:-1 ,PLUTO TV NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,PLUTO TV JUNIOR
+#EXTINF:-1 ,PLUTO TV JUNIOR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,PLUTO TV MISTERIOS
+#EXTINF:-1 ,PLUTO TV MISTERIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,PLUTO TV ANIMALES
+#EXTINF:-1 ,PLUTO TV ANIMALES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
