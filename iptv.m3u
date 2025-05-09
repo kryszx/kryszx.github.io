@@ -3,8 +3,11 @@
 #EXTINF:-1 ,WOU TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-1 ,Caracol TV
+#EXTINF:-1 ,CARACOL TV
 https://co-e1-p-e-mf2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/baea966f-4ee5-4b80-9906-94bc513e3bf4:MRN2/master.m3u8?aid=574462d1cab0f4d50866f001&uid=uuQDMOPG6QLpp7mu8GQBqHXPUYpENSsS&sid=jXy7sfuE0mqpoUFvfGRR6sYrE3S2UQ9K&pid=l7dneLCGaxUEGk1OSU9mCvbwb0tkrgzW&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=xuVBqk5rzwayVkgoBLn9dFVaOlETA1dXPIBrYAAFUIiPZ7E6JfMyahwNytMF61ubBPtONfgjjJL&adInsertionGoogleStreamId=baea966f-4ee5-4b80-9906-94bc513e3bf4%3AMRN2&es=co-e1-p-e-mf2.cdn.mdstrm.com&ote=1746844863962&ot=_fnc47nnABOI5p2fMWSsIA&proto=https&pz=us
+
+#EXTINF:-1 ,CARACOL NOTICIAS
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
 #EXTINF:-1 ,RCN
 http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
