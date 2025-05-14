@@ -9,8 +9,11 @@ http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
 #EXTINF:-1 ,CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 ,RCN
+#EXTINF:-1 ,RCN OPCION 1
 http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
+
+#EXTINF:-1 ,RCN OPCIÓN 2
+http://tv.teleclub.xyz/stream/server_3/mundo/rcn/master.m3u8
 
 #EXTINF:-1 ,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
