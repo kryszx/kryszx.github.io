@@ -66,7 +66,10 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 ,Bein Sports Extra
 http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
 
-#EXTINF:-1 ,Directv Sports
+#EXTINF:-1 ,DIRECTV SPORT 1
+https://laisa.crackstreamslivehd.com/global/dsports/index.m3u8?token=aea9730fdd6089318266b6fa74bf66629d0fa50b-50-1747296270-1747263870&ip=181.78.77.97
+
+#EXTINF:-1 ,Directv Sports 2
 http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
 
 #EXTINF:-1 ,Directv Sports+
