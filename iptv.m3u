@@ -6,20 +6,20 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="http://img.teleclub.xyz/caracol.png" ,CARACOL TV
 https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
 
+#EXTINF:-1 ,RCN TV
+http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
+
 #EXTINF:-1 ,RCN MAX
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 ,CARACOL NOTICIAS
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
-#EXTINF:-1 ,RCN OPCION 1
-http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
-
-#EXTINF:-1 ,RCN OPCIÓN 2
-http://tv.teleclub.xyz/stream/server_3/mundo/rcn/master.m3u8
-
 #EXTINF:-1 ,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 ,TELEPACIFICO
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
 #EXTINF:-1 ,WIN SPORT+ OPCION 1
 https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
@@ -27,26 +27,38 @@ https://dokko1new.newkso.ru/dokko1/premium392/mono.m3u8
 #EXTINF:-1 ,Win Sports+ OPCION 2
 http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8
 
-#EXTINF:-1 ,Mr StivenTc
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.pHMElW7Qrxl1.m3u8?browser_family=chrome&browser_version=135.0&cdm=wv&os_name=Android&os_version=11&platform=mobile_web&player_backend=mediaplayer&player_version=1.31.0&supported_codecs=av1,h265,h264&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvcEhNRWxXN1FyeGwxIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20saHR0cHM6Ly9kYXNoYm9hcmQua2ljay5jb20saHR0cHM6Ly8qLnByZXZpZXcua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTc0NzMzNTY3MH0.ABQBHOAfflnKHUq9LwUUXxml3ARnfOzPonVEX2myfPoiySUv2TS_bE9aE7Ng5uSGItTgxICu5tNrpswHl52FaEecCsGe-eYqx4C1vALtnL7a6pISZ2v6D_aPN9ClrBPC
-
 #EXTINF:-1 ,CANAL-1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1 ,MOVIEFE
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
 
-#EXTINF:-1 ,TELEPACIFICO
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-
-#EXTINF:-1 ,TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 ,Cartoonito
+http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
 
 #EXTINF:-1 ,LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 ,ANIME ZONE TV
 http://animezonetv.net/hls/stream.m3u8
+
+#EXTINF:-1 ,Disney Jr
+http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
+
+#EXTINF:-1 ,Discovery Kids
+http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
+
+#EXTINF:-1 ,Nick
+http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
+
+#EXTINF:-1 ,Tooncast
+http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
+
+#EXTINF:-1 ,MOVIEFE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
+#EXTINF:-1 ,TELEMUNDO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 ,ESTRELLA TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
@@ -114,26 +126,8 @@ http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8
 #EXTINF:-1 ,TyC Sports
 http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8
 
-#EXTINF:-1 ,Cartoon Network
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
-
-#EXTINF:-1 ,Cartoonito
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
-
-#EXTINF:-1 ,Discovery Kids
-http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
-
 #EXTINF:-1 ,Disney Channel
 http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
-
-#EXTINF:-1 ,Disney Jr
-http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
-
-#EXTINF:-1 ,Nick
-http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
-
-#EXTINF:-1 ,Tooncast
-http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
 
 #EXTINF:-1 ,ATV
 http://tv.teleclub.xyz/stream/server_1/mundo/atv/master.m3u8
