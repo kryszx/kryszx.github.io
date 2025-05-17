@@ -4,7 +4,7 @@
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.teleclub.xyz/caracol.png" ,CARACOL TV
-https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
+http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
 
 #EXTINF:-1 ,RCN TV
 http://tv.teleclub.xyz/stream/server_1/mundo/rcn/master.m3u8
