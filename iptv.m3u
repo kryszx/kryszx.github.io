@@ -34,10 +34,10 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 ,Cartoon Network
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260532.m3u8
 
 #EXTINF:-1 ,Cartoonito
-http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260586.m3u8
 
 #EXTINF:-1 ,LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -45,17 +45,17 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 ,ANIME ZONE TV
 http://animezonetv.net/hls/stream.m3u8
 
-#EXTINF:-1 ,Disney Jr
-http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
+#EXTINF:-1 ,DISNEY JR HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289417.m3u8
 
 #EXTINF:-1 ,Discovery Kids
-http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260575.m3u8
 
 #EXTINF:-1 ,Nick
-http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/238049.m3u8
 
 #EXTINF:-1 ,Tooncast
-http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260537.m3u8
 
 #EXTINF:-1 ,MOVIEFE
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
@@ -67,10 +67,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,A&E
-http://190.60.38.114:1010/play/a085/index.m3u8
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289425.m3u8
 
-#EXTINF:-1 ,FOX SPORT2
-http://190.60.38.114:1010/play/a02o/index.m3u8
+#EXTINF:-1 ,FOX SPORT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289412.m3u8
 
 #EXTINF:-1 ,HISTORY 2
 http://190.60.38.114:1010/play/a04j/index.m3u8
@@ -78,8 +78,8 @@ http://190.60.38.114:1010/play/a04j/index.m3u8
 #EXTINF:-1 ,EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 ,Bein Sports Extra
-http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
+#EXTINF:-1 ,H2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/401651.m3u8
 
 #EXTINF:-1 ,DIRECTV SPORT 1
 https://tyg2mnl9.fubohd.com/dsports/mono.m3u8?token=d13657327e96e1f8c6df55c2b7fa76369805561c-97-1747291497-1747273497
