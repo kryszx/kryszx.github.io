@@ -9,7 +9,7 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/411.m3u8
 #EXTINF:-1 tvg-logo="https://www.fucsia.co/resizer/v2/TKHVPBLQGFDL5BNCKM4KCG6KNM.jpg?auth=731510965a568ea1076a02504b4953833f4c28b7073c858351389339d70f41e4&smart=true&quality=75&width=1280",RCN TV
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/416.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",SEÑAL COLOMBIA
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/prisaradioco/MXIRR3W5JNN6RFC6TBIS5DQD4E.jpg",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTgQ9aCSX8fBsJuDrh1EAk2u0SIaIDGtioQ&s",TELEPACIFICO
@@ -18,13 +18,13 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYnVkw7OZSYj0_ulIiXucmVK-At_5ezrtwZhZUzn9n6foQdJOMalJbQRTAQIe2g1qs.png",WIN SPORT
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/427.ts
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/1000?cb=20200225220524&path-prefix=es",WIN SPORT+ OPS1
+#EXTINF:-1 tvg-logo="https://www.rcnradio.com/_next/image?url=https%3A%2F%2Ffiles.rcnradio.com%2Fpublic%2Fstyles%2F16_9%2Fpublic%2F2020-02%2Fwin__4_0.jpg%3FVersionId%3DwUDJUJ0avpeEC3YeqUHKlkgCUtwe68be%26itok%3D8uFvTD3m&w=3840&q=75",WIN SPORT+ OPCIÓN 1
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289739.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/1000?cb=20200225220524&path-prefix=es",WIN SPORT+ OPS2
+#EXTINF:-1 tvg-logo="https://www.rcnradio.com/_next/image?url=https%3A%2F%2Ffiles.rcnradio.com%2Fpublic%2Fstyles%2F16_9%2Fpublic%2F2020-02%2Fwin__4_0.jpg%3FVersionId%3DwUDJUJ0avpeEC3YeqUHKlkgCUtwe68be%26itok%3D8uFvTD3m&w=3840&q=75",WIN SPORT+ OPCIÓN 2
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289740.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest/scale-to-width-down/1000?cb=20200225220524&path-prefix=es",WIN SPORT+ OPS3
+#EXTINF:-1 tvg-logo="https://www.rcnradio.com/_next/image?url=https%3A%2F%2Ffiles.rcnradio.com%2Fpublic%2Fstyles%2F16_9%2Fpublic%2F2020-02%2Fwin__4_0.jpg%3FVersionId%3DwUDJUJ0avpeEC3YeqUHKlkgCUtwe68be%26itok%3D8uFvTD3m&w=3840&q=75",WIN SPORT+ OPCIÓN 3
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289741.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",CANAL-1
