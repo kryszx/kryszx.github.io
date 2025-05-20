@@ -1,46 +1,160 @@
 #EXTM3U
 
-#EXTINF:-1 ,WOU TV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOU TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 tvg-logo="http://img.teleclub.xyz/caracol.png" ,CARACOL TV
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/411.m3u8
 
-#EXTINF:-1 ,RCN TV
+#EXTINF:-1 tvg-logo="https://www.fucsia.co/resizer/v2/TKHVPBLQGFDL5BNCKM4KCG6KNM.jpg?auth=731510965a568ea1076a02504b4953833f4c28b7073c858351389339d70f41e4&smart=true&quality=75&width=1280",RCN TV
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/416.m3u8
 
-#EXTINF:-1 ,CARACOL INTERNACIONAL
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1520.m3u8
-
-#EXTINF:-1 ,NUESTRA TELE
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/419.m3u8
-
-#EXTINF:-1 ,RCN MAX
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 ,CARACOL NOTICIAS
-https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-
-#EXTINF:-1 ,SEÑAL COLOMBIA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-53_HtUb3jnc/XzgiULPdOxI/AAAAAAAA4Yg/u_kS47iatBgohPcQ3uOpO8Rz7r5RMBARwCK8BGAsYHg/s0/2020-08-15.png",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 ,TELEPACIFICO
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTgQ9aCSX8fBsJuDrh1EAk2u0SIaIDGtioQ&s",TELEPACIFICO
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
-#EXTINF:-1 ,WIN SPORT
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYnVkw7OZSYj0_ulIiXucmVK-At_5ezrtwZhZUzn9n6foQdJOMalJbQRTAQIe2g1qs.png",WIN SPORT
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/427.ts
 
-#EXTINF:-1 ,WIN SPORT+ OPS1
+#EXTINF:-1 tvg-logo="https://www.latvguia.com/wp-content/uploads/2023/06/win-mas-quejas-696x391.jpg",WIN SPORT+ OPS1
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289739.m3u8
 
-#EXTINF:-1 ,WIN SPORT+ OPS2
+#EXTINF:-1 tvg-logo="https://www.latvguia.com/wp-content/uploads/2023/06/win-mas-quejas-696x391.jpg",WIN SPORT+ OPS2
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289740.m3u8
 
-#EXTINF:-1 ,WIN SPORT+ OPS3
+#EXTINF:-1 tvg-logo="https://www.latvguia.com/wp-content/uploads/2023/06/win-mas-quejas-696x391.jpg",WIN SPORT+ OPS3
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289741.m3u8
 
-#EXTINF:-1 ,CANAL-1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",CANAL-1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmakd8sfxSvaP78FG0y_lIdHwR-tD1Y2DHOY_rrnU1Q9B3OKp69KEkCo7OZajkMuG50.png",Las Estrellas
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260578.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZINbZvBP2mUZA0uYdZHcta42UoGvkUfntG6fWGVyQYEQ5E154mZwEW8J3fLbDUE2Y.png",AXN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260579.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmacPUVkfXme00-ENAhuKBhqNpl9vqVN56qyPXOQFyWdZ4fvktnLTQlEBIB45gbfJ38.png",E!
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260569.m3u
+
+#EXTINF:-1 tvg-logo="http://144.217.80.14/HD/ID.jpeg",ID
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260552.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZHKvx_6IPOraqkFRnCX64vGi1EID6BgfyV-lUzvSiNV4TTk39c6DuHOxnxxvEr6PU.png",Lifetime
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260551.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbsLzqiQS7rwRxCUjJOtnKWqeYAv8ne7zuGkx4zdNQtFIKtSxDKJo4F5MZiqijDsPg.png",TCM
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260540.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/ba098b8ef3a43cc97c8e1b101c3e6e69.png",Unicable
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260536.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/da166b6eb888815bba4e71c4893589ae.png",Animal planet
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260535.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/f8a2603b7249347e92f5b0d2a209d540.png",History
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260553.m3u
+
+#EXTINF:-1 tvg-logo="http://144.217.80.14/HD/ID.jpeg",Discovery ID
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260589.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/b444b69067ef45b80df37ba028005cd1.png",Discovery science
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260574.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqDmhBSHwThOiCryWUHuL720Hf6PqpF6hMUElylCsEFtV5SHfGAMf6P1tHf9-Wq0NOo.png",Discovery HH
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260588.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb_H7pYNKROiSedG5yeVskLnWY076y6b-RwddIY8Ph5hqvz_PPiX6n6ieliH_epa3U.png",Discovery Turbo
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260572.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/f8e35201aead9ad5be348ac80fbdef79.png",Discovery world
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260571.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYOeVKcT-Gg2MVqihXQFzvvXOXZ10y-Spws0949fTRnePNVrT0vQ5H9u0LyPLqtXIQ.png",NatGeo
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260548.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/7d21493d9468a41d935eb566b1e6cfe7.png",Baby tv
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260533.m3u
+
+#EXTINF:-1 tvg-name="SD | Cartooncito" tvg-logo="http://pirostv.lat:8080/images/d6addcc45206aa09b0034a6e96f5a862.jpeg",Cartooncito
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260610.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ8tUu9IHO_7aWsk5L-FoH15KR7d2Wc42VQ2dxgZ9XFJR88UnY1jP05odtEYLQnVPw.png",Cartoon network
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260532.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYtnD5TjPwAJuWJ9Kkwq-4doL4tD4jRxlO4czuxyniPk_P0_izRvJByQPl_MWu97hQ.png",Discovery Kids
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260575.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbZ_NGv-k0K6UOBH-PawjHP1kNdvFszexzhW1EJLFWunaxCZ1MWoA518wp3I_Jrvl0.png",Disney Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260590.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbV8o9xW81mGshhxelNldxwUtzsh9X_v8bs0VSsdcaRj9QCiJGN2g007RcE99ewwn0.png",Disney Jr
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260591.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYVGGvFNqzUZ1fxaO-68ScRtWx-ew2X5qGN9ipem5xLxaeaYBdWhdRGtuxXpFhs-1o.png",Nick jr
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260544.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaGR8O2Yn63ProdmRrc0iPSx6DBuchj8n7h_yIFJ326UFSkfeNEwO3NScovjgIvLbc.png",Nick
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260545.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/572d540acd8d2692383acfcec7b8efec.png",Nickelodeon
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260603.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/18630f7e61f8292f131584c30f2a0df7.png",Tooncast
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260537.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/c791971ffa02ab4685d4f282a5d91d28.png",Cinemax
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260531.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZvOayd0wyWa5ZwLIdjLMiEFoDRvnuq1INPbbKE0QQUzgpPS3vkKKRQavlA1k1631o.png",Star Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260530.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/3346fc7613ccd778606f4665f461c4fa.jpeg",Golden premier
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260559.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/a6e4a9db864869243bb13335800d9731.png",HBO
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260557.m3u
+
+#EXTINF:-1 tvg-logo="https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-Mundi-Black.png&width=400&height=400&cropratio=false",HBO Mundi
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260529.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZwc3fePSrrH4ZhzShyfbvDkQlbv0bWJ4t87W8Qm18IGICMvgQf-ceaa_lxf9YYXR0.png",HBO Plus
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260556.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/7ad54b36f94452ea968572728fd1c69c.png",HBO Signature
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260555.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/2f2839b31e7c5b7938cef3515896248a.png",Paramount
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260543.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYk6Bo6PfUkULQlVTcmQZkfdsEqZe5e0lUkYONi2EzaojgcpYgNCHTT05_2RuqLKVA.png",TNT Series
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260538.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZgV-KgxHnnZgtAPO3UO8CLOHEmrBwQFGXuok_JUD80zRUyELRoWDgGxMFYQ7dRJ7c.png",Sony
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260604.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZDUShKbNtxKKtz5-eC1XGABqo0z5Ajujw3fmjsyFPhhoHA9aDryMrdXX1ITDVCQPI.png",Space
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260605.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZl03sLdzSz8AlOz5OaH4twBmutINEkNfBpz2yhDnFRmfAck0g8hiC9J03ekHzY7Cw.png",Studio Universal
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260612.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZbBTHcakUIbLOZyELeWX_cxGu-BYIoTFMrlRN9hh1TxrtQ2Qp9DFLbojCArGhreiM.png",TNT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260525.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYk6Bo6PfUkULQlVTcmQZkfdsEqZe5e0lUkYONi2EzaojgcpYgNCHTT05_2RuqLKVA.png",TNT Series
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260608.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:25461/images/a49c61ad9f5101d3e1f856df5d725d20.png",Universal
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260609.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:25461/images/a49c61ad9f5101d3e1f856df5d725d20.png",Universal Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260524.m3u
+
+#EXTINF:-1 tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosma16cVUigQ65AS9S3m1dChVq4K1px1K9Qkx6gECR3mJkJdrqaBPrPFaeaqGPaxKyiw.png",Warner
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260522.m3u
 
 #EXTINF:-1 ,PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
