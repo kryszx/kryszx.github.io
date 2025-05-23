@@ -15,6 +15,9 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1,TELEPACIFICO
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
+#EXTINF:-1,NOTICIERO 90 MINUTOS
+https://cdns.livewave.co:19360/90minutoslive/90minutoslive.m3u8
+
 #EXTINF:-1,WIN SPORT
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/427.ts
 
