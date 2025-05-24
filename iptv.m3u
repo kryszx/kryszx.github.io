@@ -3,11 +3,17 @@
 #EXTINF:-1,WOU TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
+#EXTINF:-1,CANAL UNO
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
 #EXTINF:-1,CARACOL TV
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/411.m3u8
 
 #EXTINF:-1,RCN TV
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/417.m3u8
+
+#EXTINF:-1,RCN NOVELAS
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/418.ts
 
 #EXTINF:-1,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -30,8 +36,23 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289740.m3u8
 #EXTINF:-1,WIN SPORT+ OPCIÓN 3
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289741.m3u8
 
-#EXTINF:-1,CANAL-1
-https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1,DTV SPORT+
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/259251.ts
+
+#EXTINF:-1,ESPN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/271287.ts
+
+#EXTINF:-1,ESPN 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262312.ts
+
+#EXTINF:-1,FOX SPORT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289412.m3u8
+
+#EXTINF:-1,FOX SPORT 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/48.m3u8
+
+#EXTINF:-1,PRAMOUNT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260543.m3u8
 
 #EXTINF:-1,Las Estrellas
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260578.m3u
@@ -62,6 +83,12 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260551.m3u
 
 #EXTINF:-1,TCM
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260540.m3u
+
+#EXTINF:-1,TELECAFE
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/422.ts
+
+#EXTINF:-1,TELEMEDELLIN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/424.ts
 
 #EXTINF:-1,Unicable
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260536.m3u
