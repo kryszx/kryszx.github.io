@@ -58,7 +58,7 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/320881.m3u8
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/54.m3u8
 
 #EXTINF:-1,AXN
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289424.m3u8
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/263277.m3u8
 
 #EXTINF:-1,AMC
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/37.m3u8
@@ -77,9 +77,6 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/443883.m3u8
 
 #EXTINF:-1,E! INTERNACIONAL
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289421.m3u8
-
-#EXTINF:-1,ID
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260552.m3u
 
 #EXTINF:-1,LIFETIME
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260551.m3u
@@ -132,8 +129,26 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/46.m3u8
 #EXTINF:-1,BABY TV
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260533.m3u
 
-#EXTINF:-1,CARTONCITO
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260610.m3u
+#EXTINF:-1,MUELIN Y PERLITA 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444949.m3u8
+
+#EXTINF:-1,MINIMALITOS 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445307.m3u8
+
+#EXTINF:-1,PAW PATROL 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444521.m3u8
+
+#EXTINF:-1,POCOYO 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444759.m3u8
+
+#EXTINF:-1,REINO INFANTIL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445308.m3u8
+
+#EXTINF:-1,RICK Y MORTY
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445127.m3u8
+
+#EXTINF:-1,PLIM PLIM
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445032.m3u8
 
 #EXTINF:-1,CARTOON NETWORK
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289419.m3u8
