@@ -22,7 +22,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
 #EXTINF:-1,LA KALLE
-https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=NKeBwwm4fnET2bCl170n9kpbsDjehJ20&sid=12WLbLtPyc1DQ4yRh2p2KxQ1nHmS6NQO&pid=6mAF6qwCHU28EjFnShQ9OdQ83xBSwy4x&pid_dvr=ugG632pUi8hbL8xZuQD0gRNq1gGbOQsD&an=screen&at=web-app&av=v6.0.163&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x220&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=c0460ec3-569e-478d-b98f-8709838c4227:CHS
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=NKeBwwm4fnET2bCl170n9kpbsDjehJ20&sid=u7PNbLl6VDeK13ZPYXkqCa910CXhdq7c&pid=zRMDW1W04dOoqAA6DSB9nsgalNzhw5LF&pid_dvr=KJA4f6zl4DMMEowZTYMSA5wBq4gsY5uA&an=screen&at=web-app&av=v6.0.163&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x220&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=ff50bf4e-73a3-4542-9165-581d4a559262:CHS
 
 #EXTINF:-1,NOTICIERO 90 MINUTOS
 https://cdns.livewave.co:19360/90minutoslive/90minutoslive.m3u8
@@ -43,7 +43,7 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289741.m3u8
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/259251.ts
 
 #EXTINF:-1,ESPN
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/271287.ts
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/301441.m3u8
 
 #EXTINF:-1,ESPN 2
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262312.ts
