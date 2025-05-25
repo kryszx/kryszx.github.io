@@ -21,6 +21,9 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1,TELEPACIFICO
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
+#EXTINF:-1,LA KALLE
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=NKeBwwm4fnET2bCl170n9kpbsDjehJ20&sid=12WLbLtPyc1DQ4yRh2p2KxQ1nHmS6NQO&pid=6mAF6qwCHU28EjFnShQ9OdQ83xBSwy4x&pid_dvr=ugG632pUi8hbL8xZuQD0gRNq1gGbOQsD&an=screen&at=web-app&av=v6.0.163&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=320x220&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=c0460ec3-569e-478d-b98f-8709838c4227:CHS
+
 #EXTINF:-1,NOTICIERO 90 MINUTOS
 https://cdns.livewave.co:19360/90minutoslive/90minutoslive.m3u8
 
