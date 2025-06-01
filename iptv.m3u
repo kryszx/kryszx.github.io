@@ -24,6 +24,9 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1,NOTICIERO 90 MINUTOS
 https://cdns.livewave.co:19360/90minutoslive/90minutoslive.m3u8
 
+#EXTINF:-1,DMI VS AMERICA
+https://m4.merichunidya.com:999/hls/winsportsplus.m3u8?md5=YQBD-MRSHTdvXThKUbeIMg&expires=1748746018
+
 #EXTINF:-1,WIN SPORT
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1265.m3u8
 
