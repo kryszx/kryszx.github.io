@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 ,LA KALLE
 http://new-weytv.live:80/345734564546/MMMZqm2PHn/667840.m3u8
 #EXTINF:-1 tvg-id="canaltro.co" tvg-name="CO | Canal TRO" tvg-logo="http://pirostv.lat:8080/images/913181784c5757337990d659bb46fc52.png" group-title="Colombia",CO | Canal TRO
