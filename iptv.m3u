@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CO | Wow Tv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Wow Tv"
+#EXTINF:-1 tvg-name="CO | Wow Tv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Colombia",CO | Wow Tv
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canaltro.co" tvg-name="CO | Canal TRO" tvg-logo="http://pirostv.lat:8080/images/913181784c5757337990d659bb46fc52.png" group-title="Colombia",CO | Canal TRO
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/414.m3u8
