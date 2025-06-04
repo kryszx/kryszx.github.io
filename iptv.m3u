@@ -801,23 +801,33 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445120.m3u8
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445859.m3u8
 #EXTINF:-1 tvg-id="c51e93ad-6190-41e9-90d4-7003679d7fd9" tvg-name="24H | Jason Bourne" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3r0UB8ooCKEMqOSoQmrTMWZT0C2.jpg" group-title="24H | Acción",24H | Jason Bourne
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445858.m3u8
-#EXTINF:-1,KANAL D DRAMA
+#EXTINF:-1 group-title="Canales PlutoTv",Pluto Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1,PLUTO TV ANIME
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV ANIME
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,PLUTO TV TELENOVELAS
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV TELENOVELAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,PLUTO TV CINE COMEDIA
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV CINE COMEDIA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,PLUTO TV TERROR
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV TERROR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,PLUTO TV DEPORTES
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV DEPORTES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,PLUTO TV NOVELAS
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV NOVELAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,PLUTO TV JUNIOR
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV JUNIOR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,PLUTO TV MISTERIOS
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV MISTERIOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,PLUTO TV ANIMALES
+#EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV ANIMALES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Sala" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Sala
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Loft" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title=""Casa De Los Famosos,CO | Casa de los Famosos Loft
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Baños" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Baños
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Comedor" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Comedor
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Habitacion" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Habitacion
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438115.m3u8
