@@ -1,8 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="CO | Wow Tv" tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Colombia",CO | Wow Tv
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="canaltro.co" tvg-name="CO | Canal TRO" tvg-logo="http://pirostv.lat:8080/images/913181784c5757337990d659bb46fc52.png" group-title="Colombia",CO | Canal TRO
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | Canal Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",CO | Canal Uno
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/415.m3u8
+http://new-weytv.live:80/345734564546/MMMZqm2PHn/13774.m3u8
 #EXTINF:-1 tvg-id="rcn.co" tvg-name="CO | RCN SD" tvg-logo="https://www.fucsia.co/resizer/v2/TKHVPBLQGFDL5BNCKM4KCG6KNM.jpg?auth=731510965a568ea1076a02504b4953833f4c28b7073c858351389339d70f41e4&smart=true&quality=75&width=1280" group-title="Colombia",CO | RCN SD
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN HD-R" tvg-logo="https://www.fucsia.co/resizer/v2/TKHVPBLQGFDL5BNCKM4KCG6KNM.jpg?auth=731510965a568ea1076a02504b4953833f4c28b7073c858351389339d70f41e4&smart=true&quality=75&width=1280" group-title="Colombia",CO | RCN HD-R
@@ -459,6 +461,346 @@ http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/301428.m3u8
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/301441.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FHD | Telemundo Internacional" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhffv3SYxHu6jDZlRCgeeO0m0L7DFSZgDbY1Xi4B_nsiZ2DzJFHJE8d1KZP5lRVeYA.png" group-title="Canales FHD",FHD | Telemundo Internacional
 http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/361623.m3u8
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmapU2IXdd0YirnpDmlDJdab9Lc1poWctNJmOqgSRbLxEzFOx6ceRKC2dPg5EQT3qk4.png" group-title="Deportes",US | YU_DeportesN OP 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/272000.m3u8
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 2" tvg-logo="http://pirostv.lat:8080/images/c033ec808f38744abe60892e541f1314.png" group-title="Deportes",US | YU_DeportesN OP 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/326799.m3u8
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US | YU_DeportesN OP 3" tvg-logo="http://pirostv.lat:8080/images/3bb7239fcef568550216f3b6d42e6340.png" group-title="Deportes",US | YU_DeportesN OP 3
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/326800.m3u8
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="MX | TUDN OP 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgM7zn1ErXx0SztB8tlaum1k20a-3ZUAd_X12wiCpSozj8xjqzNhKgSRROrmx6h9EA.png" group-title="Deportes",MX | TUDN OP 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/311893.m3u8
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="MX | TUDN OP 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgM7zn1ErXx0SztB8tlaum1k20a-3ZUAd_X12wiCpSozj8xjqzNhKgSRROrmx6h9EA.png" group-title="Deportes",MX | TUDN OP 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/245567.m3u8
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="MX | TUDN OP 3" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgM7zn1ErXx0SztB8tlaum1k20a-3ZUAd_X12wiCpSozj8xjqzNhKgSRROrmx6h9EA.png" group-title="Deportes",MX | TUDN OP 3
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/326801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | ZONA TUDN" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZUMQ14677bwtaeA_KwPo73BS0fj3-IB669AN9ixpXsmQzU_a3qn8BhMs0hA2H8Ymk.jpeg" group-title="Deportes",MX | ZONA TUDN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/300924.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AZTECA DEPORTES" tvg-logo="http://pirostv.lat:8080/images/fa04b1f42514ef3f305e43d5377860e8.png" group-title="Deportes",MX | AZTECA DEPORTES
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/324799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Caliente TV HD" tvg-logo="https://blob.soyreferee.com/images/2024/8/2/f768x1-58291_58418_5050-focus-0-0-768-432.webp" group-title="Deportes",MX | Caliente TV HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/416820.m3u8
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="MX | Fox Sports 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY6O9cgu30pMlxEaws_Puc0_T3tPkpApfkU58AwaGgPBfj7RujuxdMwjrC2qbvaWlI.png" group-title="Deportes",MX | Fox Sports 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1324.m3u8
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="MX | Fox Sports 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbbir_6q1Es8kdf5HwreoV3tTTik_dmmPh_IKIAwr7VCjlXJ3pvtMR-_Ks-7aiJyhY.png" group-title="Deportes",MX | Fox Sports 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1325.m3u8
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="MX | Fox Sports 3" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYvKDpf2ihD9al-o33jNcgfzeizR5Z2UZUEeuI3pOihavgTb3d8SQnka4EeAIbl3PM.png" group-title="Deportes",MX | Fox Sports 3
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1329.m3u8
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="US | Fox Deportes" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY6O9cgu30pMlxEaws_Puc0_T3tPkpApfkU58AwaGgPBfj7RujuxdMwjrC2qbvaWlI.png" group-title="Deportes",US | Fox Deportes
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/9632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports Premium SD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiGEaaZF3hngb7aRmhG_YsSzsoWoTPY079aMqHm1PSXi-pAH7lUSfUgyPBEHywHzjU.png" group-title="Deportes",MX | Fox Sports Premium SD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/293129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports Premium" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjVn8xu-lzMlz9o9zwkOzlJ3v_DQMW6kyo7QmbZNhjncNSkzGZLlCA13UbACDOBS1c.png" group-title="Deportes",MX | Fox Sports Premium
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/285169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox sports Premiun SD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY7zi0dPdR6bzSPR1wbTRXy7uppdL_DySOuMUUPpbuYrt_U6G0MY1OEzY86dQ_WUaE.png" group-title="Deportes",DE | Fox sports Premiun SD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/263552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox sports Premiun HD Ligero" tvg-logo="http://pirostv.lat:8080/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="Deportes",DE | Fox sports Premiun HD Ligero
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262188.m3u8
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="HD | Fox Sports 1 MX" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb26Vc8Nl_2Dsh66tnViZqAH2i2LDDpXTbOEnmw19gktFLlIgaH9n6jyOk9Ap47crE.png" group-title="Deportes",HD | Fox Sports 1 MX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/27981.m3u8
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="HD | Fox Sports 2 MX" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbbir_6q1Es8kdf5HwreoV3tTTik_dmmPh_IKIAwr7VCjlXJ3pvtMR-_Ks-7aiJyhY.png" group-title="Deportes",HD | Fox Sports 2 MX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/27982.m3u8
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="HD | Fox Sports 3 MX" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYvKDpf2ihD9al-o33jNcgfzeizR5Z2UZUEeuI3pOihavgTb3d8SQnka4EeAIbl3PM.png" group-title="Deportes",HD | Fox Sports 3 MX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/27983.m3u8
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="MX | Espn" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",MX | Espn
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262192.m3u8
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="MX | Espn 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmblUl31PD0asWOrbArp3kK5Gf2WAw-dnPWSA6bW587i_O56sjGnCqjI9e3R0QnG8iE.png" group-title="Deportes",MX | Espn 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1328.m3u8
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="MX | Espn 3" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaZwyMZJP1ocs1rX9qY6iyaYa98exVTfShm50S4an3QoHun-b9gjl_JxHSjVS_86G8.png" group-title="Deportes",MX | Espn 3
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 4" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-canal-espn4-252x252.png" group-title="Deportes",MX | Espn 4
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/443452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN Deportes" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",LA | ESPN Deportes
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/295699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN Deportes" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb_AAZzq7JF-H_-nIGUmy18BrlMyLPjtyL1Dse4fvLXKqUidjijy334OTtDYT5miS0.png" group-title="Deportes",DE | ESPN Deportes
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/292943.m3u8
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US | ESPN DEPORTES HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiMk3YdbnJ87cgzX4M6WagJxt6Dglkw1j7DdpRmSPInU-AQHgG0E384nv-glbf_sgg.png" group-title="Deportes",US | ESPN DEPORTES HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262177.m3u8
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="HD  | ESPN MX" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",HD  | ESPN MX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD | Espn MX" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",HD | Espn MX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/428208.m3u8
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="HD  | ESPN 2 MX" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmblUl31PD0asWOrbArp3kK5Gf2WAw-dnPWSA6bW587i_O56sjGnCqjI9e3R0QnG8iE.png" group-title="Deportes",HD  | ESPN 2 MX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262174.m3u8
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="HD  | ESPN 3 MX" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaZwyMZJP1ocs1rX9qY6iyaYa98exVTfShm50S4an3QoHun-b9gjl_JxHSjVS_86G8.png" group-title="Deportes",HD  | ESPN 3 MX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/27980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD | Claro Sports" tvg-logo="http://pirostv.lat:8080/images/0dc2077d5ade80a969d758e12021da87.png" group-title="Deportes",HD | Claro Sports
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/264122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Sports SD" tvg-logo="http://pirostv.lat:8080/images/0dc2077d5ade80a969d758e12021da87.png" group-title="Deportes",MX | Claro Sports SD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | Claro Sport HD" tvg-logo="http://pirostv.lat:8080/images/0dc2077d5ade80a969d758e12021da87.png" group-title="Deportes",MX | Claro Sport HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1461.m3u8
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="MX | TVC Deportes" tvg-logo="http://pirostv.lat:8080/images/15a0bda8c666b36f5e587d0b75be692e.png" group-title="Deportes",MX | TVC Deportes
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/18704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | F1 Formula 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZNL9Du_zpHLfoMd036-cvOGbUn0r_3p9oJkipeHbUhr2hhc_baegHs-6vfEpb2Zeo.jpg" group-title="Deportes",ES | F1 Formula 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/295663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar F1 (DAZN)" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZNL9Du_zpHLfoMd036-cvOGbUn0r_3p9oJkipeHbUhr2hhc_baegHs-6vfEpb2Zeo.jpg" group-title="Deportes",F1 | Movistar F1 (DAZN)
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar Formula 1 (DAZN)" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZNL9Du_zpHLfoMd036-cvOGbUn0r_3p9oJkipeHbUhr2hhc_baegHs-6vfEpb2Zeo.jpg" group-title="Deportes",F1 | Movistar Formula 1 (DAZN)
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/285272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="F1 | Movistar Formula 1 (DAZN op2)" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZNL9Du_zpHLfoMd036-cvOGbUn0r_3p9oJkipeHbUhr2hhc_baegHs-6vfEpb2Zeo.jpg" group-title="Deportes",F1 | Movistar Formula 1 (DAZN op2)
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | Box Nation" tvg-logo="http://144.217.80.14/fig/boxing.jpg" group-title="Deportes",US | Box Nation
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/346526.m3u8
+#EXTINF:-1 tvg-id="ufcnetwork.mx" tvg-name="US | UFC TV" tvg-logo="http://pirostv.lat:8080/images/87d70fbf47526b9ebe08a8d3f750a2be.png" group-title="Deportes",US | UFC TV
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | UFC Fightpass" tvg-logo="http://pirostv.lat:8080/images/87d70fbf47526b9ebe08a8d3f750a2be.png" group-title="Deportes",DE | UFC Fightpass
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/267193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | AyM Sports" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbO4waq6ZGwLD1ZQ2M37Vbabn0VFKahpcYJk0OKgYS2FWAErVbnL_lmiojnv_YHgqE.png" group-title="Deportes",MX | AyM Sports
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1330.m3u8
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="MX | Golf Channel" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiqarYpH-hN384O4aSzEuBVbnZgZtEhLywuHeA7VfZ2wXk-QS_SYRQVyri38HtG4P8.png" group-title="Deportes",MX | Golf Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | One Toro" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYjptJE2-XXfC4B7-mpkQvKZqRBPWgGPXaO9FYOwhtfpYO149YCJUMs1NI6CY28RnA.jpg" group-title="Deportes",ES | One Toro
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/308787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX | El Garage" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0018/2274/brand.gif?itok=sH1UGnPO" group-title="Deportes",MX | El Garage
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | DAZN ESPN." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyE-K-43FZ_16IFb9aUbFKSHYpAVmEC-jhw&s" group-title="Deportes",DE | DAZN ESPN.
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN LaLiga" tvg-logo="http://pirostv.lat:8080/images/d8fafb5f33a6e90a65678291b85ee499.png" group-title="Deportes",ES | DAZN LaLiga
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/435204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 1" tvg-logo="http://pirostv.lat:8080/images/d8fafb5f33a6e90a65678291b85ee499.png" group-title="Deportes",ES | DAZN 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/361213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2" tvg-logo="http://pirostv.lat:8080/images/d8fafb5f33a6e90a65678291b85ee499.png" group-title="Deportes",ES | DAZN 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/279226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3" tvg-logo="http://pirostv.lat:8080/images/d8fafb5f33a6e90a65678291b85ee499.png" group-title="Deportes",ES | DAZN 3
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/279227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4" tvg-logo="http://pirostv.lat:8080/images/d8fafb5f33a6e90a65678291b85ee499.png" group-title="Deportes",ES | DAZN 4
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/297430.m3u8
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="US | NFL Network" tvg-logo="http://picons.futuretv.pro/logos/eventos/americano.nfl.png" group-title="Deportes",US | NFL Network
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1286.m3u8
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US | Fox Sports 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb26Vc8Nl_2Dsh66tnViZqAH2i2LDDpXTbOEnmw19gktFLlIgaH9n6jyOk9Ap47crE.png" group-title="Deportes",US | Fox Sports 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1274.m3u8
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US | Fox Sports 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbbir_6q1Es8kdf5HwreoV3tTTik_dmmPh_IKIAwr7VCjlXJ3pvtMR-_Ks-7aiJyhY.png" group-title="Deportes",US | Fox Sports 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1275.m3u8
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US | Fox Soccer Plus" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY6O9cgu30pMlxEaws_Puc0_T3tPkpApfkU58AwaGgPBfj7RujuxdMwjrC2qbvaWlI.png" group-title="Deportes",US | Fox Soccer Plus
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1276.m3u8
+#EXTINF:-1 tvg-id="plutotvkids.us" tvg-name="US | GOAL TV ESP" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYJVXtFT-IXo8u0H80olsL7Re75GGMMLiMnABjPddacY4a8hIGdtJtzeqB28AWW4xA.jpg" group-title="Deportes",US | GOAL TV ESP
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1334.m3u8
+#EXTINF:-1 tvg-id="goltv.us" tvg-name="US | GOLTV ENG" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYJVXtFT-IXo8u0H80olsL7Re75GGMMLiMnABjPddacY4a8hIGdtJtzeqB28AWW4xA.jpg" group-title="Deportes",US | GOLTV ENG
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1299.m3u8
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US | Bein Sports USA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="Deportes",US | Bein Sports USA HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | Bein sports Ñ *" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaoatK9FDECw2MuEGbhYVtgatKc5SD9cVTqUH2VbxFnE2V0tDVq_Vo3toww13V7bc4.png" group-title="Deportes",LA | Bein sports Ñ *
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/258965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | Bein Sports Ñ HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032015/bein_sport_0.png?itok=bInPGhZh" group-title="Deportes",US | Bein Sports Ñ HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/258964.m3u8
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="US | BEIN SPORTS Ñ" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaoatK9FDECw2MuEGbhYVtgatKc5SD9cVTqUH2VbxFnE2V0tDVq_Vo3toww13V7bc4.png" group-title="Deportes",US | BEIN SPORTS Ñ
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/40963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | beIN SPORTS XTRA en español" tvg-logo="http://pirostv.lat:8080/images/ead68d7b90e0a2646ec6aea1d40bffc0.png" group-title="Deportes",DE | beIN SPORTS XTRA en español
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/283272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN SUR 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",DE | ESPN SUR 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/244639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN 2 SUR" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmblUl31PD0asWOrbArp3kK5Gf2WAw-dnPWSA6bW587i_O56sjGnCqjI9e3R0QnG8iE.png" group-title="Deportes",DE | ESPN 2 SUR
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | ESPN 3 SUR" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaZwyMZJP1ocs1rX9qY6iyaYa98exVTfShm50S4an3QoHun-b9gjl_JxHSjVS_86G8.png" group-title="Deportes",DE | ESPN 3 SUR
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/244641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN *SD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiMk3YdbnJ87cgzX4M6WagJxt6Dglkw1j7DdpRmSPInU-AQHgG0E384nv-glbf_sgg.png" group-title="Deportes",AR | ESPN *SD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/263377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",AR | ESPN 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 *" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",AR | ESPN 1 *
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/263376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmblUl31PD0asWOrbArp3kK5Gf2WAw-dnPWSA6bW587i_O56sjGnCqjI9e3R0QnG8iE.png" group-title="Deportes",AR | ESPN 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 3 Arg" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaZwyMZJP1ocs1rX9qY6iyaYa98exVTfShm50S4an3QoHun-b9gjl_JxHSjVS_86G8.png" group-title="Deportes",AR | ESPN 3 Arg
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 4" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",AR | ESPN 4
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/296664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 1 HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiMk3YdbnJ87cgzX4M6WagJxt6Dglkw1j7DdpRmSPInU-AQHgG0E384nv-glbf_sgg.png" group-title="Deportes",AR | ESPN 1 HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2 HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmblUl31PD0asWOrbArp3kK5Gf2WAw-dnPWSA6bW587i_O56sjGnCqjI9e3R0QnG8iE.png" group-title="Deportes",AR | ESPN 2 HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN EXTRA" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="Deportes",AR | ESPN EXTRA
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/296663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1  Arg" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb26Vc8Nl_2Dsh66tnViZqAH2i2LDDpXTbOEnmw19gktFLlIgaH9n6jyOk9Ap47crE.png" group-title="Deportes",AR | FOX SPORTS 1  Arg
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/292978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 1 SD Arg" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb26Vc8Nl_2Dsh66tnViZqAH2i2LDDpXTbOEnmw19gktFLlIgaH9n6jyOk9Ap47crE.png" group-title="Deportes",AR | FOX SPORTS 1 SD Arg
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 SD Arg" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbbir_6q1Es8kdf5HwreoV3tTTik_dmmPh_IKIAwr7VCjlXJ3pvtMR-_Ks-7aiJyhY.png" group-title="Deportes",AR | FOX SPORTS 2 SD Arg
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3 SD Arg" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYvKDpf2ihD9al-o33jNcgfzeizR5Z2UZUEeuI3pOihavgTb3d8SQnka4EeAIbl3PM.png" group-title="Deportes",AR | FOX SPORTS 3 SD Arg
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2 HD Arg" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbbir_6q1Es8kdf5HwreoV3tTTik_dmmPh_IKIAwr7VCjlXJ3pvtMR-_Ks-7aiJyhY.png" group-title="Deportes",AR | FOX SPORTS 2 HD Arg
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fox Sports Premium 1080" tvg-logo="http://pirostv.lat:8080/images/3063f1522a9e036d0215d5125ac02fb7.png" group-title="Deportes",DE | Fox Sports Premium 1080
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN PREMIUM." tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_05/1502534879_ESPNPremium(3).png.8e769b9653fbb8f6e539e9a2923f2df5.png" group-title="Deportes",AR | ESPN PREMIUM.
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | DirectV Sports" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBg7q0vmtbePCdQ818s9pr5DvcFLIKaJunwezWTZLd43sn9bUr6YcRi2xUbYazsFT9Y.jpg" group-title="Deportes",AR | DirectV Sports
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/435920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS 1 HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiU98v48sO0YQlkrIhjTMb37T3O-le0y1MSr5UUyEdOeg5POLZ1wfJFmBU3OgcX3qQ.png" group-title="Deportes",AR | DTV SPORTS 1 HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/267392.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORT 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZs_H9m1AJP2QH1_1hLk1bWATagTa-TwhEVzjWDTai2Mc_0MuatJ6coin7ZKNBwc2U.png" group-title="Deportes",AR | DTV SPORT 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | DTV SPORTS +" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZs_H9m1AJP2QH1_1hLk1bWATagTa-TwhEVzjWDTai2Mc_0MuatJ6coin7ZKNBwc2U.png" group-title="Deportes",AR | DTV SPORTS +
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports Argentina" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiYQsZadUDrJBRfbGv35QHyecNV_GOtXlZLgghs-AFkufjFrvhq2HoQEmKQWVU4kvI.png" group-title="Deportes",AR | TyC Sports Argentina
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TyC Sports" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBiYQsZadUDrJBRfbGv35QHyecNV_GOtXlZLgghs-AFkufjFrvhq2HoQEmKQWVU4kvI.png" group-title="Deportes",AR | TyC Sports
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT SPORTS" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhu9DW_FwDr8HHka2oLWk0UHmKQLIWKz3rNMyfHOjoZ6zhnOhhJ6gF1QchoFAwTVl8.png" group-title="Deportes",AR | TNT SPORTS
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYY3LvmbVfDTdY9uKMKEz4-aC8onTuUO-vQGZNkdNbDYW_EnzeOTYDcyGCLTwI4WpU.png" group-title="Deportes",ES | MOVISTAR LIGA DE CAMPEONES
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 1 HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYY3LvmbVfDTdY9uKMKEz4-aC8onTuUO-vQGZNkdNbDYW_EnzeOTYDcyGCLTwI4WpU.png" group-title="Deportes",ES | MOVISTAR LIGA DE CAMPEONES 1 HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTES HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYY3LvmbVfDTdY9uKMKEz4-aC8onTuUO-vQGZNkdNbDYW_EnzeOTYDcyGCLTwI4WpU.png" group-title="Deportes",ES | MOVISTAR DEPORTES HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA LIGA TV BAR" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYY3LvmbVfDTdY9uKMKEz4-aC8onTuUO-vQGZNkdNbDYW_EnzeOTYDcyGCLTwI4WpU.png" group-title="Deportes",ES: LA LIGA TV BAR
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/435216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. La Liga 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLY00Y8v1Xn76GGElsdrsH96G7hj53K9ggdw&s" group-title="Deportes",ES | M. La Liga 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/435853.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mo. La Liga 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLY00Y8v1Xn76GGElsdrsH96G7hj53K9ggdw&s" group-title="Deportes",ES | Mo. La Liga 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/435854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | M. LIGA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLY00Y8v1Xn76GGElsdrsH96G7hj53K9ggdw&s" group-title="Deportes",ES | M. LIGA HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/435855.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR GOLF HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYY3LvmbVfDTdY9uKMKEz4-aC8onTuUO-vQGZNkdNbDYW_EnzeOTYDcyGCLTwI4WpU.png" group-title="Deportes",ES | MOVISTAR GOLF HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | #VAMOS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og=s900-c-k-c0xffffffff-no-rj-mo" group-title="Deportes",ES | #VAMOS HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Movistar Deportes" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYY3LvmbVfDTdY9uKMKEz4-aC8onTuUO-vQGZNkdNbDYW_EnzeOTYDcyGCLTwI4WpU.png" group-title="Deportes",DE | Movistar Deportes
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/226526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | Real Madrid TV" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbdrSHqBm8tXkfdLHVWAUvy3-oZi2fZuoOsP6uFTWV3nLv9m-J24CHgc_CQc9s7XJo.png" group-title="Deportes",ES | Real Madrid TV
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9yIWpMSHd9CCIqNuZbDR2bxeUVe0i_0YoRD-ExzSiWE5HaGNfCPKAPSMjm11DxIs.jpg" group-title="Deportes",ES: EUROSPORT 2 HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/259511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | Teledeporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdMlb7dkRDxvi8bxgNmNj2Ois1ZlbOH6vdvJ32NIFaeruqR4-Lmc0t7oV9wOON70s8xE&usqp=CAU" group-title="Deportes",ES | Teledeporte
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/279224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sport" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png" group-title="Deportes",CR | Tigo Sport
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/274657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | GolTV" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYJVXtFT-IXo8u0H80olsL7Re75GGMMLiMnABjPddacY4a8hIGdtJtzeqB28AWW4xA.jpg" group-title="Deportes",DE | GolTV
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/248165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UY | VTV" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbEF1xrosw_UgDLCpsTbe4UJKdGP5aw1h16eORLd_NYwuFgw7novRWQUQeKckVLdWM.png" group-title="Deportes",UY | VTV
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UY | VTV HD" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbEF1xrosw_UgDLCpsTbe4UJKdGP5aw1h16eORLd_NYwuFgw7novRWQUQeKckVLdWM.png" group-title="Deportes",UY | VTV HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb26Vc8Nl_2Dsh66tnViZqAH2i2LDDpXTbOEnmw19gktFLlIgaH9n6jyOk9Ap47crE.png" group-title="Deportes",CH | FOX SPORTS 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CH | FOX SPORTS 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbbir_6q1Es8kdf5HwreoV3tTTik_dmmPh_IKIAwr7VCjlXJ3pvtMR-_Ks-7aiJyhY.png" group-title="Deportes",CH | FOX SPORTS 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1241.m3u8
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports Op3" tvg-logo="http://pirostv.lat:8080/images/509a418e24de822fa42d205f7f92a46d.png" group-title="Deportes",CO | Win Sports Op3
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | EUROSPORT 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9yIWpMSHd9CCIqNuZbDR2bxeUVe0i_0YoRD-ExzSiWE5HaGNfCPKAPSMjm11DxIs.jpg" group-title="Deportes",ES | EUROSPORT 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | Eurosport 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHNBA7gxcoMtwv9HlYSk0NwIKYVQMK4izANfSbFpFJlVwwkFx&s" group-title="Deportes",ES | Eurosport 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/320882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYEgL9If1SaApFWHUmdilgi3FiSIPdsJvV6P7yWv2owj8yN6hacDw-h6CT2eg2JoYQ.jpg" group-title="Deportes",BR | Sportv 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/264506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv*" tvg-logo="http://pirostv.lat:25461/images/43c36900b0aa86ded24077870df74926.jpg" group-title="Deportes",BR | Sportv*
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/267358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR | Sportv 2*" tvg-logo="http://pirostv.lat:25461/images/43c36900b0aa86ded24077870df74926.jpg" group-title="Deportes",BR | Sportv 2*
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/267359.m3u8
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US | ESPN" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYG8HdlDKetOcUxcxEWlQqMWMg_VdSQjvGev2CDMrWL3vwSL7_FkSvCr9PyA_GNDQ4.png" group-title="Deportes",US | ESPN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | ESPN 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmblUl31PD0asWOrbArp3kK5Gf2WAw-dnPWSA6bW587i_O56sjGnCqjI9e3R0QnG8iE.png" group-title="Deportes",US | ESPN 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/266771.m3u8
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US | ESPN U" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY7SZJKmhPf_UTYQIu7K-RXSVQLlfEEd-tFEJ0HYHILavU_Dgh168O_wbL1JKNcqi0.png" group-title="Deportes",US | ESPN U
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1271.m3u8
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US | ESPN News" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhn5xUZ7Op9I-F9GXteT6xeA4nv1Vf4KMmDtJk0U7K6FriReohFsliYPzNoL0sI0Jo.png" group-title="Deportes",US | ESPN News
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD ES | EUROSPORT 1" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9yIWpMSHd9CCIqNuZbDR2bxeUVe0i_0YoRD-ExzSiWE5HaGNfCPKAPSMjm11DxIs.jpg" group-title="Deportes",HD ES | EUROSPORT 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/312589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HD ES | EUROSPORT 2" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9yIWpMSHd9CCIqNuZbDR2bxeUVe0i_0YoRD-ExzSiWE5HaGNfCPKAPSMjm11DxIs.jpg" group-title="Deportes",HD ES | EUROSPORT 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/312590.m3u8
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US | NBC Sports Philadelphia" tvg-logo="http://pirostv.lat:8080/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="Deportes",US | NBC Sports Philadelphia
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232373.m3u8
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US | NBC Sports California" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ9m_mnu6DC3YIdE_j9BFecMlMVKaBulWH_HTL4p5U5pR0Pq5ZlREGDByJcpqhdEDI.jpg" group-title="Deportes",US | NBC Sports California
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232370.m3u8
+#EXTINF:-1 tvg-id="nbcsportsboston.us" tvg-name="US | NBC Sports Boston" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgyip0J5fcRsxIyJ-TJ_zS70_3nwC4cLFixRzexZHu2WhJyo08_vwPKSn24ouQuDeg.jpg" group-title="Deportes",US | NBC Sports Boston
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232369.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Arizona" tvg-logo="https://img.athleticbusiness.com/files/base/abmedia/all/image/2023/03/rbomyvnzrnq0s39tilzp.64131e459c65d.png?auto=format%2Ccompress&q=70&w=300" group-title="Deportes",USA | Bally Sports Arizona
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/312583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Florida" tvg-logo="https://img.athleticbusiness.com/files/base/abmedia/all/image/2023/03/rbomyvnzrnq0s39tilzp.64131e459c65d.png?auto=format%2Ccompress&q=70&w=300" group-title="Deportes",USA | Bally Sports Florida
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/312582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports Southwest" tvg-logo="https://img.athleticbusiness.com/files/base/abmedia/all/image/2023/03/rbomyvnzrnq0s39tilzp.64131e459c65d.png?auto=format%2Ccompress&q=70&w=300" group-title="Deportes",USA | Bally Sports Southwest
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/312578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | Bally Sports South" tvg-logo="https://img.athleticbusiness.com/files/base/abmedia/all/image/2023/03/rbomyvnzrnq0s39tilzp.64131e459c65d.png?auto=format%2Ccompress&q=70&w=300" group-title="Deportes",USA | Bally Sports South
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/312577.m3u8
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="USA | Bally Sports SoCal" tvg-logo="https://img.athleticbusiness.com/files/base/abmedia/all/image/2023/03/rbomyvnzrnq0s39tilzp.64131e459c65d.png?auto=format%2Ccompress&q=70&w=300" group-title="Deportes",USA | Bally Sports SoCal
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/312574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports San Diego" tvg-logo="https://img.athleticbusiness.com/files/base/abmedia/all/image/2023/03/rbomyvnzrnq0s39tilzp.64131e459c65d.png?auto=format%2Ccompress&q=70&w=300" group-title="Deportes",US | Bally Sports San Diego
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/308367.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | Bally Sports Florida" tvg-logo="https://img.athleticbusiness.com/files/base/abmedia/all/image/2023/03/rbomyvnzrnq0s39tilzp.64131e459c65d.png?auto=format%2Ccompress&q=70&w=300" group-title="Deportes",US | Bally Sports Florida
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/266903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | World Fishing Network" tvg-logo="https://satellitesolutions.com/wp-content/uploads/2023/09/WFN-1.png.webp" group-title="Deportes",US | World Fishing Network
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/236447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | Fox Sports Wisconsin" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBj67_F6SPUaRGFsZm-Y4QsXs4rM6yAI9CcdQhSIGNxw-D4VzHCpnVmG1d-eeq7dT8g.png" group-title="Deportes",US | Fox Sports Wisconsin
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/266864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | FOX 35 Orlando" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBj67_F6SPUaRGFsZm-Y4QsXs4rM6yAI9CcdQhSIGNxw-D4VzHCpnVmG1d-eeq7dT8g.png" group-title="Deportes",US | FOX 35 Orlando
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/265417.m3u8
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports West" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY6O9cgu30pMlxEaws_Puc0_T3tPkpApfkU58AwaGgPBfj7RujuxdMwjrC2qbvaWlI.png" group-title="Deportes",US | FOX Sports West
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232366.m3u8
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports Sun" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY6O9cgu30pMlxEaws_Puc0_T3tPkpApfkU58AwaGgPBfj7RujuxdMwjrC2qbvaWlI.png" group-title="Deportes",US | FOX Sports Sun
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232365.m3u8
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South East" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY6O9cgu30pMlxEaws_Puc0_T3tPkpApfkU58AwaGgPBfj7RujuxdMwjrC2qbvaWlI.png" group-title="Deportes",US | FOX Sports South East
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232363.m3u8
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports South" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBj67_F6SPUaRGFsZm-Y4QsXs4rM6yAI9CcdQhSIGNxw-D4VzHCpnVmG1d-eeq7dT8g.png" group-title="Deportes",US | FOX Sports South
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232362.m3u8
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="US | FOX Sports North" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY6O9cgu30pMlxEaws_Puc0_T3tPkpApfkU58AwaGgPBfj7RujuxdMwjrC2qbvaWlI.png" group-title="Deportes",US | FOX Sports North
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232359.m3u8
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US | WWE Network" tvg-logo="https://userdocs.smartdnsproxy.com/userdocs/services/new/wwe-network.png" group-title="Deportes",US | WWE Network
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1466.m3u8
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="US | Yes Network" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmacIm_L07EW13VpU4lTypV-YOmaD4FnrolarZ5xeOzMoYzrzAv6Kc4BG5oZRgdt3jQ.jpg" group-title="Deportes",US | Yes Network
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | SNY" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaOdkErwfzqcjiJMcKDACiiHi_AgSdrg06Xdbon1bCKVXms0mG4_BoNcBAFCDAJMpU.png" group-title="Deportes",US | SNY
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1294.m3u8
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US | Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_iU-N3Jmi-DPnL2n1RnAF4E62bHtLGBreoW9nUKKldRXbx5F&s" group-title="Deportes",US | Outdoor Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1289.m3u8
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US | MSNBC" tvg-logo="http://pirostv.lat:8080/images/473185f11ac63f47f1be4f0734945868.jpg" group-title="Deportes",US | MSNBC
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1283.m3u8
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US | MSG" tvg-logo="https://image.spreadshirtmedia.com/image-server/v1/compositions/T121A70PA4057PT17X31Y34D11646780FS7247Cx000000/views/1,width=650,height=650,appearanceId=70.jpg" group-title="Deportes",US | MSG
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1281.m3u8
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US | Golf Channel" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY2VSzfRwlzjFklNGuhuwECpEwHmvG8z7zdXth2iIRpQ6ZOGR0OMWODpKHoizEpbRs.png" group-title="Deportes",US | Golf Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | GINX eSports" tvg-logo="http://pirostv.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBjEYMA9XRbo46Tzpxi8Ji-4o0KzTlVdhMY9-w8gsAgBR02OdhmF248au9AnTsjjpU4.jpg" group-title="Deportes",US | GINX eSports
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1277.m3u8
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="US | Fight Network" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGF3AbKOnMKFw/company-logo_200_200/0?e=2159024400&v=beta&t=s5TI6p82ni-QS6E-xmziuEjkBC_DpXyVJAkOBlkkMfg" group-title="Deportes",US | Fight Network
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1272.m3u8
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US  | TENNIS CHANEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKEDr4hvyZRcA_SgGtlYJtVQn25C3prTfuBnWTTpwWuw52FQo&s" group-title="Deportes",US  | TENNIS CHANEL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1261.m3u8
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="USA | Altitude Sports" tvg-logo="https://www.tvguide.com/a/img/resize/072e80cdb0b5bb611ab7bc885ef03ae4f94a7640/hub/2023/03/10/c3d6d46c-8296-425f-be7e-637359f397e8/altitudersnlogo.jpg?auto=webp&width=1092" group-title="Deportes",USA | Altitude Sports
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/416819.m3u8
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="USA | NESN" tvg-logo="https://preview.redd.it/d4ruc1anfdq31.jpg?auto=webp&s=000a78ad6f1cb9dc6b554102f33bbc10cc61ce7c" group-title="Deportes",USA | NESN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/384023.m3u8
+#EXTINF:-1 tvg-id="newenglandsportsnetwork.us" tvg-name="USA | NESN Plus" tvg-logo="https://preview.redd.it/d4ruc1anfdq31.jpg?auto=webp&s=000a78ad6f1cb9dc6b554102f33bbc10cc61ce7c" group-title="Deportes",USA | NESN Plus
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/384024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | SportsMan Channel" tvg-logo="https://www.sportsmancanada.ca/wp-content/uploads/2019/01/Sportsman_Channel.png" group-title="Deportes",US | SportsMan Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/396859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US| Cowboy Channel" tvg-logo="http://miarea.vip:8080/images/1e1fa0acfbcaf661731d8af0e06157cb.png" group-title="Deportes",US| Cowboy Channel
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/428365.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US | Spectrum Spornet LA" tvg-logo="https://i0.wp.com/dodgersbeat.com/wp-content/uploads/2015/06/image001.png?fit=322%2C161&ssl=1" group-title="Deportes",US | Spectrum Spornet LA
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/440285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Liga Hypermotion 3" tvg-logo="https://images.seeklogo.com/logo-png/49/3/laliga-hypermotion-logo-png_seeklogo-490007.png" group-title="Deportes",ES | La Liga Hypermotion 3
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/441127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Liga Hypermotion 2" tvg-logo="https://images.seeklogo.com/logo-png/49/3/laliga-hypermotion-logo-png_seeklogo-490007.png" group-title="Deportes",ES | La Liga Hypermotion 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/441128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ES | La Liga Hypermotion 1" tvg-logo="https://images.seeklogo.com/logo-png/49/3/laliga-hypermotion-logo-png_seeklogo-490007.png" group-title="Deportes",ES | La Liga Hypermotion 1
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/441129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marquee Sports Network" tvg-logo="https://cdn.mos.cms.futurecdn.net/GFvNHFPLR4W4aZBjA9AK9j-1200-80.jpg" group-title="Deportes",Marquee Sports Network
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444220.m3u8
+#EXTINF:-1 tvg-id="df74d913-fe36-45ac-9e6e-8fa9a11884f4" tvg-name="24H | Juego de Tronos" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6eEYfJtcJQ6e6J2lzkgzUDShR6V.jpg" group-title="24H | Fantasía",24H | Juego de Tronos
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/443822.m3u8
+#EXTINF:-1 tvg-id="351e82b3-94ce-473d-968c-fe36aab84a96" tvg-name="24H | Piratas del Caribe HD" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dVgSnlKIfZ5Op9CvxoSzbFkYzb5.jpg" group-title="24H | Fantasía",24H | Piratas del Caribe HD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445275.m3u8
+#EXTINF:-1 tvg-id="1b0bc803-45dc-41d1-8a90-b830fe11c8d5" tvg-name="24H | Búsqueda implacable" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/se4pFtk8unwQM6hxkyytAPwhszM.jpg" group-title="24H | Acción",24H | Búsqueda implacable
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444739.m3u8
+#EXTINF:-1 tvg-id="2cacee14-13b7-4966-bcd2-1472ba0c2973" tvg-name="24H | Duro de Matar" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg" group-title="24H | Acción",24H | Duro de Matar
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444741.m3u8
+#EXTINF:-1 tvg-id="445027d5-4208-4a0e-b7b3-b9aa45061a72" tvg-name="24H | Rocky Balboa" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uhX5kYBMcW9AT0FwWGElx19rpL6.jpg" group-title="24H | Acción",24H | Rocky Balboa
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444742.m3u8
+#EXTINF:-1 tvg-id="225f1384-b4cf-4be6-b2d3-d0ff78a657d2" tvg-name="24H Misión Imposible" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg" group-title="24H | Acción",24H Misión Imposible
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444743.m3u8
+#EXTINF:-1 tvg-id="4e1084c8-a004-482b-87e9-c402d03e3a57" tvg-name="24H | Creed" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tQxTr6BM3LKHX1Q8ew6z08cfNZ7.jpg" group-title="24H | Acción",24H | Creed
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444744.m3u8
+#EXTINF:-1 tvg-id="a592e996-c463-4e1f-8c4f-b40f247ab3bf" tvg-name="24H | John Wick" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mHJX5D5FKKoC0GWUAWFq2qJZrPv.jpg" group-title="24H | Acción",24H | John Wick
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444946.m3u8
+#EXTINF:-1 tvg-id="2cf1050e-8b89-47b0-89e2-7a513a4c5ba6" tvg-name="24H | Tulsa King" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yzRnj5GMZEjiW9xTGkz8cVNyzH9.jpg" group-title="24H | Acción",24H | Tulsa King
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445119.m3u8
+#EXTINF:-1 tvg-id="30807852-cc2e-4e70-ab38-fd68196e7021" tvg-name="24H | Los Indestructibles" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qiKXe4xbXnXdrhQXmXpZwG4Qlkv.jpg" group-title="24H | Acción",24H | Los Indestructibles
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445120.m3u8
+#EXTINF:-1 tvg-id="33db16f2-0478-4982-a417-d484acc9b8de" tvg-name="24H | Rambo" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGIDYYOX7Cj1o7W8JiwHd3TzJVw.jpg" group-title="24H | Acción",24H | Rambo
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445859.m3u8
+#EXTINF:-1 tvg-id="c51e93ad-6190-41e9-90d4-7003679d7fd9" tvg-name="24H | Jason Bourne" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3r0UB8ooCKEMqOSoQmrTMWZT0C2.jpg" group-title="24H | Acción",24H | Jason Bourne
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445858.m3u8
 #EXTINF:-1 group-title="Canales PlutoTv",Pluto Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV ANIME
