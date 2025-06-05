@@ -1,0 +1,262 @@
+#EXTM3U
+
+#EXTINF:-1,WOU TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1,CANAL UNO
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1,CARACOL TV
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/275496.m3u8
+
+#EXTINF:-1,RCN TV
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/417.m3u8
+
+#EXTINF:-1,RCN NOVELAS
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/418.ts
+
+#EXTINF:-1,SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,TELEPACIFICO
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+#EXTINF:-1,NOTICIERO 90 MINUTOS
+https://cdns.livewave.co:19360/90minutoslive/90minutoslive.m3u8
+
+#EXTINF:-1,WIN SPORT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1265.m3u8
+
+#EXTINF:-1,WIN SPORT+ FHD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/252516.m3u8
+
+#EXTINF:-1,WIN SPORT+ HQ
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/346734.m3u8
+
+#EXTINF:-1,DTV SPORT+
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/259251.ts
+
+#EXTINF:-1,ESPN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/301441.m3u8
+
+#EXTINF:-1,ESPN 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/262312.ts
+
+#EXTINF:-1,FOX SPORT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289412.m3u8
+
+#EXTINF:-1,FOX SPORT 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/48.m3u8
+
+#EXTINF:-1,TUDN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/320881.m3u8
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/54.m3u8
+
+#EXTINF:-1,AXN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/263277.m3u8
+
+#EXTINF:-1,AMC
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/37.m3u8
+
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/232337.m3u8
+
+#EXTINF:-1,SONY CINE
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289416.m3u8
+
+#EXTINF:-1,PELÍCULAS 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/443972.m3u8
+
+#EXTINF:-1,DRAGON BALL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/443883.m3u8
+
+#EXTINF:-1,E! INTERNACIONAL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289421.m3u8
+
+#EXTINF:-1,LIFETIME
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260551.m3u
+
+#EXTINF:-1,TCM
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260540.m3u
+
+#EXTINF:-1,TELECAFE
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/422.ts
+
+#EXTINF:-1,TELEMEDELLIN
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/424.ts
+
+#EXTINF:-1,UNICABLE
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289426.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/43.m3u8
+
+#EXTINF:-1,HISTORY
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289420.m3u8
+
+#EXTINF:-1,HISTORY 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1512.m3u8
+
+#EXTINF:-1,DISCOVERY ID
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260589.m3u
+
+#EXTINF:-1,DISCOVERY SCIENCE
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260574.m3u
+
+#EXTINF:-1,DISCOVERY HH
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260588.m3u
+
+#EXTINF:-1,DISCOVERY TURBO
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/44.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/42.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260571.m3u
+
+#EXTINF:-1,NATGEO
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289422.m3u8
+
+#EXTINF:-1,FOOD NETWORK
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/46.m3u8
+
+#EXTINF:-1,BABY TV
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1202.m3u8
+
+#EXTINF:-1,MUELIN Y PERLITA 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444949.m3u8
+
+#EXTINF:-1,MINIMALITOS 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445307.m3u8
+
+#EXTINF:-1,PAW PATROL 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444521.m3u8
+
+#EXTINF:-1,POCOYO 24H
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/444759.m3u8
+
+#EXTINF:-1,REINO INFANTIL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445308.m3u8
+
+#EXTINF:-1,RICK Y MORTY
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445127.m3u8
+
+#EXTINF:-1,PLIM PLIM
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/445032.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/263286.m3u8
+
+#EXTINF:-1,BITME
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/53.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289418.m3u8
+
+#EXTINF:-1,DISNEY CHANNEL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260590.m3u
+
+#EXTINF:-1,DISNEY JR
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260591.m3u
+
+#EXTINF:-1,NICK JR
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/238049.m3u8
+
+#EXTINF:-1,NICKELODEON
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260603.m3u
+
+#EXTINF:-1,TOONCAST
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260537.m3u
+
+#EXTINF:-1,CINEMAX
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/55.m3u8
+
+#EXTINF:-1,SART CHANNEL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260530.m3u
+
+#EXTINF:-1,GOLDEN PREMIER
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260559.m3u
+
+#EXTINF:-1,GOLDEN EDGE
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/36.m3u8
+
+#EXTINF:-1,HBO
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1472.m3u8
+
+#EXTINF:-1,HBO 2
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1473.m3u8
+
+#EXTINF:-1,HBO XTREME
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1463.m3u8
+
+#EXTINF:-1,HBO MUNDI
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260529.m3u
+
+#EXTINF:-1,HBO+
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260556.m3u
+
+#EXTINF:-1,HBO FAMILY
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260554.m3u8
+
+#EXTINF:-1,A&E
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/289425.m3u8
+
+#EXTINF:-1,CINEMA LATINO
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/1407.m3u8
+
+#EXTINF:-1,PARAMOUNT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260543.m3u
+
+#EXTINF:-1,TNT
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/35.m3u8
+
+#EXTINF:-1,TNT SERIES
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260538.m3u8
+
+#EXTINF:-1,SPACE
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/45.m3u8
+
+#EXTINF:-1,STUDIO UNIVERSAL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/39.m3u8
+
+#EXTINF:-1,UNIVERSAL REALITY
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260608.m3u
+
+#EXTINF:-1,UNIVERSAL
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260609.m3u
+
+#EXTINF:-1,WARNER
+http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/260522.m3u
+
+#EXTINF:-1,KANAL D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1,PLUTO TV ANIME
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PLUTO TV TELENOVELAS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,PLUTO TV CINE COMEDIA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PLUTO TV TERROR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PLUTO TV DEPORTES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PLUTO TV NOVELAS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PLUTO TV JUNIOR
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PLUTO TV MISTERIOS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PLUTO TV ANIMALES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
