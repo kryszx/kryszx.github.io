@@ -821,13 +821,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Canales PlutoTv",PLUTO TV ANIMALES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Sala" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Sala
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Loft" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title=""Casa De Los Famosos,CO | Casa de los Famosos Loft
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Baños" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Baños
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Comedor" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Comedor
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CO | Casa de los Famosos Habitacion" tvg-logo="https://laopinion.com/wp-content/uploads/sites/3/2021/07/lacasadelosfamosos-telemundo-logo.jpg?w=2600" group-title="Casa De Los Famosos",CO | Casa de los Famosos Habitacion
-http://pirostv.lat:8080/live/9z3yuhaw5d/abmxqfamsk/438115.m3u8
