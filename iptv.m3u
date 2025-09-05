@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 xui-id="570154" tvg-id="" tvg-name="TV AGRO" tvg-logo="http://www.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="COLOMBIA",TV AGRO
 http://red4tv.lat:80/play/xt7mQvHo9Juo8v0V-B6I91VVp4AdwSKP8i5ISc_ASGw-zE8fxkNp4YeEu_qfNiY4
 #EXTINF:-1 xui-id="570153" tvg-id="" tvg-name="TV AGRO" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPdpHlz24X_PuWinMz9DOvifPdimlTRY7TWTPJpIxKP1i.png" group-title="COLOMBIA",TV AGRO
@@ -146,3 +147,4 @@ http://red4tv.lat:80/play/xt7mQvHo9Juo8v0V-B6I9z-YwyIHolyAxtSv31RkwhvJ2QaDf2y2wz
 http://red4tv.lat:80/play/xt7mQvHo9Juo8v0V-B6I9z-YwyIHolyAxtSv31Rkwhs2yWHwxaQqsGHnRrK7fgWX
 #EXTINF:-1 xui-id="569966" tvg-id="" tvg-name="Cable Noticias HD" tvg-logo="https://www.inci.gov.co/sites/default/files/styles/imagen_internas_1110x624_/public/nota-5_1.jpg?itok=TWT7X7qX" group-title="COLOMBIA",Cable Noticias HD
 http://red4tv.lat:80/play/xt7mQvHo9Juo8v0V-B6I995gfABSt1ekCF7rcLRIq99a7q0sSOotuLmPD0-cpWZH
+
