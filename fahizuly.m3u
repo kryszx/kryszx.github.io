@@ -1,3 +1,163 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SERVICIO VENCIDO"
-https://firebasestorage.googleapis.com/v0/b/pagina-web-a1c3c.appspot.com/o/Video%20Factura%2FServicio%20Caducado.mp4?alt=media&token=a7109cae-ed7d-4657-9c32-e64dc14e2225
+#EXTINF:-1 tvg-id="570022" tvg-name="CARACOL Opc. 1" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMlSV-QHj5G4k47f9jAyPPl-T0FDO9bMahIRdisXeiuZrsibksiYHGRRBMkJd4ricEyzud1kr44JsTcsu6tAYYg.png" group-title="COLOMBIA",CARACOL Opc. 1
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAIBEGDfjXfmO0RNbvlHNbQrAQxBblXtIzw1lJsycJ3Y
+#EXTINF:-1 tvg-id="570091" tvg-name="RCN HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6loc-H6FQ8aZAabwFqnZL3EyB
+#EXTINF:-1 tvg-id="576204" tvg-name="Win Sports Op1" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op1
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1szAGr83vI2_4nqccpRF2A1
+#EXTINF:-1 tvg-id="576203" tvg-name="Win Sports Op2" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op2
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sA1_yd85-iqWqm1BZG5s--
+#EXTINF:-1 tvg-id="570164" tvg-name="Win Sports Op3" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op3
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHlddvNCe6BuWZoVu1lPwa-NWzlVVQ2_NPhDJ1p-vCOb
+#EXTINF:-1 tvg-id="570053" tvg-name="Win Sports Op4" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES PREMIUM",Win Sports Op4
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLqbg9_aeOsvkhm-yQbwQhX10H072khW4dT3TIjfbXfs
+#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sCWLTp-umhZczmJL172n3T
+#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sCWLTp-umhZczmJL172n3T
+#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sCWLTp-umhZczmJL172n3T
+#EXTINF:-1 tvg-id="570154" tvg-name="TV AGRO" tvg-logo="http://www.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="COLOMBIA",TV AGRO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPeTqrvqcXh4CZl1IWXmCUfMFczE0LLe7TPjZ5Znwp2f
+#EXTINF:-1 tvg-id="570154" tvg-name="TV AGRO" tvg-logo="http://www.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="COLOMBIA",TV AGRO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPeTqrvqcXh4CZl1IWXmCUfMFczE0LLe7TPjZ5Znwp2f
+#EXTINF:-1 tvg-id="570151" tvg-name="Tevex (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16F0mUzXGsQSpX4jml22w4mIX_WwxQPZtablyhQC2Fan.png" group-title="COLOMBIA",Tevex (STAR +) [STAR +]
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPeTqrvqcXh4CZl1IWXmCUcmh6nN_HImxUINvt1PDmIR
+#EXTINF:-1 tvg-id="570149" tvg-name="TELEPACI­FICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA",TELEPACI­FICO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wBcoEW1wVhU-xIWOxRAKCdU
+#EXTINF:-1 tvg-id="570148" tvg-name="TelePacifico HQ" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZWmIT5WmtRvbn46283Ax1MYUf4woikW-L341_pP9_vZ.png" group-title="COLOMBIA",TelePacifico HQ
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wBBD1IrVVZp20n9Qc_7o1R1
+#EXTINF:-1 tvg-id="570143" tvg-name="Telemedellin HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPUlF6mWZWxbIf8eMQMDIf_OJIAFDBsOiqHmgT-dvXRDH.png" group-title="COLOMBIA",Telemedellin HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wDJUCbPQUw2Gvw9kVZ63eaN
+#EXTINF:-1 tvg-id="570140" tvg-name="Telemedellin" tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" group-title="COLOMBIA",Telemedellin
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wDcAzdahpYSl5m26lvbCkc-
+#EXTINF:-1 tvg-id="570140" tvg-name="Telemedellin" tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" group-title="COLOMBIA",Telemedellin
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wDcAzdahpYSl5m26lvbCkc-
+#EXTINF:-1 tvg-id="570136" tvg-name="Teleislas" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16C_Fjbd-D86SqKipFAciBk3kurysO7mAjcXt9QvycQ1.png" group-title="COLOMBIA",Teleislas
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIscfl3hhEflDahL5Ele_dgNiNkp7TpmMyEwRpOYQmp4
+#EXTINF:-1 tvg-id="570135" tvg-name="Telecaribe Plus" tvg-logo="https://i.imgur.com/K41EADh.png" group-title="COLOMBIA",Telecaribe Plus
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIscfl3hhEflDahL5Ele_djls6BAQMplVM_HuGeNnpYd
+#EXTINF:-1 tvg-id="570131" tvg-name="Telecaribe" tvg-logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg" group-title="COLOMBIA",Telecaribe
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIscfl3hhEflDahL5Ele_dhvv6XEJ1U3hh4EqN9F7aV_
+#EXTINF:-1 tvg-id="570125" tvg-name="TELECAFE HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JOFluN-Kgbyii9mfPwTowP0KFW0m6LcrMKMyrJJ9ghes.png" group-title="COLOMBIA",TELECAFE HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHWQqxJ0yXysXL0P6NiRPBjetseMAwcOHQvdpdK45mCZ
+#EXTINF:-1 tvg-id="570123" tvg-name="Telecafe" tvg-logo="https://cdn.m3u.cl/logo/131_Telecafe.png" group-title="COLOMBIA",Telecafe
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHWQqxJ0yXysXL0P6NiRPBgusUFQse1LLTT9acQKT8Rx
+#EXTINF:-1 tvg-id="570122" tvg-name="TeleAntioquia HQ" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPb9Kg7n9mI0rErT9co5btyBgmUOt8439oMHSXpaoTZ3-.png" group-title="COLOMBIA",TeleAntioquia HQ
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHWQqxJ0yXysXL0P6NiRPBifMkc7yZj0ySu_KBpt1ZBq
+#EXTINF:-1 tvg-id="570118" tvg-name="Teleantioquia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-L37dYVb9R9mWoURIGgwa1ENpFg6A_IqIEw&s" group-title="COLOMBIA",Teleantioquia
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-0iRB8hFn1uNVh2mNV2GBSD
+#EXTINF:-1 tvg-id="570117" tvg-name="Tele Islas | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16C_Fjbd-D86SqKipFAciBk3kurysO7mAjcXt9QvycQ1.png" group-title="COLOMBIA",Tele Islas | CO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-3e3b7VQaAjNS47kT5YXOW7
+#EXTINF:-1 tvg-id="570116" tvg-name="Tele Familia" tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" group-title="COLOMBIA",Tele Familia
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-1-rKC8qm5BmVLVonxpqZJX
+#EXTINF:-1 tvg-id="570115" tvg-name="Suram | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE19UCfesJy9_OSpNJtRxo2SiVN26CCCSYHKy_92sbtyRN.png" group-title="COLOMBIA",Suram | CO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-2HWpEzNdIeZEXR6YRL3DvJ
+#EXTINF:-1 tvg-id="570113" tvg-name="Señal Colombia | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xGM2RrxGmVs6OLAeCoBnyT_7muayLh1ZoEjRdu8qC3J.png" group-title="COLOMBIA",Señal Colombia | CO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-2MfAzyFmHlN4mmyDBrUIjc
+#EXTINF:-1 tvg-id="570111" tvg-name="Señal Colombia FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052014/untitled-1_56.png" group-title="COLOMBIA",Señal Colombia FHD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-2fOwkUz3vYvyXKdJ8M4lEw
+#EXTINF:-1 tvg-id="570107" tvg-name="SENAL COLOMBIA" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJXpVJiXpjD_lnn5ne-kfGSeWY8rwr2AjwHjR3IZC1X.png" group-title="COLOMBIA",SENAL COLOMBIA
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJajwrXr0YbyFeWQOl-77rfoj
+#EXTINF:-1 tvg-id="570106" tvg-name="RCN Nuestra Tele" tvg-logo="https://cdn.mitvstatic.com/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg" group-title="COLOMBIA",RCN Nuestra Tele
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJajTMxZfyFmz7W6lpgUI7Q2C
+#EXTINF:-1 tvg-id="570104" tvg-name="RCN Novelas HD" tvg-logo="http://icomplay.net:80/images/jGn1sf9_Hs40MTismpozK3g37CzPgSh2z8T2UB8HHI-dLp65Edv7zERDE5fyHwBVOz5J5tI4uITc_oHU-Lbsct20_GK9QskzabwFREG1Y2jd_nsxELhJNkwpKvCX-5c-tG5qxzeIIteDjDLr1uXb1w.png" group-title="COLOMBIA",RCN Novelas HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJaj-FxBbdAa8FLbCwsiQbMfK
+#EXTINF:-1 tvg-id="570101" tvg-name="RCN Novelas" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPW4d4h3y_NaBPqVzLVxZ6l73j4A_w54gFOLcrVl5KMAX.png" group-title="COLOMBIA",RCN Novelas
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJahGQT9Ohb7bS_00iLbxVgoP
+#EXTINF:-1 tvg-id="570100" tvg-name="RCN NACIONAL HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN NACIONAL HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJagMF0jgdQ9Pep085fXMphvH
+#EXTINF:-1 tvg-id="570098" tvg-name="RCN Más" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb0DibNSPq7DLC5pDOvLurWM.png" group-title="COLOMBIA",RCN Más
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6locsgn5asKp4hdvF-KnVaHzB
+#EXTINF:-1 tvg-id="570097" tvg-name="RCN MAS OPC2" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb0DibNSPq7DLC5pDOvLurWM.png" group-title="COLOMBIA",RCN MAS OPC2
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6locMkKpIPHh-XXaFGydlQ_QC
+#EXTINF:-1 tvg-id="570095" tvg-name="RCN Internacional HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV4wk0pMvYrcu4EsigwZkWLpUgXMdZyyRG2UfLsLCKFb.png" group-title="COLOMBIA",RCN Internacional HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6lochlJ-5IS5VKR4Lsqm55w_4
+#EXTINF:-1 tvg-id="570094" tvg-name="RCN INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/NuestraTele2018.png/revision/latest/scale-to-width-down/300?cb=20210307132730&path-prefix=es" group-title="COLOMBIA",RCN INTERNACIONAL
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6loe7JIf3knFEHN6eSiH4l94G
+#EXTINF:-1 tvg-id="570091" tvg-name="RCN HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6loc-H6FQ8aZAabwFqnZL3EyB
+#EXTINF:-1 tvg-id="570089" tvg-name="RCN FHD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN FHD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPL37zOJBpsQsN0zlFtj-qK9A5nv17p4OM2EmjzAAItcX
+#EXTINF:-1 tvg-id="570080" tvg-name="Pasiones HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPWSuD9YMTr_3tZDlno3_Qi6J37J1Z2-bqAH9Bn2S7DeA.png" group-title="COLOMBIA",Pasiones HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPL37zOJBpsQsN0zlFtj-qK-hWjRjq6xY_NjnyQeu6v42
+#EXTINF:-1 tvg-id="570079" tvg-name="Pasiones" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPWSuD9YMTr_3tZDlno3_Qi6J37J1Z2-bqAH9Bn2S7DeA.png" group-title="COLOMBIA",Pasiones
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLYunJ8i8Q1OK4DmDknTZ08J
+#EXTINF:-1 tvg-id="570077" tvg-name="Nuevo Tiempo (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1wSmEkUzFiZFtK2EUseAf-GyW-yAq0y3uDROLEru1Kwj.png" group-title="COLOMBIA",Nuevo Tiempo (STAR +) [STAR +]
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLYQ_PBUlgryoMmJYvfZHvJx
+#EXTINF:-1 tvg-id="570075" tvg-name="NTN24" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZ7ajn5pP7zF0OOAvBDeE1B2UTOx9fF4GoRN-K_N0Hw9.png" group-title="COLOMBIA",NTN24
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLbLjB4RydSuCInWrh27LzFS
+#EXTINF:-1 tvg-id="570074" tvg-name="NTN 24 (HD) »1«" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JIDSuX4XXdsVm9L2cK6WBqcu-Usl4KWMbdS8d518uaPp.png" group-title="COLOMBIA",NTN 24 (HD) »1«
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLZFvau4o_nOoQhvBVLBn_Ob
+#EXTINF:-1 tvg-id="570073" tvg-name="Más TV (STAR +)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE11mEAh3iydbV0AUWX3BbF6IpYLuIGFoccWNWRa9lrAf5.png" group-title="COLOMBIA",Más TV (STAR +)
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLa_rIH3iNEUDjN4PZIKn_fp
+#EXTINF:-1 tvg-id="570072" tvg-name="MovieFe (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE12B8bAAvG7t24KP7pGpWUdy3ta8LMmGvdLPAWu1f_TMS.png" group-title="COLOMBIA",MovieFe (STAR +) [STAR +]
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLYTB_dW2msUTXL5gvehWShM
+#EXTINF:-1 tvg-id="570069" tvg-name="LA KALLE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zW2nKbbWIvXvlZtZencYwQnsMP8oIgEgLA&s" group-title="COLOMBIA",LA KALLE HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHZouQ85_TB4Ryc5C4xxZWfNRv1yb3ey1NbqGept47zQ
+#EXTINF:-1 tvg-id="570068" tvg-name="LA KALLE COLOMBIA" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JKvMGovBEtAUnP1-S4U5XDAGrH0ZaIzNE4taOM8iopjF.png" group-title="COLOMBIA",LA KALLE COLOMBIA
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHZouQ85_TB4Ryc5C4xxZWf25fpXNwhF6LB2_VRE9hXB
+#EXTINF:-1 tvg-id="570066" tvg-name="HOLA TV HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JPnOCyom6C_ehiBItGXtzTUNpqxk3ZU-2JO4ayt9xqbm.png" group-title="COLOMBIA",HOLA TV HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHZouQ85_TB4Ryc5C4xxZWcASNWrDrvInnVdvbbs4Coo
+#EXTINF:-1 tvg-id="570058" tvg-name="EL GOURMET HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JEs5nEYp3x_a3vRsreukrFsTVyvCdeOZy3S63SQPCxZ8.png" group-title="COLOMBIA",EL GOURMET HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLqbg9_aeOsvkhm-yQbwQhV49aaWFnbS1EY-2fPo0rZX
+#EXTINF:-1 tvg-id="570050" tvg-name="Cosmovisión" tvg-logo="http://www.tmsimg.com/assets/s65269_ll_h3_aa.png" group-title="COLOMBIA",Cosmovisión
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLqbg9_aeOsvkhm-yQbwQhVumCIkNuUc9gg773rt62VN
+#EXTINF:-1 tvg-id="570047" tvg-name="CNC Medellín (STAR +)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE15GxCIieMZneY_z4koHZQin3eqLECwh_abnGGiXPkfUj8ZtQlYv8m8eWKsFzio2gxQ.png" group-title="COLOMBIA",CNC Medellín (STAR +)
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOfV1CAqt-YRlI6xMT_uc8UK
+#EXTINF:-1 tvg-id="570046" tvg-name="CNC Medellin" tvg-logo="https://i.imgur.com/5R0EoAB.png" group-title="COLOMBIA",CNC Medellin
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOeWdZ_Z7znywaY5lPrvJnD5
+#EXTINF:-1 tvg-id="570044" tvg-name="CITY TV HD+*+" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JDp9WeE8NVHPtVeRwHNS-_LbXbphF9lsBFApnTiD3UtK.png" group-title="COLOMBIA",CITY TV HD+*+
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOfX0rLstby3TMzHpEAoktmv
+#EXTINF:-1 tvg-id="570043" tvg-name="City TV HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV0yIMKlxU4splwECV3BkHfPlemZ3xr7_wIsm0p4zGrS.png" group-title="COLOMBIA",City TV HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOeR7sdBL9QAMqUxMgkfH6RK
+#EXTINF:-1 tvg-id="570039" tvg-name="CITY TV" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV0yIMKlxU4splwECV3BkHfPlemZ3xr7_wIsm0p4zGrS.png" group-title="COLOMBIA",CITY TV
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eTsWf6DwjU7Asfnfcph7qVm
+#EXTINF:-1 tvg-id="570035" tvg-name="CARACOL NOTICIAS" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZ4sSYggz5t5hLR9_UuxVKwvSGFjkBXvpyby9HMV2b2Z.png" group-title="COLOMBIA",CARACOL NOTICIAS
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eR0TZDhHEm3h4s1ABxQO3_6
+#EXTINF:-1 tvg-id="570033" tvg-name="CARACOL INTERNACIONAL OPC3" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC3
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eT-Pyv0KebtZHZFrcD7a1Cj
+#EXTINF:-1 tvg-id="570030" tvg-name="CARACOL INTERNACIONAL OPC2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC2
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eS_AoS0x5vOhyW2rnd7heWX
+#EXTINF:-1 tvg-id="570026" tvg-name="CARACOL INTERNACIONAL OPC1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC1
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAIBEGDfjXfmO0RNbvlHNbQT4ZwbyDVpnHWmIeNeqkKz
+#EXTINF:-1 tvg-id="570022" tvg-name="CARACOL Opc. 1" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMlSV-QHj5G4k47f9jAyPPl-T0FDO9bMahIRdisXeiuZrsibksiYHGRRBMkJd4ricEyzud1kr44JsTcsu6tAYYg.png" group-title="COLOMBIA",CARACOL Opc. 1
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAIBEGDfjXfmO0RNbvlHNbQrAQxBblXtIzw1lJsycJ3Y
+#EXTINF:-1 tvg-id="570010" tvg-name="CARACOL OPC2" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMlSV-QHj5G4k47f9jAyPPl-T0FDO9bMahIRdisXeiuZrsibksiYHGRRBMkJd4ricEyzud1kr44JsTcsu6tAYYg.png" group-title="COLOMBIA",CARACOL OPC2
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPJFsW72Hxht-EfyfNjstB8icLjWJxcN0H1slIRF15uSV
+#EXTINF:-1 tvg-id="570007" tvg-name="Canal Visión Dorada | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18uj1PMBV25itU6jaNIxuFBbIeG5WDRJpkz1jVEu46U1.png" group-title="COLOMBIA",Canal Visión Dorada | CO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAiDp9beNfhTcl2Rt8OPv9E2LzlUOZIpbDgv9vzJ_o3Z
+#EXTINF:-1 tvg-id="570006" tvg-name="Canal Visión Dorada (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18uj1PMBV25itU6jaNIxuFBbIeG5WDRJpkz1jVEu46U1.png" group-title="COLOMBIA",Canal Visión Dorada (STAR +) [STAR +]
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAiDp9beNfhTcl2Rt8OPv9H2q1Al3EzFqVRBLIZdkEfu
+#EXTINF:-1 tvg-id="569999" tvg-name="CANAL UNO" tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-uno-hd-colombia-en-vivo-1.png?fit=1280,720&ssl=1" group-title="COLOMBIA",CANAL UNO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZW40yTrsFFJ8SE8QMbQtPY
+#EXTINF:-1 tvg-id="569999" tvg-name="CANAL UNO" tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-uno-hd-colombia-en-vivo-1.png?fit=1280,720&ssl=1" group-title="COLOMBIA",CANAL UNO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZW40yTrsFFJ8SE8QMbQtPY
+#EXTINF:-1 tvg-id="569997" tvg-name="CANAL TRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COLOMBIA",CANAL TRO HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeYJZzMTnST4lHoJ55fHRhos
+#EXTINF:-1 tvg-id="569995" tvg-name="Canal TRO" tvg-logo="http://www.tmsimg.com/assets/s55912_h3_aa.png" group-title="COLOMBIA",Canal TRO
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZzUT1ni_mQNm9zN3y_H2sm
+#EXTINF:-1 tvg-id="569993" tvg-name="Canal Trece" tvg-logo="https://cdn.m3u.cl/logo/119_Canal_Trece.png" group-title="COLOMBIA",Canal Trece
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZZdKRFOztNH94rWm6gyY-J
+#EXTINF:-1 tvg-id="569992" tvg-name="Canal Telefamilia (360p) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1-B7at1_fldZBwUUkcRCQx-I2HWeyhBAOtDCblxZ21gl.png" group-title="COLOMBIA",Canal Telefamilia (360p) [STAR +]
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWebizyTc8fE0OYP9X0XyvpG-
+#EXTINF:-1 tvg-id="569990" tvg-name="CANAL INSTITUCIONAL HD" tvg-logo="https://i.imgur.com/cIrxc91.png" group-title="COLOMBIA",CANAL INSTITUCIONAL HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWebN4KUt0HYkTo0yyY0dhWvM
+#EXTINF:-1 tvg-id="569988" tvg-name="Canal Institucional" tvg-logo="https://i.imgur.com/cIrxc91.png" group-title="COLOMBIA",Canal Institucional
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDhLDs5fEf92AhsUvgXMQtV9POt7Sj8UqTp_MzFA7FEl
+#EXTINF:-1 tvg-id="569985" tvg-name="Canal CNC Medellin" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPa9SQfYQRYkJQfgOvjZEcO1iXWRUmLB6BJedgmI80up-.png" group-title="COLOMBIA",Canal CNC Medellin
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDhLDs5fEf92AhsUvgXMQtXjInHllex05wd7CdjrMbrv
+#EXTINF:-1 tvg-id="569984" tvg-name="Canal Capital HD" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj__5Ydp94mWLlAGY5L_bpNgyZVIkIDs39ZCZw-0CDJR74w7dLlebwIULcS38O2876Duc_eMWzvlKwqm6dB-ybjewhtQpgcYZm8JBqFAdTjQg.png" group-title="COLOMBIA",Canal Capital HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDhLDs5fEf92AhsUvgXMQtUtW8uBhoKE9hLBM16Gx0iW
+#EXTINF:-1 tvg-id="569979" tvg-name="CANAL CALI" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png" group-title="COLOMBIA",CANAL CALI
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU5ANgfc4pg7wLBzoRc-H76v
+#EXTINF:-1 tvg-id="569978" tvg-name="CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="COLOMBIA",CANAL 2 CALI
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU7k_d1gs-mVsVY05ihU3LNx
+#EXTINF:-1 tvg-id="569975" tvg-name="Cali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="COLOMBIA",Cali TV
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU5R2H1r33PprGU7lGsGR4ut
+#EXTINF:-1 tvg-id="569971" tvg-name="CALI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="COLOMBIA",CALI TV
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU4xS7VqbQGdAQBehWxSxWrG
+#EXTINF:-1 tvg-id="569966" tvg-name="Cable Noticias HD" tvg-logo="https://www.inci.gov.co/sites/default/files/styles/imagen_internas_1110x624_/public/nota-5_1.jpg?itok=TWT7X7qX" group-title="COLOMBIA",Cable Noticias HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIqPaTdNEjOxE4txDIlQ9JJUA7BPUE0FRyWX9yr2j3mj
+#EXTINF:-1 tvg-id="569965" tvg-name="CABLE NOTICIAS HD" tvg-logo="https://www.inci.gov.co/sites/default/files/styles/imagen_internas_1110x624_/public/nota-5_1.jpg?itok=TWT7X7qX" group-title="NOTICIAS",CABLE NOTICIAS HD
+http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIqPaTdNEjOxE4txDIlQ9JL4jT90bYSwdMBtD-YNbZ5f
