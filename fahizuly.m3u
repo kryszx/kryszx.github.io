@@ -1,163 +1,1007 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="570022" tvg-name="CARACOL Opc. 1" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMlSV-QHj5G4k47f9jAyPPl-T0FDO9bMahIRdisXeiuZrsibksiYHGRRBMkJd4ricEyzud1kr44JsTcsu6tAYYg.png" group-title="COLOMBIA",CARACOL Opc. 1
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAIBEGDfjXfmO0RNbvlHNbQrAQxBblXtIzw1lJsycJ3Y
-#EXTINF:-1 tvg-id="570091" tvg-name="RCN HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6loc-H6FQ8aZAabwFqnZL3EyB
-#EXTINF:-1 tvg-id="576204" tvg-name="Win Sports Op1" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op1
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1szAGr83vI2_4nqccpRF2A1
-#EXTINF:-1 tvg-id="576203" tvg-name="Win Sports Op2" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op2
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sA1_yd85-iqWqm1BZG5s--
-#EXTINF:-1 tvg-id="570164" tvg-name="Win Sports Op3" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op3
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHlddvNCe6BuWZoVu1lPwa-NWzlVVQ2_NPhDJ1p-vCOb
-#EXTINF:-1 tvg-id="570053" tvg-name="Win Sports Op4" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES PREMIUM",Win Sports Op4
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLqbg9_aeOsvkhm-yQbwQhX10H072khW4dT3TIjfbXfs
-#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sCWLTp-umhZczmJL172n3T
-#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sCWLTp-umhZczmJL172n3T
-#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPMRLve2eaQTC0OQ-x2jC1sCWLTp-umhZczmJL172n3T
-#EXTINF:-1 tvg-id="570154" tvg-name="TV AGRO" tvg-logo="http://www.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="COLOMBIA",TV AGRO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPeTqrvqcXh4CZl1IWXmCUfMFczE0LLe7TPjZ5Znwp2f
-#EXTINF:-1 tvg-id="570154" tvg-name="TV AGRO" tvg-logo="http://www.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="COLOMBIA",TV AGRO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPeTqrvqcXh4CZl1IWXmCUfMFczE0LLe7TPjZ5Znwp2f
-#EXTINF:-1 tvg-id="570151" tvg-name="Tevex (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16F0mUzXGsQSpX4jml22w4mIX_WwxQPZtablyhQC2Fan.png" group-title="COLOMBIA",Tevex (STAR +) [STAR +]
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPPeTqrvqcXh4CZl1IWXmCUcmh6nN_HImxUINvt1PDmIR
-#EXTINF:-1 tvg-id="570149" tvg-name="TELEPACI­FICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA",TELEPACI­FICO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wBcoEW1wVhU-xIWOxRAKCdU
-#EXTINF:-1 tvg-id="570148" tvg-name="TelePacifico HQ" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZWmIT5WmtRvbn46283Ax1MYUf4woikW-L341_pP9_vZ.png" group-title="COLOMBIA",TelePacifico HQ
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wBBD1IrVVZp20n9Qc_7o1R1
-#EXTINF:-1 tvg-id="570143" tvg-name="Telemedellin HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPUlF6mWZWxbIf8eMQMDIf_OJIAFDBsOiqHmgT-dvXRDH.png" group-title="COLOMBIA",Telemedellin HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wDJUCbPQUw2Gvw9kVZ63eaN
-#EXTINF:-1 tvg-id="570140" tvg-name="Telemedellin" tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" group-title="COLOMBIA",Telemedellin
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wDcAzdahpYSl5m26lvbCkc-
-#EXTINF:-1 tvg-id="570140" tvg-name="Telemedellin" tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" group-title="COLOMBIA",Telemedellin
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLAo4-9ohkplqfnNWCOu3wDcAzdahpYSl5m26lvbCkc-
-#EXTINF:-1 tvg-id="570136" tvg-name="Teleislas" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16C_Fjbd-D86SqKipFAciBk3kurysO7mAjcXt9QvycQ1.png" group-title="COLOMBIA",Teleislas
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIscfl3hhEflDahL5Ele_dgNiNkp7TpmMyEwRpOYQmp4
-#EXTINF:-1 tvg-id="570135" tvg-name="Telecaribe Plus" tvg-logo="https://i.imgur.com/K41EADh.png" group-title="COLOMBIA",Telecaribe Plus
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIscfl3hhEflDahL5Ele_djls6BAQMplVM_HuGeNnpYd
-#EXTINF:-1 tvg-id="570131" tvg-name="Telecaribe" tvg-logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg" group-title="COLOMBIA",Telecaribe
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIscfl3hhEflDahL5Ele_dhvv6XEJ1U3hh4EqN9F7aV_
-#EXTINF:-1 tvg-id="570125" tvg-name="TELECAFE HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JOFluN-Kgbyii9mfPwTowP0KFW0m6LcrMKMyrJJ9ghes.png" group-title="COLOMBIA",TELECAFE HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHWQqxJ0yXysXL0P6NiRPBjetseMAwcOHQvdpdK45mCZ
-#EXTINF:-1 tvg-id="570123" tvg-name="Telecafe" tvg-logo="https://cdn.m3u.cl/logo/131_Telecafe.png" group-title="COLOMBIA",Telecafe
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHWQqxJ0yXysXL0P6NiRPBgusUFQse1LLTT9acQKT8Rx
-#EXTINF:-1 tvg-id="570122" tvg-name="TeleAntioquia HQ" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPb9Kg7n9mI0rErT9co5btyBgmUOt8439oMHSXpaoTZ3-.png" group-title="COLOMBIA",TeleAntioquia HQ
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHWQqxJ0yXysXL0P6NiRPBifMkc7yZj0ySu_KBpt1ZBq
-#EXTINF:-1 tvg-id="570118" tvg-name="Teleantioquia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-L37dYVb9R9mWoURIGgwa1ENpFg6A_IqIEw&s" group-title="COLOMBIA",Teleantioquia
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-0iRB8hFn1uNVh2mNV2GBSD
-#EXTINF:-1 tvg-id="570117" tvg-name="Tele Islas | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16C_Fjbd-D86SqKipFAciBk3kurysO7mAjcXt9QvycQ1.png" group-title="COLOMBIA",Tele Islas | CO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-3e3b7VQaAjNS47kT5YXOW7
-#EXTINF:-1 tvg-id="570116" tvg-name="Tele Familia" tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" group-title="COLOMBIA",Tele Familia
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-1-rKC8qm5BmVLVonxpqZJX
-#EXTINF:-1 tvg-id="570115" tvg-name="Suram | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE19UCfesJy9_OSpNJtRxo2SiVN26CCCSYHKy_92sbtyRN.png" group-title="COLOMBIA",Suram | CO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-2HWpEzNdIeZEXR6YRL3DvJ
-#EXTINF:-1 tvg-id="570113" tvg-name="Señal Colombia | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xGM2RrxGmVs6OLAeCoBnyT_7muayLh1ZoEjRdu8qC3J.png" group-title="COLOMBIA",Señal Colombia | CO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-2MfAzyFmHlN4mmyDBrUIjc
-#EXTINF:-1 tvg-id="570111" tvg-name="Señal Colombia FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052014/untitled-1_56.png" group-title="COLOMBIA",Señal Colombia FHD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPOPK-m6E3K_H0T18kub05-2fOwkUz3vYvyXKdJ8M4lEw
-#EXTINF:-1 tvg-id="570107" tvg-name="SENAL COLOMBIA" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJXpVJiXpjD_lnn5ne-kfGSeWY8rwr2AjwHjR3IZC1X.png" group-title="COLOMBIA",SENAL COLOMBIA
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJajwrXr0YbyFeWQOl-77rfoj
-#EXTINF:-1 tvg-id="570106" tvg-name="RCN Nuestra Tele" tvg-logo="https://cdn.mitvstatic.com/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg" group-title="COLOMBIA",RCN Nuestra Tele
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJajTMxZfyFmz7W6lpgUI7Q2C
-#EXTINF:-1 tvg-id="570104" tvg-name="RCN Novelas HD" tvg-logo="http://icomplay.net:80/images/jGn1sf9_Hs40MTismpozK3g37CzPgSh2z8T2UB8HHI-dLp65Edv7zERDE5fyHwBVOz5J5tI4uITc_oHU-Lbsct20_GK9QskzabwFREG1Y2jd_nsxELhJNkwpKvCX-5c-tG5qxzeIIteDjDLr1uXb1w.png" group-title="COLOMBIA",RCN Novelas HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJaj-FxBbdAa8FLbCwsiQbMfK
-#EXTINF:-1 tvg-id="570101" tvg-name="RCN Novelas" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPW4d4h3y_NaBPqVzLVxZ6l73j4A_w54gFOLcrVl5KMAX.png" group-title="COLOMBIA",RCN Novelas
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJahGQT9Ohb7bS_00iLbxVgoP
 #EXTINF:-1 tvg-id="570100" tvg-name="RCN NACIONAL HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN NACIONAL HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPK8eTif3WMqMXnJkGS-cJagMF0jgdQ9Pep085fXMphvH
-#EXTINF:-1 tvg-id="570098" tvg-name="RCN Más" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb0DibNSPq7DLC5pDOvLurWM.png" group-title="COLOMBIA",RCN Más
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6locsgn5asKp4hdvF-KnVaHzB
-#EXTINF:-1 tvg-id="570097" tvg-name="RCN MAS OPC2" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb0DibNSPq7DLC5pDOvLurWM.png" group-title="COLOMBIA",RCN MAS OPC2
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6locMkKpIPHh-XXaFGydlQ_QC
-#EXTINF:-1 tvg-id="570095" tvg-name="RCN Internacional HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV4wk0pMvYrcu4EsigwZkWLpUgXMdZyyRG2UfLsLCKFb.png" group-title="COLOMBIA",RCN Internacional HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6lochlJ-5IS5VKR4Lsqm55w_4
-#EXTINF:-1 tvg-id="570094" tvg-name="RCN INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/NuestraTele2018.png/revision/latest/scale-to-width-down/300?cb=20210307132730&path-prefix=es" group-title="COLOMBIA",RCN INTERNACIONAL
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6loe7JIf3knFEHN6eSiH4l94G
-#EXTINF:-1 tvg-id="570091" tvg-name="RCN HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPCQZlugBJxy0jZ99iWH6loc-H6FQ8aZAabwFqnZL3EyB
-#EXTINF:-1 tvg-id="570089" tvg-name="RCN FHD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN FHD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPL37zOJBpsQsN0zlFtj-qK9A5nv17p4OM2EmjzAAItcX
-#EXTINF:-1 tvg-id="570080" tvg-name="Pasiones HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPWSuD9YMTr_3tZDlno3_Qi6J37J1Z2-bqAH9Bn2S7DeA.png" group-title="COLOMBIA",Pasiones HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPL37zOJBpsQsN0zlFtj-qK-hWjRjq6xY_NjnyQeu6v42
-#EXTINF:-1 tvg-id="570079" tvg-name="Pasiones" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPWSuD9YMTr_3tZDlno3_Qi6J37J1Z2-bqAH9Bn2S7DeA.png" group-title="COLOMBIA",Pasiones
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLYunJ8i8Q1OK4DmDknTZ08J
-#EXTINF:-1 tvg-id="570077" tvg-name="Nuevo Tiempo (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1wSmEkUzFiZFtK2EUseAf-GyW-yAq0y3uDROLEru1Kwj.png" group-title="COLOMBIA",Nuevo Tiempo (STAR +) [STAR +]
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLYQ_PBUlgryoMmJYvfZHvJx
-#EXTINF:-1 tvg-id="570075" tvg-name="NTN24" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZ7ajn5pP7zF0OOAvBDeE1B2UTOx9fF4GoRN-K_N0Hw9.png" group-title="COLOMBIA",NTN24
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLbLjB4RydSuCInWrh27LzFS
-#EXTINF:-1 tvg-id="570074" tvg-name="NTN 24 (HD) »1«" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JIDSuX4XXdsVm9L2cK6WBqcu-Usl4KWMbdS8d518uaPp.png" group-title="COLOMBIA",NTN 24 (HD) »1«
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLZFvau4o_nOoQhvBVLBn_Ob
-#EXTINF:-1 tvg-id="570073" tvg-name="Más TV (STAR +)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE11mEAh3iydbV0AUWX3BbF6IpYLuIGFoccWNWRa9lrAf5.png" group-title="COLOMBIA",Más TV (STAR +)
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLa_rIH3iNEUDjN4PZIKn_fp
-#EXTINF:-1 tvg-id="570072" tvg-name="MovieFe (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE12B8bAAvG7t24KP7pGpWUdy3ta8LMmGvdLPAWu1f_TMS.png" group-title="COLOMBIA",MovieFe (STAR +) [STAR +]
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDYS79R49GuPULvoUE9zxLYTB_dW2msUTXL5gvehWShM
-#EXTINF:-1 tvg-id="570069" tvg-name="LA KALLE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zW2nKbbWIvXvlZtZencYwQnsMP8oIgEgLA&s" group-title="COLOMBIA",LA KALLE HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHZouQ85_TB4Ryc5C4xxZWfNRv1yb3ey1NbqGept47zQ
-#EXTINF:-1 tvg-id="570068" tvg-name="LA KALLE COLOMBIA" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JKvMGovBEtAUnP1-S4U5XDAGrH0ZaIzNE4taOM8iopjF.png" group-title="COLOMBIA",LA KALLE COLOMBIA
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHZouQ85_TB4Ryc5C4xxZWf25fpXNwhF6LB2_VRE9hXB
-#EXTINF:-1 tvg-id="570066" tvg-name="HOLA TV HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JPnOCyom6C_ehiBItGXtzTUNpqxk3ZU-2JO4ayt9xqbm.png" group-title="COLOMBIA",HOLA TV HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPHZouQ85_TB4Ryc5C4xxZWcASNWrDrvInnVdvbbs4Coo
-#EXTINF:-1 tvg-id="570058" tvg-name="EL GOURMET HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JEs5nEYp3x_a3vRsreukrFsTVyvCdeOZy3S63SQPCxZ8.png" group-title="COLOMBIA",EL GOURMET HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLqbg9_aeOsvkhm-yQbwQhV49aaWFnbS1EY-2fPo0rZX
-#EXTINF:-1 tvg-id="570050" tvg-name="Cosmovisión" tvg-logo="http://www.tmsimg.com/assets/s65269_ll_h3_aa.png" group-title="COLOMBIA",Cosmovisión
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLqbg9_aeOsvkhm-yQbwQhVumCIkNuUc9gg773rt62VN
-#EXTINF:-1 tvg-id="570047" tvg-name="CNC Medellín (STAR +)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE15GxCIieMZneY_z4koHZQin3eqLECwh_abnGGiXPkfUj8ZtQlYv8m8eWKsFzio2gxQ.png" group-title="COLOMBIA",CNC Medellín (STAR +)
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOfV1CAqt-YRlI6xMT_uc8UK
-#EXTINF:-1 tvg-id="570046" tvg-name="CNC Medellin" tvg-logo="https://i.imgur.com/5R0EoAB.png" group-title="COLOMBIA",CNC Medellin
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOeWdZ_Z7znywaY5lPrvJnD5
-#EXTINF:-1 tvg-id="570044" tvg-name="CITY TV HD+*+" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JDp9WeE8NVHPtVeRwHNS-_LbXbphF9lsBFApnTiD3UtK.png" group-title="COLOMBIA",CITY TV HD+*+
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOfX0rLstby3TMzHpEAoktmv
-#EXTINF:-1 tvg-id="570043" tvg-name="City TV HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV0yIMKlxU4splwECV3BkHfPlemZ3xr7_wIsm0p4zGrS.png" group-title="COLOMBIA",City TV HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPLuWc8EH-wWfKCZGm4sjKOeR7sdBL9QAMqUxMgkfH6RK
-#EXTINF:-1 tvg-id="570039" tvg-name="CITY TV" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV0yIMKlxU4splwECV3BkHfPlemZ3xr7_wIsm0p4zGrS.png" group-title="COLOMBIA",CITY TV
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eTsWf6DwjU7Asfnfcph7qVm
-#EXTINF:-1 tvg-id="570035" tvg-name="CARACOL NOTICIAS" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZ4sSYggz5t5hLR9_UuxVKwvSGFjkBXvpyby9HMV2b2Z.png" group-title="COLOMBIA",CARACOL NOTICIAS
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eR0TZDhHEm3h4s1ABxQO3_6
-#EXTINF:-1 tvg-id="570033" tvg-name="CARACOL INTERNACIONAL OPC3" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC3
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eT-Pyv0KebtZHZFrcD7a1Cj
-#EXTINF:-1 tvg-id="570030" tvg-name="CARACOL INTERNACIONAL OPC2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC2
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNPpBdE-6Eu5bXCMZ6Y_4eS_AoS0x5vOhyW2rnd7heWX
-#EXTINF:-1 tvg-id="570026" tvg-name="CARACOL INTERNACIONAL OPC1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC1
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAIBEGDfjXfmO0RNbvlHNbQT4ZwbyDVpnHWmIeNeqkKz
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jDvFJaB4flLY8JQ3z0DODk6edQSnoeD2RYnJAs_fU7kG
 #EXTINF:-1 tvg-id="570022" tvg-name="CARACOL Opc. 1" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMlSV-QHj5G4k47f9jAyPPl-T0FDO9bMahIRdisXeiuZrsibksiYHGRRBMkJd4ricEyzud1kr44JsTcsu6tAYYg.png" group-title="COLOMBIA",CARACOL Opc. 1
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAIBEGDfjXfmO0RNbvlHNbQrAQxBblXtIzw1lJsycJ3Y
-#EXTINF:-1 tvg-id="570010" tvg-name="CARACOL OPC2" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMlSV-QHj5G4k47f9jAyPPl-T0FDO9bMahIRdisXeiuZrsibksiYHGRRBMkJd4ricEyzud1kr44JsTcsu6tAYYg.png" group-title="COLOMBIA",CARACOL OPC2
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPJFsW72Hxht-EfyfNjstB8icLjWJxcN0H1slIRF15uSV
-#EXTINF:-1 tvg-id="570007" tvg-name="Canal Visión Dorada | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18uj1PMBV25itU6jaNIxuFBbIeG5WDRJpkz1jVEu46U1.png" group-title="COLOMBIA",Canal Visión Dorada | CO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAiDp9beNfhTcl2Rt8OPv9E2LzlUOZIpbDgv9vzJ_o3Z
-#EXTINF:-1 tvg-id="570006" tvg-name="Canal Visión Dorada (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18uj1PMBV25itU6jaNIxuFBbIeG5WDRJpkz1jVEu46U1.png" group-title="COLOMBIA",Canal Visión Dorada (STAR +) [STAR +]
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPAiDp9beNfhTcl2Rt8OPv9H2q1Al3EzFqVRBLIZdkEfu
-#EXTINF:-1 tvg-id="569999" tvg-name="CANAL UNO" tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-uno-hd-colombia-en-vivo-1.png?fit=1280,720&ssl=1" group-title="COLOMBIA",CANAL UNO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZW40yTrsFFJ8SE8QMbQtPY
-#EXTINF:-1 tvg-id="569999" tvg-name="CANAL UNO" tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-uno-hd-colombia-en-vivo-1.png?fit=1280,720&ssl=1" group-title="COLOMBIA",CANAL UNO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZW40yTrsFFJ8SE8QMbQtPY
-#EXTINF:-1 tvg-id="569997" tvg-name="CANAL TRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COLOMBIA",CANAL TRO HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeYJZzMTnST4lHoJ55fHRhos
-#EXTINF:-1 tvg-id="569995" tvg-name="Canal TRO" tvg-logo="http://www.tmsimg.com/assets/s55912_h3_aa.png" group-title="COLOMBIA",Canal TRO
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZzUT1ni_mQNm9zN3y_H2sm
-#EXTINF:-1 tvg-id="569993" tvg-name="Canal Trece" tvg-logo="https://cdn.m3u.cl/logo/119_Canal_Trece.png" group-title="COLOMBIA",Canal Trece
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWeZZdKRFOztNH94rWm6gyY-J
-#EXTINF:-1 tvg-id="569992" tvg-name="Canal Telefamilia (360p) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1-B7at1_fldZBwUUkcRCQx-I2HWeyhBAOtDCblxZ21gl.png" group-title="COLOMBIA",Canal Telefamilia (360p) [STAR +]
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWebizyTc8fE0OYP9X0XyvpG-
-#EXTINF:-1 tvg-id="569990" tvg-name="CANAL INSTITUCIONAL HD" tvg-logo="https://i.imgur.com/cIrxc91.png" group-title="COLOMBIA",CANAL INSTITUCIONAL HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPNcdpzWVb9DVtIVrlO9KWebN4KUt0HYkTo0yyY0dhWvM
-#EXTINF:-1 tvg-id="569988" tvg-name="Canal Institucional" tvg-logo="https://i.imgur.com/cIrxc91.png" group-title="COLOMBIA",Canal Institucional
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDhLDs5fEf92AhsUvgXMQtV9POt7Sj8UqTp_MzFA7FEl
-#EXTINF:-1 tvg-id="569985" tvg-name="Canal CNC Medellin" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPa9SQfYQRYkJQfgOvjZEcO1iXWRUmLB6BJedgmI80up-.png" group-title="COLOMBIA",Canal CNC Medellin
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDhLDs5fEf92AhsUvgXMQtXjInHllex05wd7CdjrMbrv
-#EXTINF:-1 tvg-id="569984" tvg-name="Canal Capital HD" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj__5Ydp94mWLlAGY5L_bpNgyZVIkIDs39ZCZw-0CDJR74w7dLlebwIULcS38O2876Duc_eMWzvlKwqm6dB-ybjewhtQpgcYZm8JBqFAdTjQg.png" group-title="COLOMBIA",Canal Capital HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDhLDs5fEf92AhsUvgXMQtUtW8uBhoKE9hLBM16Gx0iW
-#EXTINF:-1 tvg-id="569979" tvg-name="CANAL CALI" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png" group-title="COLOMBIA",CANAL CALI
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU5ANgfc4pg7wLBzoRc-H76v
-#EXTINF:-1 tvg-id="569978" tvg-name="CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="COLOMBIA",CANAL 2 CALI
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU7k_d1gs-mVsVY05ihU3LNx
-#EXTINF:-1 tvg-id="569975" tvg-name="Cali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="COLOMBIA",Cali TV
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU5R2H1r33PprGU7lGsGR4ut
-#EXTINF:-1 tvg-id="569971" tvg-name="CALI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="COLOMBIA",CALI TV
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPDzdMKwRjJ2aj_cqYeUNIU4xS7VqbQGdAQBehWxSxWrG
-#EXTINF:-1 tvg-id="569966" tvg-name="Cable Noticias HD" tvg-logo="https://www.inci.gov.co/sites/default/files/styles/imagen_internas_1110x624_/public/nota-5_1.jpg?itok=TWT7X7qX" group-title="COLOMBIA",Cable Noticias HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIqPaTdNEjOxE4txDIlQ9JJUA7BPUE0FRyWX9yr2j3mj
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE-tOcq6K9GlNJr-p7EuqcCRQhb0-QmcanVKCdzC-EkD
 #EXTINF:-1 tvg-id="569965" tvg-name="CABLE NOTICIAS HD" tvg-logo="https://www.inci.gov.co/sites/default/files/styles/imagen_internas_1110x624_/public/nota-5_1.jpg?itok=TWT7X7qX" group-title="NOTICIAS",CABLE NOTICIAS HD
-http://red4tv.lat:80/play/xQMrXkJS46By-4u2OruRPIqPaTdNEjOxE4txDIlQ9JL4jT90bYSwdMBtD-YNbZ5f
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jO7BBygn1YzhHB86jRfCBH4jd6z2x_tMZa5Evb4GXrRM
+#EXTINF:-1 tvg-id="576204" tvg-name="Win Sports Op1" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op1
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCnXzkN9mLdFiFA5DR40Pu8G02Rqx_CWI_27OENepRy9
+#EXTINF:-1 tvg-id="576203" tvg-name="Win Sports Op2" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op2
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCnXzkN9mLdFiFA5DR40Pu-OBPQhuFgJ4zVCmHNkQZXT
+#EXTINF:-1 tvg-id="570164" tvg-name="Win Sports Op3" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="LIGAS SUDAMERICANAS",Win Sports Op3
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPaF2_XhgJk0SEYtXBevsWVJPbFdP7Hfi5BM--GnoxVj
+#EXTINF:-1 tvg-id="570053" tvg-name="Win Sports Op4" tvg-logo="https://yt3.googleusercontent.com/74v3sDKiXB-uC-zDRcDoMzf97PfTKlXj_K8UzpuaqilFtiLJw3Ij_eKzP4dnIM3ilLjOmjaB=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES PREMIUM",Win Sports Op4
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jBOKmiCWXlTRknTAEKHFGulLdpVyONNElu9BFEoln_Xi
+#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCnXzkN9mLdFiFA5DR40Pu-vpQ6--6xjqUjjMlNzE8j7
+#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCnXzkN9mLdFiFA5DR40Pu-vpQ6--6xjqUjjMlNzE8j7
+#EXTINF:-1 tvg-id="576207" tvg-name="Win Sports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR_3LgQH4bN0fLG2u4f8twZWR8ASq6-P_XIg&s" group-title="LIGAS SUDAMERICANAS",Win Sports+
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCnXzkN9mLdFiFA5DR40Pu-vpQ6--6xjqUjjMlNzE8j7
+#EXTINF:-1 tvg-id="570154" tvg-name="TV AGRO" tvg-logo="http://www.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="COLOMBIA",TV AGRO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAVgxgePl9JQv-dVsvzNcXWnygHlCQjy3Wl-NyrfKnkF
+#EXTINF:-1 tvg-id="570154" tvg-name="TV AGRO" tvg-logo="http://www.tmsimg.com/assets/s63720_ll_h3_aa.png" group-title="COLOMBIA",TV AGRO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAVgxgePl9JQv-dVsvzNcXWnygHlCQjy3Wl-NyrfKnkF
+#EXTINF:-1 tvg-id="570151" tvg-name="Tevex (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16F0mUzXGsQSpX4jml22w4mIX_WwxQPZtablyhQC2Fan.png" group-title="COLOMBIA",Tevex (STAR +) [STAR +]
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAVgxgePl9JQv-dVsvzNcXURpnL5RwguqEIDWU028gMg
+#EXTINF:-1 tvg-id="570149" tvg-name="TELEPACI­FICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" group-title="COLOMBIA",TELEPACI­FICO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE7llkkVePNIErVBg-_zQlxc6NP_zppnGKdJQJuELl36
+#EXTINF:-1 tvg-id="570148" tvg-name="TelePacifico HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZWmIT5WmtRvbn46283Ax1MYUf4woikW-L341_pP9_vZ.png" group-title="COLOMBIA",TelePacifico HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE7llkkVePNIErVBg-_zQlyted2Rgjk7aZvmETuAQvj4
+#EXTINF:-1 tvg-id="570143" tvg-name="Telemedellin HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPUlF6mWZWxbIf8eMQMDIf_OJIAFDBsOiqHmgT-dvXRDH.png" group-title="COLOMBIA",Telemedellin HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE7llkkVePNIErVBg-_zQlxlf8gg8cqdYJaU8KdHacbz
+#EXTINF:-1 tvg-id="570140" tvg-name="Telemedellin" tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" group-title="COLOMBIA",Telemedellin
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE7llkkVePNIErVBg-_zQlzIcz513oRlp1XCG75dq5qC
+#EXTINF:-1 tvg-id="570140" tvg-name="Telemedellin" tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" group-title="COLOMBIA",Telemedellin
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE7llkkVePNIErVBg-_zQlzIcz513oRlp1XCG75dq5qC
+#EXTINF:-1 tvg-id="570136" tvg-name="Teleislas" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16C_Fjbd-D86SqKipFAciBk3kurysO7mAjcXt9QvycQ1.png" group-title="COLOMBIA",Teleislas
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHDM27hpHXznUmEQzwLpTzD_mQs0vtQ8XG4uPk0hnxLq
+#EXTINF:-1 tvg-id="570135" tvg-name="Telecaribe Plus" tvg-logo="https://i.imgur.com/K41EADh.png" group-title="COLOMBIA",Telecaribe Plus
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHDM27hpHXznUmEQzwLpTzAyCiaP9jHMtoFQDjCCWDHH
+#EXTINF:-1 tvg-id="570131" tvg-name="Telecaribe" tvg-logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg" group-title="COLOMBIA",Telecaribe
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHDM27hpHXznUmEQzwLpTzCxYACTJK17WBcYARK_zxnm
+#EXTINF:-1 tvg-id="570125" tvg-name="TELECAFE HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JOFluN-Kgbyii9mfPwTowP0KFW0m6LcrMKMyrJJ9ghes.png" group-title="COLOMBIA",TELECAFE HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJMfXTcdRnO9e4LUNl48w1iGyMHuXLwWsyIs7kJ9QAqy
+#EXTINF:-1 tvg-id="570123" tvg-name="Telecafe" tvg-logo="https://cdn.m3u.cl/logo/131_Telecafe.png" group-title="COLOMBIA",Telecafe
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJMfXTcdRnO9e4LUNl48w1g2Ueg57YyzaJElrP5Lqr4T
+#EXTINF:-1 tvg-id="570122" tvg-name="TeleAntioquia HQ" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPb9Kg7n9mI0rErT9co5btyBgmUOt8439oMHSXpaoTZ3-.png" group-title="COLOMBIA",TeleAntioquia HQ
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJMfXTcdRnO9e4LUNl48w1jSPtWafTIeGYiSx0u31WM-
+#EXTINF:-1 tvg-id="570118" tvg-name="Teleantioquia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-L37dYVb9R9mWoURIGgwa1ENpFg6A_IqIEw&s" group-title="COLOMBIA",Teleantioquia
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMJox-jmKR1kva6970Fh0J1PkhY3G4CBedNxKo6y9wf7
+#EXTINF:-1 tvg-id="570117" tvg-name="Tele Islas | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE16C_Fjbd-D86SqKipFAciBk3kurysO7mAjcXt9QvycQ1.png" group-title="COLOMBIA",Tele Islas | CO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMJox-jmKR1kva6970Fh0J0mFdtuwcFMfflJqyiVH1cO
+#EXTINF:-1 tvg-id="570116" tvg-name="Tele Familia" tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" group-title="COLOMBIA",Tele Familia
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMJox-jmKR1kva6970Fh0J2RLjezQ8fm0d9xef3m4Xqj
+#EXTINF:-1 tvg-id="570115" tvg-name="Suram | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE19UCfesJy9_OSpNJtRxo2SiVN26CCCSYHKy_92sbtyRN.png" group-title="COLOMBIA",Suram | CO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMJox-jmKR1kva6970Fh0J2b0UkAymDUhpSrIl0jjzMh
+#EXTINF:-1 tvg-id="570113" tvg-name="Señal Colombia | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xGM2RrxGmVs6OLAeCoBnyT_7muayLh1ZoEjRdu8qC3J.png" group-title="COLOMBIA",Señal Colombia | CO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMJox-jmKR1kva6970Fh0J0GGyDl5oZZbJbiirJq2tDh
+#EXTINF:-1 tvg-id="570111" tvg-name="Señal Colombia FHD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052014/untitled-1_56.png" group-title="COLOMBIA",Señal Colombia FHD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMJox-jmKR1kva6970Fh0J1GV46HCnejtwQps9-K5keY
+#EXTINF:-1 tvg-id="570107" tvg-name="SENAL COLOMBIA" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHJXpVJiXpjD_lnn5ne-kfGSeWY8rwr2AjwHjR3IZC1X.png" group-title="COLOMBIA",SENAL COLOMBIA
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jDvFJaB4flLY8JQ3z0DODk6uiwTDWoavQ6WfftUTLcgt
+#EXTINF:-1 tvg-id="570106" tvg-name="RCN Nuestra Tele" tvg-logo="https://cdn.mitvstatic.com/channels/08ad2794-3741-4066-b6a3-2760b803b4ee_m.jpg" group-title="COLOMBIA",RCN Nuestra Tele
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jDvFJaB4flLY8JQ3z0DODk44g7-cN7hLr65W2Viyr25C
+#EXTINF:-1 tvg-id="570104" tvg-name="RCN Novelas HD" tvg-logo="http://icomplay.net:80/images/jGn1sf9_Hs40MTismpozK3g37CzPgSh2z8T2UB8HHI-dLp65Edv7zERDE5fyHwBVOz5J5tI4uITc_oHU-Lbsct20_GK9QskzabwFREG1Y2jd_nsxELhJNkwpKvCX-5c-tG5qxzeIIteDjDLr1uXb1w.png" group-title="COLOMBIA",RCN Novelas HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jDvFJaB4flLY8JQ3z0DODk5x-uhOTzN_OaXNvJeQbYoi
+#EXTINF:-1 tvg-id="570101" tvg-name="RCN Novelas" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPW4d4h3y_NaBPqVzLVxZ6l73j4A_w54gFOLcrVl5KMAX.png" group-title="COLOMBIA",RCN Novelas
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jDvFJaB4flLY8JQ3z0DODk4sypPOp0bygwRVb1xRE6VM
+#EXTINF:-1 tvg-id="570098" tvg-name="RCN Más" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb0DibNSPq7DLC5pDOvLurWM.png" group-title="COLOMBIA",RCN Más
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKvf7_wELHh26AsTdruR2dnzDNU0Zd4-Ux2QO-sJH40S
+#EXTINF:-1 tvg-id="570097" tvg-name="RCN MAS OPC2" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb0DibNSPq7DLC5pDOvLurWM.png" group-title="COLOMBIA",RCN MAS OPC2
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKvf7_wELHh26AsTdruR2dk-7xbM1jrpc_VNcqlHyTQk
+#EXTINF:-1 tvg-id="570095" tvg-name="RCN Internacional HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV4wk0pMvYrcu4EsigwZkWLpUgXMdZyyRG2UfLsLCKFb.png" group-title="COLOMBIA",RCN Internacional HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKvf7_wELHh26AsTdruR2dlKlEv_7GE0JX5tPnN73ky4
+#EXTINF:-1 tvg-id="570094" tvg-name="RCN INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/NuestraTele2018.png/revision/latest/scale-to-width-down/300?cb=20210307132730&path-prefix=es" group-title="COLOMBIA",RCN INTERNACIONAL
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKvf7_wELHh26AsTdruR2dmCbZdhClVxX3Ls2pj7UjxM
+#EXTINF:-1 tvg-id="570091" tvg-name="RCN HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKvf7_wELHh26AsTdruR2dl_UEfMDH3Z-cogPKtMD_99
+#EXTINF:-1 tvg-id="570089" tvg-name="RCN FHD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JAAjchyKXLkXQQuY1_jlcMf2bkRvyLmVrElMCEGn6Kcm.png" group-title="COLOMBIA",RCN FHD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMx93Yya-L7TG_yk-U4DAV1ItCXzAjgPfBYN6HENceVj
+#EXTINF:-1 tvg-id="570080" tvg-name="Pasiones HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPWSuD9YMTr_3tZDlno3_Qi6J37J1Z2-bqAH9Bn2S7DeA.png" group-title="COLOMBIA",Pasiones HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMx93Yya-L7TG_yk-U4DAV1kBfX3dJFP1mBFbhftSxO6
+#EXTINF:-1 tvg-id="570079" tvg-name="Pasiones" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPWSuD9YMTr_3tZDlno3_Qi6J37J1Z2-bqAH9Bn2S7DeA.png" group-title="COLOMBIA",Pasiones
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAfsFttEhZP_RgEgLenZSYCSgtBkYlcf7hfXxa9PJ08x
+#EXTINF:-1 tvg-id="570077" tvg-name="Nuevo Tiempo (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1wSmEkUzFiZFtK2EUseAf-GyW-yAq0y3uDROLEru1Kwj.png" group-title="COLOMBIA",Nuevo Tiempo (STAR +) [STAR +]
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAfsFttEhZP_RgEgLenZSYCUuXjr8m8Sh1Sei_Dz9Xnf
+#EXTINF:-1 tvg-id="570075" tvg-name="NTN24" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZ7ajn5pP7zF0OOAvBDeE1B2UTOx9fF4GoRN-K_N0Hw9.png" group-title="COLOMBIA",NTN24
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAfsFttEhZP_RgEgLenZSYDnMxfOZhRBDXu1Le8ghhrU
+#EXTINF:-1 tvg-id="570074" tvg-name="NTN 24 (HD) »1«" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JIDSuX4XXdsVm9L2cK6WBqcu-Usl4KWMbdS8d518uaPp.png" group-title="COLOMBIA",NTN 24 (HD) »1«
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAfsFttEhZP_RgEgLenZSYBaCz42QKtc3VpzxFSloAdO
+#EXTINF:-1 tvg-id="570073" tvg-name="Más TV (STAR +)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE11mEAh3iydbV0AUWX3BbF6IpYLuIGFoccWNWRa9lrAf5.png" group-title="COLOMBIA",Más TV (STAR +)
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAfsFttEhZP_RgEgLenZSYAY8z0DavQGF8xCbXN2EqU3
+#EXTINF:-1 tvg-id="570072" tvg-name="MovieFe (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE12B8bAAvG7t24KP7pGpWUdy3ta8LMmGvdLPAWu1f_TMS.png" group-title="COLOMBIA",MovieFe (STAR +) [STAR +]
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jAfsFttEhZP_RgEgLenZSYC9p6bfGrlqLUeRqd4FYbYr
+#EXTINF:-1 tvg-id="570069" tvg-name="LA KALLE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zW2nKbbWIvXvlZtZencYwQnsMP8oIgEgLA&s" group-title="COLOMBIA",LA KALLE HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPaT3R1Cb6kqTSUPEf5FDd8r8tIpCVFyn2ulQ3FeGv2I
+#EXTINF:-1 tvg-id="570068" tvg-name="LA KALLE COLOMBIA" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JKvMGovBEtAUnP1-S4U5XDAGrH0ZaIzNE4taOM8iopjF.png" group-title="COLOMBIA",LA KALLE COLOMBIA
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPaT3R1Cb6kqTSUPEf5FDd-j8U8tBiMmyUcHlABqm3M7
+#EXTINF:-1 tvg-id="570066" tvg-name="HOLA TV HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JPnOCyom6C_ehiBItGXtzTUNpqxk3ZU-2JO4ayt9xqbm.png" group-title="COLOMBIA",HOLA TV HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPaT3R1Cb6kqTSUPEf5FDd_LGa4if6EnqVxzhHCb2ZZ8
+#EXTINF:-1 tvg-id="570058" tvg-name="EL GOURMET HD" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JEs5nEYp3x_a3vRsreukrFsTVyvCdeOZy3S63SQPCxZ8.png" group-title="COLOMBIA",EL GOURMET HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jBOKmiCWXlTRknTAEKHFGuldn4TbA8oMozwgXhZLmxs2
+#EXTINF:-1 tvg-id="570050" tvg-name="Cosmovisión" tvg-logo="http://www.tmsimg.com/assets/s65269_ll_h3_aa.png" group-title="COLOMBIA",Cosmovisión
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jBOKmiCWXlTRknTAEKHFGun2ux5CUKvFLr8UVAF4EFQI
+#EXTINF:-1 tvg-id="570047" tvg-name="CNC Medellín (STAR +)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE15GxCIieMZneY_z4koHZQin3eqLECwh_abnGGiXPkfUj8ZtQlYv8m8eWKsFzio2gxQ.png" group-title="COLOMBIA",CNC Medellín (STAR +)
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNGNdNThsqn492ylt9m32y3mvLQ_nnjXXRpG4EOCLfyj
+#EXTINF:-1 tvg-id="570046" tvg-name="CNC Medellin" tvg-logo="https://i.imgur.com/5R0EoAB.png" group-title="COLOMBIA",CNC Medellin
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNGNdNThsqn492ylt9m32y0z5oLjSbF-Ba9P4Iy-KXek
+#EXTINF:-1 tvg-id="570044" tvg-name="CITY TV HD+*+" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JDp9WeE8NVHPtVeRwHNS-_LbXbphF9lsBFApnTiD3UtK.png" group-title="COLOMBIA",CITY TV HD+*+
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNGNdNThsqn492ylt9m32y1JnGBXILeBK0V-GYfsskAc
+#EXTINF:-1 tvg-id="570043" tvg-name="City TV HD" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV0yIMKlxU4splwECV3BkHfPlemZ3xr7_wIsm0p4zGrS.png" group-title="COLOMBIA",City TV HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNGNdNThsqn492ylt9m32y0URJaCuEWKB3MabbI-P9fH
+#EXTINF:-1 tvg-id="570039" tvg-name="CITY TV" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPV0yIMKlxU4splwECV3BkHfPlemZ3xr7_wIsm0p4zGrS.png" group-title="COLOMBIA",CITY TV
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE53Yx8XDXL19OZXy7rTlyt1f0UwdFJT9xWpR-WXR4UJ
+#EXTINF:-1 tvg-id="570035" tvg-name="CARACOL NOTICIAS" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPZ4sSYggz5t5hLR9_UuxVKwvSGFjkBXvpyby9HMV2b2Z.png" group-title="COLOMBIA",CARACOL NOTICIAS
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE53Yx8XDXL19OZXy7rTlyu0Ymc1W9W8UlrPQ5HtvcfS
+#EXTINF:-1 tvg-id="570033" tvg-name="CARACOL INTERNACIONAL OPC3" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC3
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE53Yx8XDXL19OZXy7rTlyvqDvV4_gsc5aGOX4qnjTEA
+#EXTINF:-1 tvg-id="570030" tvg-name="CARACOL INTERNACIONAL OPC2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC2
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE53Yx8XDXL19OZXy7rTlysKYQzD_iqh8MB_5YvwV7ir
+#EXTINF:-1 tvg-id="570026" tvg-name="CARACOL INTERNACIONAL OPC1" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/78/14/f8/7814f8a6-c23e-03c1-a94d-ad8f638ba924/source/512x512bb.jpg" group-title="COLOMBIA",CARACOL INTERNACIONAL OPC1
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jE-tOcq6K9GlNJr-p7EuqcAkMvKHvP9VvppVN7GJSUxA
+#EXTINF:-1 tvg-id="570010" tvg-name="CARACOL OPC2" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUtJVaZ7CzxjZrF_OpH44HZMlSV-QHj5G4k47f9jAyPPl-T0FDO9bMahIRdisXeiuZrsibksiYHGRRBMkJd4ricEyzud1kr44JsTcsu6tAYYg.png" group-title="COLOMBIA",CARACOL OPC2
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jMV7HMnOgrziA5bWWQU340R7vrA5TQ_IeSKDIPSeW6qj
+#EXTINF:-1 tvg-id="570007" tvg-name="Canal Visión Dorada | CO" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18uj1PMBV25itU6jaNIxuFBbIeG5WDRJpkz1jVEu46U1.png" group-title="COLOMBIA",Canal Visión Dorada | CO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jD2vBWmg8tHW2y-TYXbOEDcY2g4Ns4YDG5zBPKhQjyZ4
+#EXTINF:-1 tvg-id="570006" tvg-name="Canal Visión Dorada (STAR +) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE18uj1PMBV25itU6jaNIxuFBbIeG5WDRJpkz1jVEu46U1.png" group-title="COLOMBIA",Canal Visión Dorada (STAR +) [STAR +]
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jD2vBWmg8tHW2y-TYXbOEDdnxuCph8iNh_ZMdvC5HgFP
+#EXTINF:-1 tvg-id="569999" tvg-name="CANAL UNO" tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-uno-hd-colombia-en-vivo-1.png?fit=1280,720&ssl=1" group-title="COLOMBIA",CANAL UNO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jP1ub8jzfZB10F8pX7fjU6HUXUV7LhK5KX6rn_V3Y0cw
+#EXTINF:-1 tvg-id="569999" tvg-name="CANAL UNO" tvg-logo="https://i0.wp.com/www.chatytvgratishd.me/wp-content/uploads/2020/05/canal-uno-hd-colombia-en-vivo-1.png?fit=1280,720&ssl=1" group-title="COLOMBIA",CANAL UNO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jP1ub8jzfZB10F8pX7fjU6HUXUV7LhK5KX6rn_V3Y0cw
+#EXTINF:-1 tvg-id="569997" tvg-name="CANAL TRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COLOMBIA",CANAL TRO HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jP1ub8jzfZB10F8pX7fjU6H-SEUThPOh_Hk97oF7G7_0
+#EXTINF:-1 tvg-id="569995" tvg-name="Canal TRO" tvg-logo="http://www.tmsimg.com/assets/s55912_h3_aa.png" group-title="COLOMBIA",Canal TRO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jP1ub8jzfZB10F8pX7fjU6EiMOYSLCyaipIn28sHlYqJ
+#EXTINF:-1 tvg-id="569993" tvg-name="Canal Trece" tvg-logo="https://cdn.m3u.cl/logo/119_Canal_Trece.png" group-title="COLOMBIA",Canal Trece
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jP1ub8jzfZB10F8pX7fjU6GofoiD53L9loTBi5rr2XE5
+#EXTINF:-1 tvg-id="569992" tvg-name="Canal Telefamilia (360p) [STAR +]" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1-B7at1_fldZBwUUkcRCQx-I2HWeyhBAOtDCblxZ21gl.png" group-title="COLOMBIA",Canal Telefamilia (360p) [STAR +]
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jP1ub8jzfZB10F8pX7fjU6H8HkgabSP4rgP6SK5WpfhJ
+#EXTINF:-1 tvg-id="569990" tvg-name="CANAL INSTITUCIONAL HD" tvg-logo="https://i.imgur.com/cIrxc91.png" group-title="COLOMBIA",CANAL INSTITUCIONAL HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jP1ub8jzfZB10F8pX7fjU6H0wskOtKvHX4k9n7cp07Es
+#EXTINF:-1 tvg-id="569988" tvg-name="Canal Institucional" tvg-logo="https://i.imgur.com/cIrxc91.png" group-title="COLOMBIA",Canal Institucional
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKBXLoJseZqR_aE95kefnceFBZetqqqQjFNym0PEVZgh
+#EXTINF:-1 tvg-id="569985" tvg-name="Canal CNC Medellin" tvg-logo="http://icomplay.net:80/images/-kRhDmGtaRfxVEGEnqonPa9SQfYQRYkJQfgOvjZEcO1iXWRUmLB6BJedgmI80up-.png" group-title="COLOMBIA",Canal CNC Medellin
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKBXLoJseZqR_aE95kefncdbpxKi8F1eobDC1Hb8Iz3Q
+#EXTINF:-1 tvg-id="569984" tvg-name="Canal Capital HD" tvg-logo="http://icomplay.net:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj__5Ydp94mWLlAGY5L_bpNgyZVIkIDs39ZCZw-0CDJR74w7dLlebwIULcS38O2876Duc_eMWzvlKwqm6dB-ybjewhtQpgcYZm8JBqFAdTjQg.png" group-title="COLOMBIA",Canal Capital HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKBXLoJseZqR_aE95kefncctfJIrIl5lEXluZ-66XQxt
+#EXTINF:-1 tvg-id="569979" tvg-name="CANAL CALI" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV2.png" group-title="COLOMBIA",CANAL CALI
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJdso54lOvzOpur3CTAW16JEc61DtOEphV7dqco5zS2f
+#EXTINF:-1 tvg-id="569978" tvg-name="CANAL 2 CALI" tvg-logo="https://www.canal2.co/wp-content/uploads/2017/02/logo-2.png" group-title="COLOMBIA",CANAL 2 CALI
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJdso54lOvzOpur3CTAW16Ih7ThgDSqlAFZQqTWWA_RM
+#EXTINF:-1 tvg-id="569975" tvg-name="Cali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="COLOMBIA",Cali TV
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJdso54lOvzOpur3CTAW16Kmr_w1wWDeXpyH2t3h5n_J
+#EXTINF:-1 tvg-id="569971" tvg-name="CALI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest?cb=20210422013022&path-prefix=es" group-title="COLOMBIA",CALI TV
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJdso54lOvzOpur3CTAW16I00K4nq9Ura-ZSgGGMvfkb
+#EXTINF:-1 tvg-id="569966" tvg-name="Cable Noticias HD" tvg-logo="https://www.inci.gov.co/sites/default/files/styles/imagen_internas_1110x624_/public/nota-5_1.jpg?itok=TWT7X7qX" group-title="COLOMBIA",Cable Noticias HD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jO7BBygn1YzhHB86jRfCBH6FCl37WZt6AFSDcgiKCj4Z
+#EXTINF:-1 tvg-id="657420" tvg-name="24/7 NAVIDAD" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 NAVIDAD
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKKBuc1TD--WsCj3A6G7NIm59Xth_vsCInijAtZv8l50
+#EXTINF:-1 tvg-id="555928" tvg-name="24/7 | Halloween" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Halloween
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jFH62iNABi275LmdNf-TOlgCD0JVka513ai0dQ_gyZhB
+#EXTINF:-1 tvg-id="555930" tvg-name="24/7 | Adam Sandler" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Adam Sandler
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jBEoDYX94Wg7KlKOuCFn7yZqcDsiEBKM2RilfgRuFNk6
+#EXTINF:-1 tvg-id="620457" tvg-name="24/7 | ALERTA AEROPUERTO" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | ALERTA AEROPUERTO
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCjrNVLhVDe_BSZKNtQwKDEqAHCxplP79b9VvwHXkgCc
+#EXTINF:-1 tvg-id="555933" tvg-name="24/7 | Aventura" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Aventura
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jBEoDYX94Wg7KlKOuCFn7yaVZWg69C6cdLCub1E4bXbp
+#EXTINF:-1 tvg-id="556076" tvg-name="24/7 | Beverly Hills 90210" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Beverly Hills 90210
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jGbPe28Rw0tXAa6aWUg0fvxY371y7SsCswr4fqR2zunq
+#EXTINF:-1 tvg-id="581295" tvg-name="24-7 Dinosaurios" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Dinosaurios
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCAaTAWO0tGhzMc9Qo4Ug3MnF5XHFdANzUxN7P5qGWPp
+#EXTINF:-1 tvg-id="581299" tvg-name="24-7 Dragon Ball" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Dragon Ball
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCAaTAWO0tGhzMc9Qo4Ug3N6DINQS_k5WgQa0jF3wq5C
+#EXTINF:-1 tvg-id="581298" tvg-name="24-7 Dr House" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Dr House
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCAaTAWO0tGhzMc9Qo4Ug3MdDPKUXJFmSl1B-YZMrR-u
+#EXTINF:-1 tvg-id="581298" tvg-name="24-7 Dr House" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Dr House
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCAaTAWO0tGhzMc9Qo4Ug3MdDPKUXJFmSl1B-YZMrR-u
+#EXTINF:-1 tvg-id="581303" tvg-name="24-7 EL CHAPULIN COLORADO 24/7" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 EL CHAPULIN COLORADO 24/7
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHZReRNmvo8WpTYkZtSOPoBMkOyRBrarKIjzqmiJn6cR
+#EXTINF:-1 tvg-id="581304" tvg-name="24-7 El Chavo del 8" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 El Chavo del 8
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHZReRNmvo8WpTYkZtSOPoCVNxtrPbG_n2A6Vg4gYkoO
+#EXTINF:-1 tvg-id="555951" tvg-name="24/7 | Estrenos" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Estrenos
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNY0RuxJwXio0P4H5jynv2uGIqEJDf7xPNXs64iadzaV
+#EXTINF:-1 tvg-id="581310" tvg-name="24-7 Futurama" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Futurama
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJo4pW_q8ucFK1WHTyMQ92-0v1URzf1jb4YpijfWQPAj
+#EXTINF:-1 tvg-id="581311" tvg-name="24-7 Futurama op2" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Futurama op2
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJo4pW_q8ucFK1WHTyMQ92--1ThyhjXtGk5PF30-mbnr
+#EXTINF:-1 tvg-id="657449" tvg-name="24/7 GUERRA DE CHISTES" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 GUERRA DE CHISTES
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHrxOztBGXQ60kde7AeSqCQya83PmSiiJP-CU79_FtnT
+#EXTINF:-1 tvg-id="581314" tvg-name="24-7 Hora De Aventura" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Hora De Aventura
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jJo4pW_q8ucFK1WHTyMQ928FqLS489wZS9RXzvKmQPEw
+#EXTINF:-1 tvg-id="556017" tvg-name="24/7 | La Familia de Barrio" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | La Familia de Barrio
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNelq312Iquqh9x4nLI_BDcw-vDEE1jN0AdWSyuUplQF
+#EXTINF:-1 tvg-id="581331" tvg-name="24-7 LOS SIMPSONS" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 LOS SIMPSONS
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jFBspAF-NRBsSJwk0yq5Oo7RDhwYkGBwD1jpWtGyxvu1
+#EXTINF:-1 tvg-id="581330" tvg-name="24-7 Los Simpsons Opc.2" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Los Simpsons Opc.2
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jFBspAF-NRBsSJwk0yq5Oo7eU73xOUGk4OQqJVgrP-Zt
+#EXTINF:-1 tvg-id="581332" tvg-name="24-7 Malcolm El De En Medio" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Malcolm El De En Medio
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jFBspAF-NRBsSJwk0yq5Oo5lEiUNtGj8vee9qzbMGcUU
+#EXTINF:-1 tvg-id="555962" tvg-name="24/7 | Mi Pobre Angelito" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Mi Pobre Angelito
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHTHwLE6UcQlVwYgNZYUonkEHU95JGtMm_5wx3WdpX7R
+#EXTINF:-1 tvg-id="581290" tvg-name="24-7  Rosa de Guadalupe" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7  Rosa de Guadalupe
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCAaTAWO0tGhzMc9Qo4Ug3P7HwDkJ8-QgrbX-yhs5Onq
+#EXTINF:-1 tvg-id="581338" tvg-name="24-7 South Park" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 South Park
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jFBspAF-NRBsSJwk0yq5Oo7VSZjKxvr-TlWbX9I828Ms
+#EXTINF:-1 tvg-id="556169" tvg-name="24/7 | The Big Bang Theory" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | The Big Bang Theory
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jN0vppRrvlQN874ug2K5L58or_55mI-Lugjt7SVyKZhc
+#EXTINF:-1 tvg-id="555946" tvg-name="24/7 | Drama" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Drama
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jGnGlSe_kR93AqNtXECcwmSY3-9MGyebK2qoSAfozs1L
+#EXTINF:-1 tvg-id="555945" tvg-name="24/7 | Documental" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Documental
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jGnGlSe_kR93AqNtXECcwmSY6xOjKIim1IEQ2ICe6s1q
+#EXTINF:-1 tvg-id="555971" tvg-name="24/7 | Romance" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Romance
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPLJtdY4IeytlfSw9VuJq1vSYzX9XjeRk7GioODv-UXG
+#EXTINF:-1 tvg-id="555977" tvg-name="24/7 | Suspenso" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Suspenso
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPLJtdY4IeytlfSw9VuJq1vMP9v-9w92R_aT995CQv4E
+#EXTINF:-1 tvg-id="555978" tvg-name="24/7 | Terror" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Terror
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPLJtdY4IeytlfSw9VuJq1tDWj14VMi4KJqmOslkNUPr
+#EXTINF:-1 tvg-id="555941" tvg-name="24/7 | Crepusculo" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Crepusculo
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jGnGlSe_kR93AqNtXECcwmRG9bAziD1us4mNC2X-Mp3s
+#EXTINF:-1 tvg-id="555944" tvg-name="24/7 | Destino Final" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Destino Final
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jGnGlSe_kR93AqNtXECcwmRK4h-SVDApFNEdtl6Ajzhc
+#EXTINF:-1 tvg-id="555953" tvg-name="24/7 | Harry Potter" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Harry Potter
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNY0RuxJwXio0P4H5jynv2t4GmXqsIqbJEt1pL8pYRXo
+#EXTINF:-1 tvg-id="555957" tvg-name="24/7 | Karate Kid" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Karate Kid
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNY0RuxJwXio0P4H5jynv2s2ZlznHrdKzh17OzhTBaWV
+#EXTINF:-1 tvg-id="555960" tvg-name="24/7 | Los Juegos del Hambre" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Los Juegos del Hambre
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHTHwLE6UcQlVwYgNZYUonmM_2SAqp1SLvgxzWrii0Kw
+#EXTINF:-1 tvg-id="581156" tvg-name="24/7 Pablo Escobar: El Patrón del Mal" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 Pablo Escobar: El Patrón del Mal
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHfGxq2cdMsMJZQg3b_G-44cy0R4B5_GrA5CHIlPbglo
+#EXTINF:-1 tvg-id="555968" tvg-name="24/7 | Piratas del caribe" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Piratas del caribe
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHTHwLE6UcQlVwYgNZYUonnisxhz64mv7IiaiJjANYvr
+#EXTINF:-1 tvg-id="555972" tvg-name="24/7 | SAW" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | SAW
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPLJtdY4IeytlfSw9VuJq1vB3b2r90ndVNGgXeI_1iKv
+#EXTINF:-1 tvg-id="555956" tvg-name="24/7 | Jurassic Park" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Jurassic Park
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNY0RuxJwXio0P4H5jynv2s2J75zXbL3r7mDflymWWAH
+#EXTINF:-1 tvg-id="625306" tvg-name="24/7 | La Niñera" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | La Niñera
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKf5PVdNmD9Yp4FJEL5pBl-LVKcP1SbwK5Ym0_BBANDO
+#EXTINF:-1 tvg-id="625307" tvg-name="24/7 | Two and Half Men" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Two and Half Men
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jKf5PVdNmD9Yp4FJEL5pBl9IJhtloCdXkLB2qLqvwFkH
+#EXTINF:-1 tvg-id="636678" tvg-name="24/7 FRIENDS" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 FRIENDS
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jPvcv2hHk4Dmdo3QtmWu2kmmY56AWmQyYEiHDtb6ItPp
+#EXTINF:-1 tvg-id="639853" tvg-name="24/7 SOUTH PARK" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 SOUTH PARK
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jBFSStHGOP99r5fN4mOpEHntubLaw5KfsmoGC1SAXUAH
+#EXTINF:-1 tvg-id="640330" tvg-name="24/7 Breaking Bad" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 Breaking Bad
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jHvej9uATUJ4pHIVecd5uBAFfk4s2znhi9jrLMjv8Mbj
+#EXTINF:-1 tvg-id="642722" tvg-name="24/7 La Teoria De Big Bang" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 La Teoria De Big Bang
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jDHBUVkz61F7OdTgOvgE8VeEgjj1lvG02QqLXJx-NRoE
+#EXTINF:-1 tvg-id="644119" tvg-name="24/7 El Principe De Bel-Air" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 El Principe De Bel-Air
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jH-063hrcdUAvYjDgJSm8kk69shJZS91uKrvfCGq-i-G
+#EXTINF:-1 tvg-id="645422" tvg-name="24/7 Cine De Oro Mexicano" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 Cine De Oro Mexicano
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jNHI-I39aARu5gmqTOkSksMlTmAYkGaTQHUQuT4l-z6a
+#EXTINF:-1 tvg-id="645446" tvg-name="24/7 Vicente Fernandez" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 Vicente Fernandez
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCGB2JLKbRf_tJaTgEQTtTBbYa6__b6LmobDcTi9JXA5
+#EXTINF:-1 tvg-id="645669" tvg-name="24/7 | Volver al Futuro" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 | Volver al Futuro
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jF4kKs3SJ5VLPdKyTIivg9VVYN1cHq98jkaHHiuoR-ld
+#EXTINF:-1 tvg-id="648428" tvg-name="24/7 ALF" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 ALF
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jN9-Nu0gj_I9N9JZpdjdf1477GVC4MYyqqxFU_H2n0E1
+#EXTINF:-1 tvg-id="587620" tvg-name="24/7 CMLL" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24/7 CMLL
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jCuXsXuf-3bVgt0DyfFAIqj1LKu8K3CF1GRwIyzA7Dj_
+#EXTINF:-1 tvg-id="581335" tvg-name="24-7 Padre De Familia" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="CANALES 24/7",24-7 Padre De Familia
+http://red4tv.lat:80/play/aEDw7hqy9o0bauCaOqX0jFBspAF-NRBsSJwk0yq5Oo4jx2ggeEutSvRdKyqdsCKd
+#EXTINF:-1 tvg-id="667545" tvg-name="Apocalypse Now (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJXRrkJTlcb5x87v4VWN1zZX0Xk.jpg" group-title="ACCION",Apocalypse Now (1979)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BFb58qvf6Pc0nAMHzYx-D1MIX91jfdpP4ET1ZlfIqr-p#.mkv
+#EXTINF:-1 tvg-id="658656" tvg-name="Venganza bajo cero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5pPI0Isxhxqk0iKimi4VtJBcyXt.jpg" group-title="ACCION",Venganza bajo cero (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0q5HNle0NVH-C45tKQs8G4A#.mkv
+#EXTINF:-1 tvg-id="658655" tvg-name="Guardians (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" group-title="ACCION",Guardians (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0p_N43SemOLQd2bltOOv5mx#.mkv
+#EXTINF:-1 tvg-id="658654" tvg-name="Hacker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsgs5bi0P0cHp5sdGfzoomMKYmK.jpg" group-title="ACCION",Hacker (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qY3-C3rfnoGPNms3qlpWp8#.mkv
+#EXTINF:-1 tvg-id="658653" tvg-name="Éragon (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr7MbR744tyqIJqbs2FSCfsy9pg.jpg" group-title="ACCION",Éragon (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0o1KgjHET-RIL_RCvEZnB1G#.mkv
+#EXTINF:-1 tvg-id="658652" tvg-name="Fabricated City (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsC2AKvwgZzkYbWrBnq1TvvcUCm.jpg" group-title="ACCION",Fabricated City (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0q89eZKtAF9SyLha-elx7od#.mkv
+#EXTINF:-1 tvg-id="658651" tvg-name="Hellboy II: The Golden Army - Prologue (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hGFmq8LGsebs3t8mdyRJyGLy9ak.jpg" group-title="ACCION",Hellboy II: The Golden Army - Prologue (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rm8PAL6HRdQbcqpkphNlLM#.mkv
+#EXTINF:-1 tvg-id="658650" tvg-name="Ghost Rider: Espíritu de venganza (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk4q6f1sXRE8FEPpMiexCs5K20.jpg" group-title="ACCION",Ghost Rider: Espíritu de venganza (2011)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0r29aU-Bh_vBegmWwR2kNnU#.mkv
+#EXTINF:-1 tvg-id="658649" tvg-name="Guardianes de la noche (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TwfNYxj4pHtLioN94kFhjYtKip.jpg" group-title="ACCION",Guardianes de la noche (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0q5aX0I-Nv_naKY1_xMjUId#.mkv
+#EXTINF:-1 tvg-id="658648" tvg-name="Hanna (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRvxRMtejJa9jjfDDUibUIfIJbP.jpg" group-title="ACCION",Hanna (2011)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qNoZyj0AH2WLc6xu2ZMaEa#.mkv
+#EXTINF:-1 tvg-id="658647" tvg-name="Errementari: el herrero y el diablo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qaVTcP2Sl0rxc3xY0UFK1QV2h6.jpg" group-title="ACCION",Errementari: el herrero y el diablo (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oB6H5C0Ra38TcM-RVKxAqE#.mkv
+#EXTINF:-1 tvg-id="658646" tvg-name="Cold Blood (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWeTn3Hu2z06M2KNUW8YLzVtSM8.jpg" group-title="ACCION",Cold Blood (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oIjDaho6S6mVujSybsADGh#.mkv
+#EXTINF:-1 tvg-id="658645" tvg-name="Flash Gordon (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyHg2QH4B34fp941h0pGs4E9kxJ.jpg" group-title="ACCION",Flash Gordon (1980)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0q6B00aoqHgihZzKh6VBI1t#.mkv
+#EXTINF:-1 tvg-id="658644" tvg-name="Ghost in the Shell (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo4PUj0SWiX33uQMgxyzE2ZOPBK.jpg" group-title="ACCION",Ghost in the Shell (1995)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qwt-8uq44unl6HgziwlZ6-#.mkv
+#EXTINF:-1 tvg-id="658643" tvg-name="Dr. No? (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",Dr. No? (1990)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0pSQcRLOy4WxjC2EHAOUfbh#.mkv
+#EXTINF:-1 tvg-id="658642" tvg-name="El conductor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsIT2se9zI6j8P8lMoNuGRoKJL0.jpg" group-title="ACCION",El conductor
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qLvCbff4hdBWe-3chqXob2#.mp4
+#EXTINF:-1 tvg-id="658641" tvg-name="Che: El argentino (Parte 1) (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbchW8F1Cy0qv1w8uOkcZwZCfXr.jpg" group-title="ACCION",Che: El argentino (Parte 1) (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qKjaFfoFWHPVGDTfagfHq1#.mkv
+#EXTINF:-1 tvg-id="658640" tvg-name="Charlie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpQerhkeYKnAh60bzHp3uS84B8e.jpg" group-title="ACCION",Charlie's Angels (1976)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rl_I1o8GSXi7YmV3a7Q3i5#.mkv
+#EXTINF:-1 tvg-id="658639" tvg-name="Dropa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/day7ZzHVA4fVWkFp9LDGLqOUSD4.jpg" group-title="ACCION",Dropa (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0q4LvcjPynMlvLpxHkwfo4Q#.mkv
+#EXTINF:-1 tvg-id="658638" tvg-name="El rey de los kickboxers (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHGryC1UwsVYW7DMTF7nzVUx9mV.jpg" group-title="ACCION",El rey de los kickboxers (1990)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0o79k1Yx7_p0aIPSRVwtOPO#.avi
+#EXTINF:-1 tvg-id="658636" tvg-name="Banlie.ue (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAIzUoRDQyUfEkRBF4InwqHfTIN.jpg" group-title="ACCION",Banlie.ue (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0r3Y8807ec0Czds8sFxJdNI#.mkv
+#EXTINF:-1 tvg-id="658636" tvg-name="Banlie.ue (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAIzUoRDQyUfEkRBF4InwqHfTIN.jpg" group-title="ACCION",Banlie.ue (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0r3Y8807ec0Czds8sFxJdNI#.mkv
+#EXTINF:-1 tvg-id="658634" tvg-name="Balle perdue (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LfvxWKXQVOdLRI7xfWFq83Ne9P.jpg" group-title="ACCION",Balle perdue (1994)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qv6Zv8OskGrKI0WT7GE2QW#.mkv
+#EXTINF:-1 tvg-id="658633" tvg-name="Death Wish (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxqlkMj49KmgZxghY1CHpnqRnO9.jpg" group-title="ACCION",Death Wish (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0pBpF-eO4wOkHXx5dza9xm0#.mkv
+#EXTINF:-1 tvg-id="658632" tvg-name="Hero (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esBeEnXx8tSCcGF4DKwwESxsAp8.jpg" group-title="ACCION",Hero (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rrhjCdbfno866z8goBtdbs#.mkv
+#EXTINF:-1 tvg-id="658631" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg" group-title="ACCION",Deadpool 2 (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oQj0abtXfzmJx76TQ9cCOp#.mkv
+#EXTINF:-1 tvg-id="658630" tvg-name="Eraser (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg" group-title="ACCION",Eraser (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0pFx2MOU3_4bVFihyEppruw#.mkv
+#EXTINF:-1 tvg-id="658629" tvg-name="Guardianes de la Galaxia Vol. 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg" group-title="ACCION",Guardianes de la Galaxia Vol. 2 (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qwdf-l3hSYmsawDCWdaVtD#.mkv
+#EXTINF:-1 tvg-id="658628" tvg-name="Hancock (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QkoSqDPwSVWx51r2lBCUre7GzE.jpg" group-title="ACCION",Hancock (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rLGQAonHBtjizX_bZPmAYj#.mkv
+#EXTINF:-1 tvg-id="658627" tvg-name="Guerra Mundial Z (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8ogjWFd0QS6BzBkzfDMWukc26i.jpg" group-title="ACCION",Guerra Mundial Z (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rw1rqWfqgQbKIf6osOJ8Og#.mkv
+#EXTINF:-1 tvg-id="658626" tvg-name="El rehén (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOxkZGKeiasZtczCh4Yj1U7WZSh.jpg" group-title="ACCION",El rehén (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rVTP9PTirOTXHBmdxuat-6#.mp4
+#EXTINF:-1 tvg-id="658625" tvg-name="Gurren Lagann: Las luces en el cielo son estrellas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28mU2qCSqYlqnNNHsfYD4Wg3A6y.jpg" group-title="ACCION",Gurren Lagann: Las luces en el cielo son estrellas (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0ri9WwYeblkXQznGbJCb-8a#.mkv
+#EXTINF:-1 tvg-id="658624" tvg-name="Empire State (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff7hVPGrEeHh9V3RjHT4Dcijc8T.jpg" group-title="ACCION",Empire State (1987)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0ofpe4mscCVoMxK1NREj7t1#.mkv
+#EXTINF:-1 tvg-id="658623" tvg-name="Gladiator (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg" group-title="ACCION",Gladiator (2000)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oZ0eHDPvKhaD-omV7ZRg_x#.mkv
+#EXTINF:-1 tvg-id="658622" tvg-name="El rey escorpión (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKuouKg9pHiWe1Nu1YsEREBdGsM.jpg" group-title="ACCION",El rey escorpión (2002)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rRwwd2BeN65-dZHRKQ0NCy#.mkv
+#EXTINF:-1 tvg-id="658621" tvg-name="Final Fantasy VII: Advent Children (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCiTioVufIGpIgC8OlG7boEzm9.jpg" group-title="ACCION",Final Fantasy VII: Advent Children (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rH7R3ZfmK_ZXka0TtS5Vhn#.mkv
+#EXTINF:-1 tvg-id="658620" tvg-name="El portal del guerrero (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cmOtEjmpwlyriZ2I5KVYraoRPv.jpg" group-title="ACCION",El portal del guerrero (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0p27ZnBUhKvOoRlhzeYEo8t#.mkv
+#EXTINF:-1 tvg-id="658619" tvg-name="El rey escorpión: El libro de las almas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LVocsQ2Pnc0RaKNhUhGvEs8ekM.jpg" group-title="ACCION",El rey escorpión: El libro de las almas (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0or1qQTYY9fP_RAYQ059Jk3#.mkv
+#EXTINF:-1 tvg-id="658618" tvg-name="Golden job (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ja7E1FxVRtQY0i0sOslbBCAzu2.jpg" group-title="ACCION",Golden job (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0q0wmnSP2ilAYUhixO6ZWOJ#.mp4
+#EXTINF:-1 tvg-id="658617" tvg-name="El rey escorpión 2: El nacimiento del guerrero (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i4FKExsjSWMSHzRmxmsBMtR6gd.jpg" group-title="ACCION",El rey escorpión 2: El nacimiento del guerrero (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rLoH2dwFqu0y7fdXilMtUD#.mkv
+#EXTINF:-1 tvg-id="658616" tvg-name="Free Fire (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzALuDj6gQUQU0oHNgQXoq9EVvj.jpg" group-title="ACCION",Free Fire (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rB1H315pIsMmvLRSEbreHm#.mkv
+#EXTINF:-1 tvg-id="658615" tvg-name="Epidemia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PVHBsGKa6YazNbGp2A6mmPJQVx.jpg" group-title="ACCION",Epidemia
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rgwv3GJxvIEwpWtC2QOzkT#.mp4
+#EXTINF:-1 tvg-id="658614" tvg-name="Furia oriental II (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk0lB5M5sMFy98zyl8Vkfndse63.jpg" group-title="ACCION",Furia oriental II (1976)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oSXFtuAl5PGJuXdId58GD8#.mkv
+#EXTINF:-1 tvg-id="658613" tvg-name="First Kill (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRbOch5HHr6LHIFHInXoX4UKdcL.jpg" group-title="ACCION",First Kill (2001)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0o2THAyPyB3GCSpfKdXFEWq#.mkv
+#EXTINF:-1 tvg-id="658612" tvg-name="El infiltrado (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1V9aoBYrUfCkpl4598MUeMCL8i.jpg" group-title="ACCION",El infiltrado (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rqqFFzh3DHr7Kxz1osaiiL#.mkv
+#EXTINF:-1 tvg-id="658611" tvg-name="Gridlocked (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epcK83nqmFZw2MJA6Ia0L5v51gf.jpg" group-title="ACCION",Gridlocked (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oLZnELpaKvj8y-nC8bVip5#.mkv
+#EXTINF:-1 tvg-id="658610" tvg-name="Guardianes de la tumba (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifZEyQ62JnMOfsXEp29WDpSQDAE.jpg" group-title="ACCION",Guardianes de la tumba (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qoXivakXJpFB3meKMQWG2i#.mkv
+#EXTINF:-1 tvg-id="658609" tvg-name="El Rey (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYOhpVlxRUURN148oiPGrwWWNRU.jpg" group-title="ACCION",El Rey (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0otGaZxfzUOnLZm50ZV9JI5#.mp4
+#EXTINF:-1 tvg-id="658608" tvg-name="Escape from Atlantis (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62xL9Cp4w0OAnsN9LP4HtDPMkvB.jpg" group-title="ACCION",Escape from Atlantis (1997)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qXVonqnosS2J5czBZtPciF#.mkv
+#EXTINF:-1 tvg-id="658607" tvg-name="El Polaquito (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oECJ0oMrB7JBNwzRmLiPGGtS3QC.jpg" group-title="ACCION",El Polaquito (2003)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oJAzVubeYJQBLtBfRVRUBb#.avi
+#EXTINF:-1 tvg-id="658606" tvg-name="GoldenEye (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/plvWFyL4tQXgWOae0P8A4hECWLD.jpg" group-title="ACCION",GoldenEye (1995)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oJf3ntY59Jn8evz0Uc-Iut#.mkv
+#EXTINF:-1 tvg-id="658605" tvg-name="El mensajero (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b9oyfaUNnNh6a3W34ZG78LhHv37.jpg" group-title="ACCION",El mensajero (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qnh19fKH_Hb9S2caG1fWPe#.mkv
+#EXTINF:-1 tvg-id="658604" tvg-name="God of War (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Tpd6wGTsMMHvaNindz4465wXPb.jpg" group-title="ACCION",God of War (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0q3Hz9hhpu2Rp2-Nq1VqRMJ#.mp4
+#EXTINF:-1 tvg-id="658603" tvg-name="El mercenario 4 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SQgyQiZn1NqjSWsstfAS3Feukv.jpg" group-title="ACCION",El mercenario 4 (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0p9V3-cFHJXINUAmOrae6HN#.avi
+#EXTINF:-1 tvg-id="658602" tvg-name="Che: Guerrilla (Parte 2) (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47nErlcb9TkzNQr2P9ChG5wSq2o.jpg" group-title="ACCION",Che: Guerrilla (Parte 2) (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qUIv7_tQaKEqTHFP9J0cK_#.mkv
+#EXTINF:-1 tvg-id="658601" tvg-name="El rey escorpión 4: La búsqueda del poder (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg" group-title="ACCION",El rey escorpión 4: La búsqueda del poder (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0qOmpjKzRH-POQHcZFUo12L#.mkv
+#EXTINF:-1 tvg-id="658600" tvg-name="Gadis Berwajah Seribu (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oR93medIBFDV5Ksobx4limsaLtH.jpg" group-title="ACCION",Gadis Berwajah Seribu (1984)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0rl1M5vCCQRWyMyP7ZQFGXb#.mkv
+#EXTINF:-1 tvg-id="658599" tvg-name="Elysium (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEdwDsEwny5rAZ8WEPA97XBqtru.jpg" group-title="ACCION",Elysium (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLVkDvhqQILZKmN0zC3YCY2#.mkv
+#EXTINF:-1 tvg-id="658598" tvg-name="Fair Game (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBu8jdf2fToHpY9FoxrJm0Raq5d.jpg" group-title="ACCION",Fair Game (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIMnfCwzyYCQ0AEgif4GOGz#.mkv
+#EXTINF:-1 tvg-id="658597" tvg-name="Fijación peligrosa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhQViJlv0l1fZbkhQesvzSD4wg2.jpg" group-title="ACCION",Fijación peligrosa (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJqPAcxMqS-tvOB0UCxxpIA#.mkv
+#EXTINF:-1 tvg-id="658596" tvg-name="El último mohicano (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mM9ewvwSZM5DdHFeSaFtRJYDCij.jpg" group-title="ACCION",El último mohicano (1992)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKn50cyclmpErvvZ1Iv2DkH#.mp4
+#EXTINF:-1 tvg-id="658595" tvg-name="El día de mañana (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4IUWfr4AokGlVSWNRAat0DfbgZ.jpg" group-title="ACCION",El día de mañana (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIHpzgqmt9SW7NOD4RYomKt#.mp4
+#EXTINF:-1 tvg-id="658594" tvg-name="Fire With Fire (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPN5od0kNARBR4w1r7HJIc3rSVT.jpg" group-title="ACCION",Fire With Fire (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKG4jPZUxR_nCfGf1o5asWh#.mkv
+#EXTINF:-1 tvg-id="658593" tvg-name="El legado de Bourne (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWVaLBdcVrTqSTBKIJLinmuxRso.jpg" group-title="ACCION",El legado de Bourne (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIUqnTh7eZOlce66-jPi0aD#.mp4
+#EXTINF:-1 tvg-id="658592" tvg-name="Eliminators (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsJHnIjAuwukZl4SMifx5pcZX4y.jpg" group-title="ACCION",Eliminators (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLDw-VF7TBLOA1tNVfh9d2W#.mkv
+#EXTINF:-1 tvg-id="658591" tvg-name="El ritmo de la venganza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7s8CxIVvtAfNJQlTcYIWy7XpM2.jpg" group-title="ACCION",El ritmo de la venganza (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJKwQdg3hXqQwrFhxBTSo2A#.mp4
+#EXTINF:-1 tvg-id="658590" tvg-name="Equilibrium (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg" group-title="ACCION",Equilibrium (2002)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgI0d2La1cQByWCV5cruPPg2#.mp4
+#EXTINF:-1 tvg-id="658589" tvg-name="Escape Room (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9caNLfcdLX0Q6HctTCEHGnWW5P.jpg" group-title="ACCION",Escape Room (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKtcabyDrLFXqmk4lB8qddv#.mkv
+#EXTINF:-1 tvg-id="658588" tvg-name="El informante (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUt2qSq866nncvuBdEjfV0iw5gJ.jpg" group-title="ACCION",El informante (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLzIbhUVBLhHNIZSzPB2eF-#.mp4
+#EXTINF:-1 tvg-id="658587" tvg-name="Enemigos públicos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzOsbkW43WSKQKnkRa6kBbjmd1m.jpg" group-title="ACCION",Enemigos públicos (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKCck_4dSTvErnVAAThF3Bj#.mp4
+#EXTINF:-1 tvg-id="658586" tvg-name="El protector (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IH11xlrzrdldYymyEN99b6TTjC.jpg" group-title="ACCION",El protector (1985)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIhXSKzYEOj5qke_9VTH3ny#.mp4
+#EXTINF:-1 tvg-id="658585" tvg-name="Guardianes de la galaxia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqZNnuMtrmK99Xux91KiCdnZxgb.jpg" group-title="ACCION",Guardianes de la galaxia (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJ-XRX1QvXoD0xvKkGGLUbR#.mkv
+#EXTINF:-1 tvg-id="658584" tvg-name="Hardcore Henry (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqu4G6sghlca1CGBIa5TXKVtGLP.jpg" group-title="ACCION",Hardcore Henry (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLcQNBevaXN7Xw92rtSPmk8#.mkv
+#EXTINF:-1 tvg-id="658583" tvg-name="En territorio enemigo (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7w3Mo1bYW46AXdgltC5j02x5we.jpg" group-title="ACCION",En territorio enemigo (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgInUK43AhL1ynFHKWR_flSY#.mp4
+#EXTINF:-1 tvg-id="658582" tvg-name="Hitman (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/swNGiyindNZaZdJfOKFcFX9TvdC.jpg" group-title="ACCION",Hitman (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIh6q1XA7rUAkGM4lA2xZEc#.mkv
+#EXTINF:-1 tvg-id="658581" tvg-name="El tren de la muerte (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDgc6pFHE1iw9fhFIuTaq23QPNr.jpg" group-title="ACCION",El tren de la muerte (2002)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJGwIrSjQeRG60a9zPUheZa#.mp4
+#EXTINF:-1 tvg-id="658580" tvg-name="Gun (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9dUF1YjDPL5OOlR6GbeYcvu6Q0.jpg" group-title="ACCION",Gun (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIUVYHnWtMZeMOboQ25MgJB#.mkv
+#EXTINF:-1 tvg-id="658579" tvg-name="El juez (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d89FZk4nID54tKRV5oInKneZgT3.jpg" group-title="ACCION",El juez (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJt4kRIbtsbBpakSjQZ88Xl#.mp4
+#EXTINF:-1 tvg-id="658578" tvg-name="El golpe del siglo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUwqfJ1us0jtyuPiV2gEItqzKdK.jpg" group-title="ACCION",El golpe del siglo (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKzA6J-epO5IiGEdiVAzqO-#.mp4
+#EXTINF:-1 tvg-id="658577" tvg-name="Hermano de sangre (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pvEFIUGyKPpfKSXzmpETxZ2oWj.jpg" group-title="ACCION",Hermano de sangre (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLNb5GYCuKLz9tkyDSu8_Cw#.mkv
+#EXTINF:-1 tvg-id="658576" tvg-name="Guardianes del día (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1g187Io0kgbMo8tYG2inRSQB45.jpg" group-title="ACCION",Guardianes del día (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJ6M4heyDpUpp6nndv4_1IB#.mkv
+#EXTINF:-1 tvg-id="658575" tvg-name="El núcleo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4HpogVLiVtx0LWW8XuJoWT7WfZ.jpg" group-title="ACCION",El núcleo (2003)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLp9CBv6ClzKh0pS5Uv5INb#.mkv
+#EXTINF:-1 tvg-id="658574" tvg-name="Cocodrilo (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWRlKMVDwjtMV3OPYWLaXJLAc5G.jpg" group-title="ACCION",Cocodrilo (1979)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgImP30Dna_JtNgWiWnTzl_9#.mp4
+#EXTINF:-1 tvg-id="658573" tvg-name="El Rascacielos Latino (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ftcuBZiBgc0gjYCWaUxEfyaWoe.jpg" group-title="ACCION",El Rascacielos Latino (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIoCkzdZ0O-3bjemu-ZJJIx#.mkv
+#EXTINF:-1 tvg-id="658572" tvg-name="El reino (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPYRQYycflQbUcb6H0XRGwZkGLz.jpg" group-title="ACCION",El reino (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJE1fhTfuMvpWYIw80ls6uA#.mkv
+#EXTINF:-1 tvg-id="658571" tvg-name="El efecto sombra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytSN0Adr4oYTLGd5q7zfOLMGC1d.jpg" group-title="ACCION",El efecto sombra (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJ0bPIWEGacy9j3uM-5Ghyw#.mkv
+#EXTINF:-1 tvg-id="658570" tvg-name="El mañana nunca muere (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rm4vVzMKv7zallSTDl4XqfOslqU.jpg" group-title="ACCION",El mañana nunca muere (1997)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIpbzmEzvzi4X2o2FYkn3Po#.mkv
+#EXTINF:-1 tvg-id="658569" tvg-name="Godzilla: King of the Monsters- Castle Bravo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Zzp3Vyu6ld6Ome6wxykQDqLl0U.jpg" group-title="ACCION",Godzilla: King of the Monsters- Castle Bravo (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJAMgLa2LhsO_PQcO16e3NC#.mkv
+#EXTINF:-1 tvg-id="658568" tvg-name="Gabriel (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg" group-title="ACCION",Gabriel (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKmnJaO35op8MAeneVCvW3Z#.mkv
+#EXTINF:-1 tvg-id="658567" tvg-name="El hombre de los puños de hierro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ob8jkwsa2swYex23Qkh3DxT0DSi.jpg" group-title="ACCION",El hombre de los puños de hierro (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgImNeY5ZNbjN84g9WD8oUXo#.mkv
+#EXTINF:-1 tvg-id="658566" tvg-name="El hobbit: La batalla de los cinco ejércitos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OiNSLcRKJsBLXwb6DEi6IQ0JFk.jpg" group-title="ACCION",El hobbit: La batalla de los cinco ejércitos (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKCeoH4md3-Ol6gdkAE3TAP#.mp4
+#EXTINF:-1 tvg-id="658565" tvg-name="El mito (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFNwX6AxfWgsZEISJUtr6PxCEH9.jpg" group-title="ACCION",El mito (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLmQQoq0Y1bmfcxHnlpAvNH#.mp4
+#EXTINF:-1 tvg-id="658564" tvg-name="Fists of Legend (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rk6zNA8ZKH4Uf0RxTp91prE8kkX.jpg" group-title="ACCION",Fists of Legend (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgK5ymaU1FeGA4pItAz3qPhl#.mkv
+#EXTINF:-1 tvg-id="658563" tvg-name="Emboscada final (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNe6LNbSyBSpsSoinGc6iIn1x4c.jpg" group-title="ACCION",Emboscada final (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLaoXAG68RAJ34LP3kol2q9#.mp4
+#EXTINF:-1 tvg-id="658562" tvg-name="El hechicero y la serpiente blanca (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woYStyBxObtdF3rc3AwnqvcXOzr.jpg" group-title="ACCION",El hechicero y la serpiente blanca (2011)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIfZ1DpOrLPtaKx1GMdvTcu#.mp4
+#EXTINF:-1 tvg-id="658561" tvg-name="El gran torneo (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3Bdab4I9hNnjU7scxPc7vfxbgR.jpg" group-title="ACCION",El gran torneo (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKVijOseB2cwIg8akCttXEC#.mkv
+#EXTINF:-1 tvg-id="658560" tvg-name="Cuatro hermanos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HtCW7TO9HvsEyK7Nm1bQYwcgxD.jpg" group-title="ACCION",Cuatro hermanos (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLKPuYLulsCsA76xafRxD4j#.mkv
+#EXTINF:-1 tvg-id="658559" tvg-name="El canto del lobo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUml6AgappSOAU8Frkh9cpjXSd.jpg" group-title="ACCION",El canto del lobo (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJCFuukwxv3jAf5aTd9_ody#.mkv
+#EXTINF:-1 tvg-id="658558" tvg-name="Escoltara! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SsyeGwwebNeJhuPOQnKwtkyDSn.jpg" group-title="ACCION",Escoltara! (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIbtk_VB86Mq6hPfie8ZIa0#.mp4
+#EXTINF:-1 tvg-id="658557" tvg-name="El Fantasma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f73ZwcDXXxiPeKf0OuwuVvaDWni.jpg" group-title="ACCION",El Fantasma (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLLZVP_6qhjpNbQl9rzfjzj#.mkv
+#EXTINF:-1 tvg-id="658556" tvg-name="El francotirador (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uklOOpBJzomVW0olKAC0Abk4lwl.jpg" group-title="ACCION",El francotirador (1977)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgK30bVybqD52ywoch5J84fm#.mp4
+#EXTINF:-1 tvg-id="658555" tvg-name="El hobbit: La desolación de Smaug (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1s8xZDmG5IkDU0m1LeW28YcwTRx.jpg" group-title="ACCION",El hobbit: La desolación de Smaug (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIiDOG7agy4n7bEO392Sucj#.mkv
+#EXTINF:-1 tvg-id="658554" tvg-name="El protector (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3voE6N8OCTfmz8nYd0bzNT4jqQB.jpg" group-title="ACCION",El protector (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIQWq-YgJ-mRqII454Ay3sd#.mp4
+#EXTINF:-1 tvg-id="658553" tvg-name="Extraordinary Mission (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rNCdSGUIB4UV8B653KsvN0U4ux.jpg" group-title="ACCION",Extraordinary Mission (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJB_5MLUwj9MdYDUhEgvTCp#.mkv
+#EXTINF:-1 tvg-id="658552" tvg-name="El justiciero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkImCSIM8ROpTSA8EF2joYdBNd.jpg" group-title="ACCION",El justiciero (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLTbcj3b3-8Exx8zL6f7cSa#.mp4
+#EXTINF:-1 tvg-id="658551" tvg-name="Implacable (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGsagD1rvgqb0c59YuYzkCcj7bM.jpg" group-title="ACCION",Implacable (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIVZV6NXpI7A7jPI2VTdP5i#.mkv
+#EXTINF:-1 tvg-id="658550" tvg-name="El Rescate (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQvpOFHz2f8E4ZJaIM5tuzP1rlW.jpg" group-title="ACCION",El Rescate (2011)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgK96bTNwFDo5E96RoO1wtHS#.avi
+#EXTINF:-1 tvg-id="658549" tvg-name="El Camino es Largo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",El Camino es Largo (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIOlFg3FLuoyFC4gvNr-Old#.mp4
+#EXTINF:-1 tvg-id="658548" tvg-name="Elektra (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPNM1iP7YS9w4OQsBOChLzbHmBF.jpg" group-title="ACCION",Elektra (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgL3aB4kdTEu4I5jX1QVXlHz#.mkv
+#EXTINF:-1 tvg-id="658546" tvg-name="El especialista (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBdd0fHLKKe79En5DqdPmSzQo9c.jpg" group-title="ACCION",El especialista (1994)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLl9471_GMfn4im2_RW3nxu#.mkv
+#EXTINF:-1 tvg-id="658546" tvg-name="El especialista (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBdd0fHLKKe79En5DqdPmSzQo9c.jpg" group-title="ACCION",El especialista (1994)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLl9471_GMfn4im2_RW3nxu#.mkv
+#EXTINF:-1 tvg-id="658544" tvg-name="El poder del Tai Chi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2v2zWare31ryOxPWpqORfgSDa7K.jpg" group-title="ACCION",El poder del Tai Chi (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKeoFwPs98H-ca0q1hytvB7#.mp4
+#EXTINF:-1 tvg-id="658543" tvg-name="El hombre de acero (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg" group-title="ACCION",El hombre de acero (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKYb6FfuV77bamsn2p_Qmsx#.mp4
+#EXTINF:-1 tvg-id="658542" tvg-name="En La Tormenta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRZxgM5b6x2tFOXuGXqQ9UDTFxP.jpg" group-title="ACCION",En La Tormenta (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLX5W3vcF0HmY_N4VSYChzA#.mkv
+#EXTINF:-1 tvg-id="658541" tvg-name="El libro de Eli (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufvg1HHiFSiRRpwEMYK5gbYpTi.jpg" group-title="ACCION",El libro de Eli (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJn6dHjKJilY5zVHTzpcp8P#.avi
+#EXTINF:-1 tvg-id="658540" tvg-name="Dragonheart: Vengeance (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPGAlXyPH21qg38GF1Ydd0xDg7B.jpg" group-title="ACCION",Dragonheart: Vengeance (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJ3jw3SRTtIf27CxfZZVTZH#.mkv
+#EXTINF:-1 tvg-id="658539" tvg-name="Enemies of the State (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Lc7z9nRXVcmTx6FYN0lcLrqxUX.jpg" group-title="ACCION",Enemies of the State (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJW6U5LA4FZOcbPSWdX5URu#.mkv
+#EXTINF:-1 tvg-id="658538" tvg-name="El despertar de los muertos vivientes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl3gEKM12J93WrUoAXkZNHzTiRR.jpg" group-title="ACCION",El despertar de los muertos vivientes (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgINbJLE9J23YvVSrHwP_gIT#.mkv
+#EXTINF:-1 tvg-id="658537" tvg-name="El guardaespaldas (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnGQbumT2SejsZprnszaI2bLA4R.jpg" group-title="ACCION",El guardaespaldas (1992)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJaSp3D-AJXXzLlFm3i4Rkd#.mkv
+#EXTINF:-1 tvg-id="658537" tvg-name="El guardaespaldas (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnGQbumT2SejsZprnszaI2bLA4R.jpg" group-title="ACCION",El guardaespaldas (1992)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJaSp3D-AJXXzLlFm3i4Rkd#.mkv
+#EXTINF:-1 tvg-id="658535" tvg-name="El regreso de los supercamorristas (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHta7OtvD7PSV6cYpVrCTN4eMP.jpg" group-title="ACCION",El regreso de los supercamorristas (1985)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgI4Jp5cO1iDmjiBum6qHQhM#.mkv
+#EXTINF:-1 tvg-id="658534" tvg-name="El hobbit: Un viaje inesperado (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dJELUqdpGEkXVrMj7V3BiOjrtf.jpg" group-title="ACCION",El hobbit: Un viaje inesperado (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLDZh8Fz12H9JLRk_VUtRdE#.mkv
+#EXTINF:-1 tvg-id="658533" tvg-name="El cuervo: Ciudad de ángeles (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQicFam5Y9J9AgbNweQhrGqEgfi.jpg" group-title="ACCION",El cuervo: Ciudad de ángeles (1996)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIvRQbQuoPFBLiIrF5m0wvM#.mp4
+#EXTINF:-1 tvg-id="658532" tvg-name="Dunkerque (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lc06ptVbouEaZyjdHfCzmIm6v7.jpg" group-title="ACCION",Dunkerque (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJX14Jnt8FeQ-ywwL8y_C-1#.mp4
+#EXTINF:-1 tvg-id="658531" tvg-name="El caballero de la Navidad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8waiMa3Ockoi4oY1vvqNnfW35xu.jpg" group-title="ACCION",El caballero de la Navidad (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIxi4q2G3qzJjSQ77kHroCt#.mp4
+#EXTINF:-1 tvg-id="658530" tvg-name="El asesinato de Jesse James por el cobarde Robert Ford (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azrNQgdyBczVjLwqYqefPf3Vg6X.jpg" group-title="ACCION",El asesinato de Jesse James por el cobarde Robert Ford (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKaZhIGdXiPAzjCc0QaM3pw#.mp4
+#EXTINF:-1 tvg-id="658529" tvg-name="El Día del Apocalipsis (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aw39Mnisd1k3NtgOevzHthPZQYg.jpg" group-title="ACCION",El Día del Apocalipsis (1999)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIz7R5dxNsVW025VysnUeZi#.avi
+#EXTINF:-1 tvg-id="658528" tvg-name="El final de todo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2qO672N3FgpVT7a9bSjBQJikEg.jpg" group-title="ACCION",El final de todo (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJ7ep6FOKNfBhEdkm0GGkii#.mp4
+#EXTINF:-1 tvg-id="658527" tvg-name="El amanecer del planeta de los simios (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mP5Wr0YkO3EDqc6vkvtdifi7KKI.jpg" group-title="ACCION",El amanecer del planeta de los simios (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLa63ShZtwSlnj2-jqQkqmY#.mp4
+#EXTINF:-1 tvg-id="658525" tvg-name="El ojo de vidrio (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7vnOBvsdzFtGuVef474FyuwvcMN.jpg" group-title="ACCION",El ojo de vidrio (1969)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJ_wqX6JvcVcgLsdeFEnd8Y#.mkv
+#EXTINF:-1 tvg-id="658524" tvg-name="El día del fin del mundo (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32TkPff2McjebzcOmKSXwRtBSlK.jpg" group-title="ACCION",El día del fin del mundo (1980)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLUOCstRsOL4VAYOeMGIBbh#.mp4
+#EXTINF:-1 tvg-id="658523" tvg-name="El Redentor (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsLxgc99xlKaW1CJ7YeuKtnNL4X.jpg" group-title="ACCION",El Redentor (1959)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJnmSaC6WPNisW8rL5DXvPM#.avi
+#EXTINF:-1 tvg-id="658522" tvg-name="Los demoledores (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cQiPL80qZuIjHgzQYNVEfkGbFA.jpg" group-title="ACCION",Los demoledores (1974)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLeEY0Z_GNfyQkcT18puQ4_#.mp4
+#EXTINF:-1 tvg-id="658521" tvg-name="El Ninja Invencible (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lfLc0yrSoaGRukq0MEMaO25WVL.jpg" group-title="ACCION",El Ninja Invencible (1976)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLvjg27APShvV91Ymxf0zR_#.avi
+#EXTINF:-1 tvg-id="658520" tvg-name="El otro guardaespaldas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT29bkqVszT8r6DhC9lTuOx6rK.jpg" group-title="ACCION",El otro guardaespaldas (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKCz-hlIPrvbyW5e0uI_Nc_#.mp4
+#EXTINF:-1 tvg-id="658519" tvg-name="El juego de la muerte (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EtdSlvmwfRmEX2TAeyaTgJBVWu.jpg" group-title="ACCION",El juego de la muerte (1987)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgL4rAx6EpxS8c_iGdJ2dMRn#.mp4
+#EXTINF:-1 tvg-id="658518" tvg-name="El turista (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",El turista (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgL-hLbxSEFIMYlnzVZ5al4w#.avi
+#EXTINF:-1 tvg-id="658517" tvg-name="El Justiciero (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzIkjDCgwotQLUfTgdybWziOKVV.jpg" group-title="ACCION",El Justiciero (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIMtlfeXDDFnL2g1rOAr5Bo#.mp4
+#EXTINF:-1 tvg-id="658516" tvg-name="El extranjero (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvJcP62XCRSWD7SxFoeLM89ttuj.jpg" group-title="ACCION",El extranjero (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLR3atU9HQNDqJRAoGMfpRg#.mp4
+#EXTINF:-1 tvg-id="658515" tvg-name="El Paletero (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLAS4FUfmskwJwIoFs23U3tEpnE.jpg" group-title="ACCION",El Paletero (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKhIhPX7jbGCS-O4TQzF1ii#.mkv
+#EXTINF:-1 tvg-id="658514" tvg-name="El hijo de Lamberto Quintero (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZkhg3LbFO35Aq7aSIHbY7AtzFO.jpg" group-title="ACCION",El hijo de Lamberto Quintero (1990)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJnay6QQqSMZvq99LC2Klw8#.mp4
+#EXTINF:-1 tvg-id="658513" tvg-name="El hombre de los puños de hierro 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAY1L0BOzehTHc8W4J5ElEKdCr6.jpg" group-title="ACCION",El hombre de los puños de hierro 2 (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgK7DFPBfNIgT13o1sUJ1BTC#.mp4
+#EXTINF:-1 tvg-id="658512" tvg-name="El hombre con un zapato rojo (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zxCZ60rATJyRxek7Q8xm8FwxC4.jpg" group-title="ACCION",El hombre con un zapato rojo (1985)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKm99t1lH6quVVL8KHyFzhK#.mp4
+#EXTINF:-1 tvg-id="658511" tvg-name="Depredador (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jl5Y5p2pbhgRwREWbll2RbciG5Z.jpg" group-title="ACCION",Depredador (1987)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIZy6qAx7-OonqplXI7sVml#.mkv
+#EXTINF:-1 tvg-id="658510" tvg-name="Domino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5oswpgpukI3sg2L49jY0ITVz4O.jpg" group-title="ACCION",Domino (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgL57_fH08peAIQjhCXiKHmV#.mkv
+#EXTINF:-1 tvg-id="658509" tvg-name="El Gringo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM2bXInHW0CQdRDgM5GiJjAV1QQ.jpg" group-title="ACCION",El Gringo (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLvLE57BY9FKsSkfaOvszUX#.mkv
+#EXTINF:-1 tvg-id="658508" tvg-name="El Grinch: el cuento animado (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnVPmEsFycmrv7g3fqruKtdr3t.jpg" group-title="ACCION",El Grinch: el cuento animado (1966)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJBW0AwHLI-uphYe6VY_l3T#.mp4
+#EXTINF:-1 tvg-id="658554" tvg-name="El protector (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3voE6N8OCTfmz8nYd0bzNT4jqQB.jpg" group-title="ACCION",El protector (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIQWq-YgJ-mRqII454Ay3sd#.mp4
+#EXTINF:-1 tvg-id="658506" tvg-name="El protector (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",El protector (1963)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIb9PPKLR8tAroCuiqBH867#.mkv
+#EXTINF:-1 tvg-id="658505" tvg-name="Doble impacto (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8xoizvqv9k0Am1vNQrTHkVFXzBE.jpg" group-title="ACCION",Doble impacto (1991)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgLOepNSlArz9hoB3oW0xf5U#.mkv
+#EXTINF:-1 tvg-id="658504" tvg-name="El famoso Chino (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",El famoso Chino (1980)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgJRGwJfYvRUrn_2yiBhFW-8#.avi
+#EXTINF:-1 tvg-id="658503" tvg-name="El escuadrón del diablo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vs5mdjO1HUCyw6sHq22fwHveIC4.jpg" group-title="ACCION",El escuadrón del diablo (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgK3MUiOeZ5325NuyJR-twS7#.mp4
+#EXTINF:-1 tvg-id="658503" tvg-name="El escuadrón del diablo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vs5mdjO1HUCyw6sHq22fwHveIC4.jpg" group-title="ACCION",El escuadrón del diablo (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgK3MUiOeZ5325NuyJR-twS7#.mp4
+#EXTINF:-1 tvg-id="658501" tvg-name="El Santo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l79hqAWJHrJDnDLCeQUZaGr1YD.jpg" group-title="ACCION",El Santo (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgISvNGLgn6fBPqiOc-Lz3-y#.mkv
+#EXTINF:-1 tvg-id="658500" tvg-name="El chacal (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psLoVO78aqbyXBQU9l5EFz7VrkE.jpg" group-title="ACCION",El chacal (1987)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgIWH401yuwCMWoLYSC449Ui#.mp4
+#EXTINF:-1 tvg-id="658499" tvg-name="El cuatrero (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZ7YDTCRCeW0FVMJs4Gpq2ZwBjt.jpg" group-title="ACCION",El cuatrero (1989)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFYskMOjY6sRFLDdUobcREo#.mp4
+#EXTINF:-1 tvg-id="658498" tvg-name="El agente (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkh7PLfMCYqMXHKWpRjzKFmb3lV.jpg" group-title="ACCION",El agente (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcF3T4U7zXgYzNhpHb65vBAu#.mkv
+#EXTINF:-1 tvg-id="658497" tvg-name="Edison I (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",Edison I (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGcy6YGH1eDnCzi6krmvLZq#.mp4
+#EXTINF:-1 tvg-id="658496" tvg-name="Duna (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PQdUB1KDxMxdw7KBdFFgI9kJPv.jpg" group-title="ACCION",Duna (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHnFhwfrx-58A_zlx0NpbTL#.mkv
+#EXTINF:-1 tvg-id="658495" tvg-name="El recolector (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2d6YzXDSiuk0e6GCEr2WSZz1aU.jpg" group-title="ACCION",El recolector (2022)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGvTVfnZbvDshDHtylR1cGE#.mp4
+#EXTINF:-1 tvg-id="658494" tvg-name="El cuervo: Salvación (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUFQCbZH2otP5QOpdGCTLbu5RyG.jpg" group-title="ACCION",El cuervo: Salvación (2000)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEfvZ23JAO7bLy8Q2KlpuRH#.mp4
+#EXTINF:-1 tvg-id="658493" tvg-name="El Plan Perfecto (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1Nebn3yTUYtToYpa932mkWzYl5.jpg" group-title="ACCION",El Plan Perfecto (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHoYIN4KybnrCCsv77lgu7U#.mkv
+#EXTINF:-1 tvg-id="658492" tvg-name="Destruction: Los Angeles (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbxpYjTrOgbQTtPrgdpl3EOu75q.jpg" group-title="ACCION",Destruction: Los Angeles (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHSIMqGipybFQEwuqaKkg4F#.mkv
+#EXTINF:-1 tvg-id="658492" tvg-name="Destruction: Los Angeles (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbxpYjTrOgbQTtPrgdpl3EOu75q.jpg" group-title="ACCION",Destruction: Los Angeles (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHSIMqGipybFQEwuqaKkg4F#.mkv
+#EXTINF:-1 tvg-id="658490" tvg-name="El Llanero Solitario (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3CDpP25e1sDluuvEbgnhl1Ovte.jpg" group-title="ACCION",El Llanero Solitario (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHMs2Uoxtaz-BcwpSvBRwlx#.avi
+#EXTINF:-1 tvg-id="658489" tvg-name="El camino del guerrero (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkXo3NZhx2cASS1cjMKnsjJ1ftI.jpg" group-title="ACCION",El camino del guerrero (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcH4SqsUTADM3IcbGlgibk0p#.mkv
+#EXTINF:-1 tvg-id="658488" tvg-name="El hombre que inventó la Navidad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJqp9bp6Ig6RxJIRkxeFNRLJDb4.jpg" group-title="ACCION",El hombre que inventó la Navidad (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEWRq4-gYvWNxNppWpwhFaN#.mp4
+#EXTINF:-1 tvg-id="658487" tvg-name="El Camino: Una película de Breaking Bad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoWADuvXs3Ua4AXBAiZYnppTupO.jpg" group-title="ACCION",El Camino: Una película de Breaking Bad (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcF-KqCCAljEdQq_as5T9grk#.mkv
+#EXTINF:-1 tvg-id="658486" tvg-name="El ataque del tiburón de dos cabezas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elKZZhpc6fVFgMFPZaVAC4l1JdM.jpg" group-title="ACCION",El ataque del tiburón de dos cabezas (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGgFaXVFhPwpTGp3_Nf2ASl#.mkv
+#EXTINF:-1 tvg-id="658485" tvg-name="Doctor Extraño: El hechicero supremo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oczXYdStbFituTIDharMhcXDAkg.jpg" group-title="ACCION",Doctor Extraño: El hechicero supremo (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFcl3Ov2_QU2SM39coDcPqV#.mp4
+#EXTINF:-1 tvg-id="658484" tvg-name="Dredd (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXBx3n0e86mjBznuIRz6EmRv8Mv.jpg" group-title="ACCION",Dredd (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHuLa5iAnyztM2JnNZakD6a#.mkv
+#EXTINF:-1 tvg-id="658483" tvg-name="Duro de matar (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWHpCti0TWpU9g3HkmIShIjnYhW.jpg" group-title="ACCION",Duro de matar (1995)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEudFb2wbf2cPO2aTYtHpoB#.mp4
+#EXTINF:-1 tvg-id="658482" tvg-name="El aprendiz de Kung Fu (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5iaMKY9gTnDx16d5Ht9BtUDX94V.jpg" group-title="ACCION",El aprendiz de Kung Fu (1978)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGnGTZDNGPTOGE5O5bSVZi2#.mkv
+#EXTINF:-1 tvg-id="658481" tvg-name="Dick Tracy (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWVg35ieeTKjWeX2bJLRe8YYd2A.jpg" group-title="ACCION",Dick Tracy (1990)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHnqpJVjP5TkBEWeFCxw1rx#.avi
+#EXTINF:-1 tvg-id="658480" tvg-name="Downhill (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOACVnxwVKmD21wbFQQAen4DgbP.jpg" group-title="ACCION",Downhill (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHHKxGrbsHdkbPNqU0BBYRD#.mkv
+#EXTINF:-1 tvg-id="658479" tvg-name="Dos duros sobre ruedas (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wimgbZSfDW78r0DXaBXCBl3Ueiy.jpg" group-title="ACCION",Dos duros sobre ruedas (1991)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEUPoJqGb1kmryamUNjxNgC#.mkv
+#EXTINF:-1 tvg-id="658478" tvg-name="Divergente (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/libmZ7xJBkVWmoixPyF3EdTmNtt.jpg" group-title="ACCION",Divergente (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcG0BDz-rhz3r1ys2zACd7BW#.mp4
+#EXTINF:-1 tvg-id="658477" tvg-name="Dragon Blade (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNLYneTNnlfjf0jVUADlqA7RXaf.jpg" group-title="ACCION",Dragon Blade (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEG5I6HdYhbrP09QeF7hI8U#.mkv
+#EXTINF:-1 tvg-id="658476" tvg-name="Destino de caballero (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KFS7tb9aYRnnH3AfXZeRZf62a6.jpg" group-title="ACCION",Destino de caballero (2001)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFZ56hIgHbbULgsiJPA2fHJ#.mp4
+#EXTINF:-1 tvg-id="658475" tvg-name="Distrito 13 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFfr61aXpw40kPRSQIFoYxZzi0t.jpg" group-title="ACCION",Distrito 13 (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFfInVwODMmcvS0lJJ8kIc3#.avi
+#EXTINF:-1 tvg-id="658474" tvg-name="Domino (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gDKUSCi7a0De9N1U0W2YEypOH9x.jpg" group-title="ACCION",Domino (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcH3-gib4odbLudCvpX1T728#.mp4
+#EXTINF:-1 tvg-id="658473" tvg-name="Deadpool (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg" group-title="ACCION",Deadpool (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGQ8X7GjpoeJEIxAk2sSH3a#.mp4
+#EXTINF:-1 tvg-id="658473" tvg-name="Deadpool (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TUYy0XvhPQBhrXJwRIaOoYFOBO.jpg" group-title="ACCION",Deadpool (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGQ8X7GjpoeJEIxAk2sSH3a#.mp4
+#EXTINF:-1 tvg-id="658471" tvg-name="Dragonball Evolution (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMCD0CYAFlVxbP33Xgh7sexhRkC.jpg" group-title="ACCION",Dragonball Evolution (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHeQDX4nbfR1loDf5EubB5j#.mp4
+#EXTINF:-1 tvg-id="658470" tvg-name="Django: La otra cara (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcuHdnVtAOsbvE93bN9MhiBVF0J.jpg" group-title="ACCION",Django: La otra cara (2002)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHXuIDalIy6tIx3BX89CmvY#.mkv
+#EXTINF:-1 tvg-id="658469" tvg-name="El combate (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",El combate (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFHivURreZ7PJL2NQCabNo5#.mp4
+#EXTINF:-1 tvg-id="658468" tvg-name="Doctor Who: La última Navidad (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5XHo7MQgX3V7nNlEnl5gwZURDL.jpg" group-title="ACCION",Doctor Who: La última Navidad (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGL0xoFpIiEMqcaZmfUe6-D#.mkv
+#EXTINF:-1 tvg-id="658466" tvg-name="Django: Sangre de mi sangre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNBMtAKgYsqHAA5GfyKyMerG9au.jpg" group-title="ACCION",Django: Sangre de mi sangre (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFm_vCdmLl3ytYNQ8e__vpu#.mkv
+#EXTINF:-1 tvg-id="658465" tvg-name="Drive (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZUNyvVGTPkeBVXXTMnhIRoXlfo.jpg" group-title="ACCION",Drive (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHgyBFuDFmcZE_7sFxQ2yMy#.mkv
+#EXTINF:-1 tvg-id="658464" tvg-name="Edge of Tomorrow (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJDvk03yv302DPG5z3d200Vr9Hf.jpg" group-title="ACCION",Edge of Tomorrow (1961)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFxCdcJyw9Nu0dUgmRmdsIz#.mkv
+#EXTINF:-1 tvg-id="658463" tvg-name="Dragon (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4m1hIVO3OKaMqEzNDEBKKOuXiQ.jpg" group-title="ACCION",Dragon (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFsrPqL63HoUQRYy6LaQr76#.mp4
+#EXTINF:-1 tvg-id="658462" tvg-name="Edge of Fear (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lrnoF2jQIq6WaccKqaX8VdCMwcL.jpg" group-title="ACCION",Edge of Fear (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcG1msQxXWr2PS4ZAkZPt_lx#.mkv
+#EXTINF:-1 tvg-id="658460" tvg-name="Doom (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gq8KfI7zv2XYRtAJ9YzJeb4o6hh.jpg" group-title="ACCION",Doom (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcG0usLrc7j_EhYuV6Jtr_FL#.mkv
+#EXTINF:-1 tvg-id="658459" tvg-name="Diamante de sangre (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBuTvhQgbsoWEOGh50Bkf5qB58g.jpg" group-title="ACCION",Diamante de sangre (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHfHS3JHUQ8egDdCWKBjq0N#.avi
+#EXTINF:-1 tvg-id="658457" tvg-name="Dos policías en apuros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeLheRsqqnuUq7ArWEoRr1T40JX.jpg" group-title="ACCION",Dos policías en apuros (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHBAVfZoIP7SFdbC5s3VbKl#.mkv
+#EXTINF:-1 tvg-id="658456" tvg-name="Django: En el nombre del hijo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIFsQaAn2vFi7RHK70Nx1U0cE1Q.jpg" group-title="ACCION",Django: En el nombre del hijo (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEMOX1kLXwnnmRNHvSR_NJ5#.mkv
+#EXTINF:-1 tvg-id="658455" tvg-name="Deja vu (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZ8UYRvIeVjC9GjxBMERWvzpt4a.jpg" group-title="ACCION",Deja vu (1990)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcF6OQLCYPwK9wgwccd0GsZE#.mkv
+#EXTINF:-1 tvg-id="658454" tvg-name="Duelo de dragones (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dp61vcE5nQ7vvBH5OnqRcbSIn9a.jpg" group-title="ACCION",Duelo de dragones (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGRdOue47QzRJ7lLzCFRYyn#.mp4
+#EXTINF:-1 tvg-id="658453" tvg-name="Dead Rising: Watchtower (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95gMn5GwR6rPHmmHfDyEs0pO2U7.jpg" group-title="ACCION",Dead Rising: Watchtower (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGKOPB61NfQV4e6HLim9p0G#.mp4
+#EXTINF:-1 tvg-id="658452" tvg-name="Doble identidad: Jaque al MI5 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pGHOK8w3K4dpl9zxBcAzUKPNbD.jpg" group-title="ACCION",Doble identidad: Jaque al MI5 (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHzFO5S2Do1Fn5hRr2jhZIz#.mp4
+#EXTINF:-1 tvg-id="658451" tvg-name="Despido procedente (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RII7rlh6tbonKLE60E3FuO91cc.jpg" group-title="ACCION",Despido procedente (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGFgRJevngg3RzuAQV5AJZv#.mkv
+#EXTINF:-1 tvg-id="658450" tvg-name="Daybreakers (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1mUSv9jXH0lNR627IXuwJW77rkR.jpg" group-title="ACCION",Daybreakers (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcH0aDL8RhY6_jo2VNeGtebG#.mkv
+#EXTINF:-1 tvg-id="658449" tvg-name="Desierto rojo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5uz9zk9LEW8ddcHPUIj6BZlmlh.jpg" group-title="ACCION",Desierto rojo (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcG4I1tcE3MdXOcKhKKMd3rL#.avi
+#EXTINF:-1 tvg-id="658448" tvg-name="Disparo letal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5bTogJOMXO9Chj9IX3hiHKoMgT.jpg" group-title="ACCION",Disparo letal (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFGtj1DkZiOvrB4R8zD3h3e#.mp4
+#EXTINF:-1 tvg-id="658447" tvg-name="Deseo de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WI2bcyEasmE4pvjI0mWlzs3XkJ.jpg" group-title="ACCION",Deseo de Navidad (2022)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGph-LvtCxiHMbLDKzA24l9#.mp4
+#EXTINF:-1 tvg-id="658446" tvg-name="Death Race 2050 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mI8yqZZBlZpvd0aT5YXbR8oEvT.jpg" group-title="ACCION",Death Race 2050 (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcH294fq5n_BXj-iSqV3v06F#.mkv
+#EXTINF:-1 tvg-id="658445" tvg-name="Dioses de Egipto (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwHQjGEkAmfdoN8CuACCaYKZ57q.jpg" group-title="ACCION",Dioses de Egipto (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEJUHxXIVR-SoGvTAGxNIRE#.mp4
+#EXTINF:-1 tvg-id="658631" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/84NUrv5kuMUDDlOPqi97KGJMdLm.jpg" group-title="ACCION",Deadpool 2 (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0oQj0abtXfzmJx76TQ9cCOp#.mkv
+#EXTINF:-1 tvg-id="658443" tvg-name="Doom: Annihilation (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7pEmwnayMZCVlnSq33izWcOlPI.jpg" group-title="ACCION",Doom: Annihilation (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGKDSUKSjGGIipdt8IbfFOS#.mkv
+#EXTINF:-1 tvg-id="658442" tvg-name="Decisión crítica (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbVrvCi8UPTPjdnX3Lm7C4pmXj1.jpg" group-title="ACCION",Decisión crítica (1996)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGi7TiFzgJkZO_bjSoTChxp#.mkv
+#EXTINF:-1 tvg-id="658443" tvg-name="Doom: Annihilation (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7pEmwnayMZCVlnSq33izWcOlPI.jpg" group-title="ACCION",Doom: Annihilation (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGKDSUKSjGGIipdt8IbfFOS#.mkv
+#EXTINF:-1 tvg-id="658440" tvg-name="Desde París con amor (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luEfodfF9EZ8RZCPadFBpauYkgi.jpg" group-title="ACCION",Desde París con amor (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGT7rpzDbfzKwuKPyTCVs6T#.mp4
+#EXTINF:-1 tvg-id="658439" tvg-name="Daño colateral (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zSBTVpUA2FGvIOJw7GlcnsbSgz.jpg" group-title="ACCION",Daño colateral (2002)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFsJVWXkxMMddLR7ofF_uJB#.mp4
+#EXTINF:-1 tvg-id="658438" tvg-name="Darc (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUj7MHaUugxTZEcbIZI9IDGibMH.jpg" group-title="ACCION",Darc (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFWMPEEhy8ukFzSc7eHLiDG#.mp4
+#EXTINF:-1 tvg-id="658437" tvg-name="Crows Zero (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rC3FJUDlrupQTIkhsytQPvWDxzy.jpg" group-title="ACCION",Crows Zero (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcG5YVx6LCd0CvUydxApR6Cr#.mp4
+#EXTINF:-1 tvg-id="658436" tvg-name="Christopher Robin (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" group-title="ACCION",Christopher Robin (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHSL6MPikaRk3zcprPfAvJ5#.mkv
+#EXTINF:-1 tvg-id="658435" tvg-name="Day of the Mummy (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhk41QzLibidKUBE9KbWlW5z1Wf.jpg" group-title="ACCION",Day of the Mummy (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcG3ycDPlSOGTnqqPw1TTN5j#.mkv
+#EXTINF:-1 tvg-id="658434" tvg-name="Cena de Navidad (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oCDBzhSyZy7tdmrjpMkz2ltjHHJ.jpg" group-title="ACCION",Cena de Navidad (1999)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFaXtJynVefthLSTr6vHhIP#.mkv
+#EXTINF:-1 tvg-id="658433" tvg-name="Darkman (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cu89O1r0CmLTZTBnosS7YfC9Vn.jpg" group-title="ACCION",Darkman (1990)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFx6dPlciwzpg08pHlcwn4T#.mp4
+#EXTINF:-1 tvg-id="658432" tvg-name="Deep Blue Sea 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title="ACCION",Deep Blue Sea 3 (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFdZloxyxY5e7vwnaZU6sgr#.mkv
+#EXTINF:-1 tvg-id="658431" tvg-name="Caos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLUrpKQIv6myYmSsjgd9CCOogHz.jpg" group-title="ACCION",Caos (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHIxHFiS0umCS3tpOgej5DK#.mkv
+#EXTINF:-1 tvg-id="658429" tvg-name="Destrucción (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMpOY4EdKa5hqDPuxmgBpY9iMkA.jpg" group-title="ACCION",Destrucción (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGQO3orFLsKERdHHESqYz7t#.mkv
+#EXTINF:-1 tvg-id="658428" tvg-name="Debt Collectors" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",Debt Collectors
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFyGK3E-0WX35SPkgpv6asw#.mkv
+#EXTINF:-1 tvg-id="658427" tvg-name="Cult Culture: The Poseidon Adventure (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g75A28aETxaDTaeK1VyGKDWvlBf.jpg" group-title="ACCION",Cult Culture: The Poseidon Adventure (2003)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGPw1awJfXBvvYM2-OyTZ4B#.mkv
+#EXTINF:-1 tvg-id="658426" tvg-name="Collateral (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cA7ul7L1kVzA9XJd11T0ln9E5iI.jpg" group-title="ACCION",Collateral (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHt2QigQTLxH0WoO7gmaMTY#.mkv
+#EXTINF:-1 tvg-id="658425" tvg-name="Christmas Bloody Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvQtqwy7GJ88NHZjq80KrWIoMKx.jpg" group-title="ACCION",Christmas Bloody Christmas (2022)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEfhRom5yrpj8LqrPfXP7Db#.mp4
+#EXTINF:-1 tvg-id="658424" tvg-name="David and Goliath (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8ZE7AJO1UchOGCLe2nLR61HOpN.jpg" group-title="ACCION",David and Goliath (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFkvLt2YpM1LXnAbeS-zT6x#.mp4
+#EXTINF:-1 tvg-id="658423" tvg-name="Cuando éramos soldados (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6pUlSLHagsF7e2TMXy9zfDiBwBg.jpg" group-title="ACCION",Cuando éramos soldados (2002)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHu5sN0QD5zWYPCxoxS9YOM#.mkv
+#EXTINF:-1 tvg-id="658422" tvg-name="Cold War II (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Al9AKsVBz12UztMCoc1jniRPZbh.jpg" group-title="ACCION",Cold War II (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGbtBBM_Aeghg8nQr2Muetn#.mkv
+#EXTINF:-1 tvg-id="658421" tvg-name="Delta Force (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpd1vAoVdR7brvAp6Revxij6fsm.jpg" group-title="ACCION",Delta Force (1986)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEw_UOIVmbwejX6t_2wEw6U#.mkv
+#EXTINF:-1 tvg-id="658420" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOt8SQwrxpoTv9Bc3kyce3etkZX.jpg" group-title="ACCION",Blade Runner 2049 (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFJAni1_QMlatAMkLzaxUS8#.mkv
+#EXTINF:-1 tvg-id="658633" tvg-name="Death Wish (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxqlkMj49KmgZxghY1CHpnqRnO9.jpg" group-title="ACCION",Death Wish (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0pBpF-eO4wOkHXx5dza9xm0#.mkv
+#EXTINF:-1 tvg-id="658418" tvg-name="Bob Esponja: Navidad (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JxcD4uLBarLGhGTsRKBui1Swo4.jpg" group-title="ACCION",Bob Esponja: Navidad (2003)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFUY6LPzpqOHuhcK_rfjrB5#.mp4
+#EXTINF:-1 tvg-id="658417" tvg-name="Chokehold (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BsiAFbLn3cTtDuWJdY9YqyfyXO.jpg" group-title="ACCION",Chokehold (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFlnfPlOhtdsvX39cHSf-90#.mkv
+#EXTINF:-1 tvg-id="658416" tvg-name="DC Super Hero Girls: Leyendas de la Atlántida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ertjPu1KE774z1dduteQ2sfCd8v.jpg" group-title="ACCION",DC Super Hero Girls: Leyendas de la Atlántida (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEm2SXKdVLUqtb7Mq70lyOL#.mkv
+#EXTINF:-1 tvg-id="658415" tvg-name="Cross Wars (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubvOS7Ire1Wp6TrtwHH9Sw8vpbw.jpg" group-title="ACCION",Cross Wars (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFJWssB9q1Sm-Q3a9BZYxTj#.mkv
+#EXTINF:-1 tvg-id="658414" tvg-name="Cuentos de Navidad de Bugs Bunny (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrnrXPlBQxci62gysPjNSlYeG5a.jpg" group-title="ACCION",Cuentos de Navidad de Bugs Bunny (1979)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHbbgqbhxSAFu2gW2fl589a#.mp4
+#EXTINF:-1 tvg-id="658413" tvg-name="Behind the Scenes with " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aIP5TJKELSkGF81Fbpuq6FhGPxl.jpg" group-title="ACCION",Behind the Scenes with 'Thunderball' (1995)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEZiTATgst1cQ7VtA_A4dSc#.mkv
+#EXTINF:-1 tvg-id="658412" tvg-name="Danger One (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mG6MNa9fR6LIOaJhkJONflpGPvB.jpg" group-title="ACCION",Danger One (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHwqFoF-4erfUroJ7v5MA5M#.mp4
+#EXTINF:-1 tvg-id="658411" tvg-name="12 trampas 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vPqEwaYU1uV94YXW1ejktuCpQc.jpg" group-title="ACCION",12 trampas 2 (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFOsOkVkAxZBB_xA-nO1zdz#.mkv
+#EXTINF:-1 tvg-id="658410" tvg-name="Capitán América: Civil War (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg" group-title="ACCION",Capitán América: Civil War (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGYhcGJ13-5eWdRQ-9SgvFr#.mkv
+#EXTINF:-1 tvg-id="658409" tvg-name="Daphne & Velma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg" group-title="ACCION",Daphne & Velma (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcFh32lyGZKxj_xPyuHAeRub#.mp4
+#EXTINF:-1 tvg-id="658408" tvg-name="Cold War (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3H70eANgYPGQsi1CggY4gfcHI8J.jpg" group-title="ACCION",Cold War (1951)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGeO5hkm1BWAi5Rgb2Ma4BP#.mkv
+#EXTINF:-1 tvg-id="658407" tvg-name="DGUSA Mercury Rising 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhzo0erwFeHsLVxSihTAJiT5T2B.jpg" group-title="ACCION",DGUSA Mercury Rising 2011
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGoCkyjNs1mD5OunA0b0Z-9#.mkv
+#EXTINF:-1 tvg-id="658406" tvg-name="Capitana Marvel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" group-title="ACCION",Capitana Marvel (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGA06RgFOcKUdaDbK3AQKNr#.mkv
+#EXTINF:-1 tvg-id="658405" tvg-name="Bloodshot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0Sokh7DazDAxGOpt0ln9soTTET.jpg" group-title="ACCION",Bloodshot (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGm4sDSWDpeYJE9x8L6T-_I#.mkv
+#EXTINF:-1 tvg-id="658404" tvg-name="Black and Blue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYAGOLyEH93GePufC7vQ9gzFwn7.jpg" group-title="ACCION",Black and Blue (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcEfNuHsgIoLFX-LHMQnA_qT#.mkv
+#EXTINF:-1 tvg-id="658403" tvg-name="Chappie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2kVBpRljENCi8KskBi0tedK3UE.jpg" group-title="ACCION",Chappie (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcE0RaZTHfHWMiyFwxiIgxkD#.mkv
+#EXTINF:-1 tvg-id="658401" tvg-name="Check Point (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92a6R4NgNqXpiDpZb9zdCstPx86.jpg" group-title="ACCION",Check Point (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGq3NKBkTy1RvaTcTKOABN3#.mkv
+#EXTINF:-1 tvg-id="658400" tvg-name="Collide (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MAElUYN8q0oDxxqX5roSd9aFiD.jpg" group-title="ACCION",Collide (2022)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGq49PK5IB4kITRpjlZTh6Q#.mkv
+#EXTINF:-1 tvg-id="658399" tvg-name="Blue Streak (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",Blue Streak (1971)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOVKJHcGwKXAGI6M7fZcXUc5#.mkv
+#EXTINF:-1 tvg-id="658398" tvg-name="Blanco o negro (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knfGcU0nRMYUD36ZwlSUF5LG9aJ.jpg" group-title="ACCION",Blanco o negro (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOW7wcedyGMk_t2QfnJoB7PI#.mkv
+#EXTINF:-1 tvg-id="658397" tvg-name="Batman vs Superman: El amanecer de la justicia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mS3t9puIjLKgoex82cu9d6G0835.jpg" group-title="ACCION",Batman vs Superman: El amanecer de la justicia (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXXDV_K0LjY6zVAQAdGcDrb#.mkv
+#EXTINF:-1 tvg-id="658396" tvg-name="Creating the Lord of the Rings Symphony (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTCaimvGReZqCPITJxZ8iym3prf.jpg" group-title="ACCION",Creating the Lord of the Rings Symphony (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOVbNK1WjR9YDmrA6YN0hsoz#.mkv
+#EXTINF:-1 tvg-id="658395" tvg-name="Conexión Estambul (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCRajSyw3XiiwfC9L5DZTIicJJ4.jpg" group-title="ACCION",Conexión Estambul (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOVeBlcTJGm-Cj0XREUPzRdP#.mkv
+#EXTINF:-1 tvg-id="658394" tvg-name="Creed. La leyenda de Rocky (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTdozSSr2cTZcioldjfVUbBzhrW.jpg" group-title="ACCION",Creed. La leyenda de Rocky (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXphnJXwlKoz62k2GfQqZ0w#.mp4
+#EXTINF:-1 tvg-id="658393" tvg-name="Bloodsport (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uQnh0tDVI5jpZiM1qc0Vpp2SrL.jpg" group-title="ACCION",Bloodsport (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOVwV2tZBZdS-4SKWwWIZPKh#.mkv
+#EXTINF:-1 tvg-id="658392" tvg-name="Catwoman (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l40ot7UBtLOmse1qn4NI97w3ve3.jpg" group-title="ACCION",Catwoman (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOVYQa0mz29vxBb7_gYkWxFz#.mkv
+#EXTINF:-1 tvg-id="658391" tvg-name="Altitud (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBULjhRezA3MXda67eTX9Wu3nSD.jpg" group-title="ACCION",Altitud (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOUkBPUCn7Lm6W0Sh0oY-_rQ#.mkv
+#EXTINF:-1 tvg-id="658390" tvg-name="Back to the Planet of the Apes (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJb8aWgLi3ZEJrkpk5qod4q9Pcy.jpg" group-title="ACCION",Back to the Planet of the Apes (1980)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOV9xYJAnqpKCC-6fbEA32X3#.mkv
+#EXTINF:-1 tvg-id="658389" tvg-name="Collateral Damage (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kscpQb3Q3k8zDZW70BCPZisWRjc.jpg" group-title="ACCION",Collateral Damage (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOUbVzqi7Ymugk4UA-ToKmh-#.mkv
+#EXTINF:-1 tvg-id="658388" tvg-name="Burn Out (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Syk3aavoOpFjZhH5MamYnJruIA.jpg" group-title="ACCION",Burn Out (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXXOqHc-EWpa4GgYtNquCdb#.mkv
+#EXTINF:-1 tvg-id="658387" tvg-name="Alvorada Vermelha (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6eSNeCpeDUluntMejRjSkhWUpT.jpg" group-title="ACCION",Alvorada Vermelha (2011)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXpKBIDO8KWBe_3RFo9vhJx#.mkv
+#EXTINF:-1 tvg-id="658386" tvg-name="Attrition (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBFqLpJzwYK13XxKoJtARxJiuvf.jpg" group-title="ACCION",Attrition (2018)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOV75XBS0hXm5j2jpHGFmeBc#.mkv
+#EXTINF:-1 tvg-id="658385" tvg-name="Ava (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg" group-title="ACCION",Ava (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXeI0bEqU_ygjAnss6itziz#.mkv
+#EXTINF:-1 tvg-id="658384" tvg-name="Can You See Me Now? (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="ACCION",Can You See Me Now? (1991)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOWI1ITCgfea4mJJTBrif_re#.mkv
+#EXTINF:-1 tvg-id="658383" tvg-name="Bandidas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkSfRjRcld9BULXuxP3eA9cMMs3.jpg" group-title="ACCION",Bandidas (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOWPJsZWMx6wqMsNwyelGqO5#.mkv
+#EXTINF:-1 tvg-id="658382" tvg-name="Blackhats (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uokKo45TZUhDnL5qQ81NqHYKpPv.jpg" group-title="ACCION",Blackhats (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXlgcoAAXLQJo6eRNEJirVp#.mkv
+#EXTINF:-1 tvg-id="658381" tvg-name="American Assassin (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCETMxBqd4h0Uq3R2ImntL2hrra.jpg" group-title="ACCION",American Assassin (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOUF9Rgklc4E4-EJFiFGH2Wm#.mkv
+#EXTINF:-1 tvg-id="658380" tvg-name="Blue Code of Silence (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjAjX7VKsIo3FYwUIiMAXG9ra99.jpg" group-title="ACCION",Blue Code of Silence (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXqygwvcGXK6WyHOqG3DRIF#.mkv
+#EXTINF:-1 tvg-id="658379" tvg-name="Alerta máxima (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTjwvyBiKNW86e0MOk30r64zWQ.jpg" group-title="ACCION",Alerta máxima (1992)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXg5I0RaKUQqzPYrafqhhOb#.mkv
+#EXTINF:-1 tvg-id="658378" tvg-name="28 semanas después (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PJEQ63WebiLJ4vtuyXx68Jehmh.jpg" group-title="ACCION",28 semanas después (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOWBKtOjN_BYl2wxdu5if6GL#.mp4
+#EXTINF:-1 tvg-id="658377" tvg-name="Batman Forever (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg6BN76E9iIEtiawMJnCecY0zgY.jpg" group-title="ACCION",Batman Forever (1995)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXhqH9rXXJ0z7lq5v3SnDcS#.mkv
+#EXTINF:-1 tvg-id="658376" tvg-name="Banjo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWJLsCVU7MckdprbbQi8g02wRYr.jpg" group-title="ACCION",Banjo (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXUCjs4XpQP0a0-q5KlSENk#.mkv
+#EXTINF:-1 tvg-id="658375" tvg-name="Bienvenidos a Zombieland (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg" group-title="ACCION",Bienvenidos a Zombieland (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXTmIpJ00tMXB9yHfGmGRji#.mkv
+#EXTINF:-1 tvg-id="658374" tvg-name="Beethoven: Aventura de navidad (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9lB7wV0TGsuKsDj3JrlgegyIdh.jpg" group-title="ACCION",Beethoven: Aventura de navidad (2011)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOVuNkPR2ra5k6cnsg9qtjq2#.mp4
+#EXTINF:-1 tvg-id="658373" tvg-name="Altered Carbon: Reenfundados (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMeFA5Jy8NvuuvnYmYywRsM62ca.jpg" group-title="ACCION",Altered Carbon: Reenfundados (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXbHswHNFFfDVLkjAsTl6-V#.mkv
+#EXTINF:-1 tvg-id="658372" tvg-name="Austin Powers: Misterioso agente internacional (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99XaTLygymVuzqZAlWOaWfld67u.jpg" group-title="ACCION",Austin Powers: Misterioso agente internacional (1997)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOUG7slc6UGCZ2J0_4fRMXz-#.mkv
+#EXTINF:-1 tvg-id="658371" tvg-name="13 Horas: Los soldados secretos de Bengasi (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRBj8FbGfub5JVXWqXCmLMNUQNX.jpg" group-title="ACCION",13 Horas: Los soldados secretos de Bengasi (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOV56EQDJjWYxSstKt4OE00K#.mkv
+#EXTINF:-1 tvg-id="658370" tvg-name="Agente contrainteligente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sMVG7H41wx6L5pmG1zG1aTmsBv.jpg" group-title="ACCION",Agente contrainteligente (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOUatpQ7jZfcXPMRxfTG2taM#.mp4
+#EXTINF:-1 tvg-id="658369" tvg-name="Balada triste de trompeta (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmf0jSTGxms1Y8VnILoPBeCXnTb.jpg" group-title="ACCION",Balada triste de trompeta (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXDhy-7wX3C1K9H0rkJv7kn#.mkv
+#EXTINF:-1 tvg-id="658368" tvg-name="Alita: Ángel de combate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn2OqceeLGLrPy5Abz2dceB0po8.jpg" group-title="ACCION",Alita: Ángel de combate (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOUBvQater-YS5xHBJkt3kP5#.mkv
+#EXTINF:-1 tvg-id="658367" tvg-name="Alien Warfare (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuUpcP9zOjiVZUveQEBFCOlIG2I.jpg" group-title="ACCION",Alien Warfare (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOVZ43qRXH7yge00YGCesXgT#.mkv
+#EXTINF:-1 tvg-id="658366" tvg-name="Alerta máxima 2 (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v453pRRshPun2gxRRBnNg8AIT0A.jpg" group-title="ACCION",Alerta máxima 2 (1995)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOXMe8TzDfhz3a2xOhVJamqN#.mkv
+#EXTINF:-1 tvg-id="658365" tvg-name="47 Ronin (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cERKxigwYZXu2xVlsAbBOn62Qwg.jpg" group-title="ACCION",47 Ronin (1962)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BE7Rg0MAcjjVh6o58xHyXOW_y_DAE3Cx6bW4wZ1yOoUC#.mkv
+#EXTINF:-1 tvg-id="653689" tvg-name="Recuerdos que matan (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zNIYyRIySkjVgYByxCEC8Xnx4r.jpg" group-title="ACCION",Recuerdos que matan (1993)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BHyVC_0uhx5Ayco9DxHZR-oiC0Sfjp1p-oRok2PigdRb#.mkv
+#EXTINF:-1 tvg-id="652348" tvg-name="Tropa de élite 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geK5X7cIWap06q7J2ZiyQr2scrc.jpg" group-title="ACCION",Tropa de élite 2 (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEQ-SFqXD_vf17clGi84BheskESIpa3zFf0N72W75VCE#.mp4
+#EXTINF:-1 tvg-id="652244" tvg-name="Apocalypto (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ4uC13IYVerbxMMXeSogSQUkOT.jpg" group-title="ACCION",Apocalypto (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BLj1zSSvqvVWpGWZ8d_I56B7v43_qMo1hGWUnNWCp0he#.mkv
+#EXTINF:-1 tvg-id="648187" tvg-name="TRON (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfLMawRqFSqlCJkKkTaQjrURdCI.jpg" group-title="ACCION",TRON (1982)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BDrznisEApWVZluzTPf9yJVmWFBdPllbNgx-fAWxQs8q#.mkv
+#EXTINF:-1 tvg-id="633595" tvg-name="El equipo A (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3VtPDRgQs56PNAEr2qnMAQQVpc.jpg" group-title="ACCION",El equipo A (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BLoFzIcY9P5Lm-P4dXht3-tM2CBwZ7o8X7NNOc7AYhDT#.mkv
+#EXTINF:-1 tvg-id="628758" tvg-name="Predators (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYH9FtLUtaIgiGKrVqo82TklFIY.jpg" group-title="ACCION",Predators (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BFC0wy2Zxg76Yq1QKdLwVolJOFMG9MZHDiXiPj90uzzi#.mkv
+#EXTINF:-1 tvg-id="628611" tvg-name="Red Scorpion (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDXZPzd0JyYZUjOvUg2azxUDnsZ.jpg" group-title="ACCION",Red Scorpion (1988)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJdcKTyCNjdq0L4i_VZIMsXn1CRH-qlLklhLV5esrNpW#.mp4
+#EXTINF:-1 tvg-id="613856" tvg-name="John Wick 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mj2Z9HnRSIEk3n7yVPoOY4Uzzfh.jpg" group-title="ACCION",John Wick 4 (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BNG_puOKIrXghhg9oH0sUfuWxgFui2bGNOdk4w7IXPmr#.mkv
+#EXTINF:-1 tvg-id="613003" tvg-name="John Wick (Otro día para matar) (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDl5ac1VJwMRvlgINDCsDCqg9CE.jpg" group-title="ACCION",John Wick (Otro día para matar) (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BD-QIIo5uH_tg-sLvkqlxHyR8wbepmGqY5fKxwvGXieo#.mkv
+#EXTINF:-1 tvg-id="612916" tvg-name="John Wick: Capítulo 3 - Parabellum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKw7oqYdfn4pkKYvp18Gd1YhK6m.jpg" group-title="ACCION",John Wick: Capítulo 3 - Parabellum (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BNHQ9CGu5nGFmUooLqEdPgtnc9w7Y21NlWyxYvR71HUm#.mkv
+#EXTINF:-1 tvg-id="612915" tvg-name="John Wick: Pacto de sangre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAAikrL3kH3TopsDC2Bgo4ARUiP.jpg" group-title="ACCION",John Wick: Pacto de sangre (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BNHQ9CGu5nGFmUooLqEdPgtKVAEu-7LNEOmTL0y-NANq#.mkv
+#EXTINF:-1 tvg-id="612754" tvg-name="Sound of Freedom (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKfNw4vqbI62HAMI04imwAPjC05.jpg" group-title="ACCION",Sound of Freedom (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BDxLpZcpNZqlm0uEp0Ah0C5vXl2v3SoHX273nrQmKWJb#.mkv
+#EXTINF:-1 tvg-id="610881" tvg-name="Ballerina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg" group-title="ACCION",Ballerina (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEJZfzvu_Oklqtfkei0J5pUzv5T0GYqU8ioRLNZxgvuF#.mkv
+#EXTINF:-1 tvg-id="605265" tvg-name="Argylle (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Db7sBWOB9B4Uo7MqSt9apxYzZp.jpg" group-title="ACCION",Argylle (2024)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJahN-EeRd3tN9scXd9DZtNNAzcV7M_28HNUNXPKXY9A#.mkv
+#EXTINF:-1 tvg-id="610881" tvg-name="Ballerina (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQCrYmvCK7JCLXjCGTMRF5Lzr5c.jpg" group-title="ACCION",Ballerina (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEJZfzvu_Oklqtfkei0J5pUzv5T0GYqU8ioRLNZxgvuF#.mkv
+#EXTINF:-1 tvg-id="603424" tvg-name="Jefes de Estado (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2CSdwqOUMH23cEBodqAJynMFz7c.jpg" group-title="ACCION",Jefes de Estado (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB0GAaQMhP82h7PQUjgOnl0xda9xlhowz-Cux97XRdUp#.mkv
+#EXTINF:-1 tvg-id="658655" tvg-name="Guardians (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuWtgYKs9EsKQHIv3mJTBbFZddi.jpg" group-title="ACCION",Guardians (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BAup1vTV-PDuMpbMOce_F0p_N43SemOLQd2bltOOv5mx#.mkv
+#EXTINF:-1 tvg-id="598646" tvg-name="GTMAX (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx92hl70NUhojjO3eV6LqKllj4L.jpg" group-title="ACCION",GTMAX (2024)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BMKfmmVSsvTUuQmJiRMLBoBk4KblyFsD7EijcwPC-zoW#.mkv
+#EXTINF:-1 tvg-id="656167" tvg-name="Armor (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSUmtSJOslBLULMtoYK6XlqfWu7.jpg" group-title="PELICULAS 2024",Armor (2024)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BGxxKponadl3u1kuNW2YEc75Q90MIYmKY50Qh4zqeC56#.mkv
+#EXTINF:-1 tvg-id="644978" tvg-name="El gangster, el policía y el diablo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9rByfNAkGJuXOSQLQ6UpUfGTOQ.jpg" group-title="PEDIDOS", el policía y el diablo (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BNQC5LVg1F_Fy8nyiVp03F0_YLIQci3Y5cHFYd1-lxym#.mkv
+#EXTINF:-1 tvg-id="597422" tvg-name="Amor a quemarropa (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wPdBa1Nk70zUfDA7nKbDoynZM1.jpg" group-title="ACCION",Amor a quemarropa (1993)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_KqmjOuVX_tK044CV9QLXAK#.mkv
+#EXTINF:-1 tvg-id="597421" tvg-name="Transformers (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNZOozjyWKC0jTTvpZ3KOobGcED.jpg" group-title="ACCION",Transformers (2007)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_Ij9-X2yMa-6JDwOFX4g0xx#.mkv
+#EXTINF:-1 tvg-id="597420" tvg-name="La mercenaria (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tuvyXg8sLEEMU8thQupZk52dwor.jpg" group-title="ACCION",La mercenaria (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_IC30oM93Bh0rJU9hyTJliz#.mkv
+#EXTINF:-1 tvg-id="597419" tvg-name="Salyut-7: Héroes en el espacio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYm6LDMAB4aQQlQBrTZLVaKUSFm.jpg" group-title="ACCION",Salyut-7: Héroes en el espacio (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_LSBDUZia535rx7pero4mI0#.mp4
+#EXTINF:-1 tvg-id="597418" tvg-name="Watchmen: Capítulo 1 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xCQvNou4ghf3GKAEpiq2onXzlG.jpg" group-title="ACCION",Watchmen: Capítulo 1 (2024)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_LF5sdDeT0ARFy4o7wMmFD3#.mp4
+#EXTINF:-1 tvg-id="597417" tvg-name="John Rambo (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qp9Q0JeHQ6JShQPm6KA8euYhWLF.jpg" group-title="ACCION",John Rambo (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_K-T0JPttBgs7RviC90csAy#.mkv
+#EXTINF:-1 tvg-id="597416" tvg-name="Un ciudadano ejemplar (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaY5L2gY60La8ImK7ll7QBXXk26.jpg" group-title="ACCION",Un ciudadano ejemplar (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_ImhtVJ4Yk3hr81kKh-qxJy#.mkv
+#EXTINF:-1 tvg-id="597415" tvg-name="Spy x Family Código: Blanco (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLNPoAHTtrQT1hEVRixtTD4k6Qm.jpg" group-title="ACCION",Spy x Family Código: Blanco (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_ITSvRe_2OUfsOLMo9op1Vi#.mp4
+#EXTINF:-1 tvg-id="597414" tvg-name="Stalingrado (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKcA9Heka6SFc6B8tc3tie04nh7.jpg" group-title="ACCION",Stalingrado (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_ImfeFGxy1JWIQyIewQuYNr#.mp4
+#EXTINF:-1 tvg-id="597413" tvg-name="Rambo: Last Blood (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kG3pY61LWGAzcaSne12CGEeRvtg.jpg" group-title="ACCION",Rambo: Last Blood (2019)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_JBRJCF2H1Bt76NwvyJ5O8T#.mkv
+#EXTINF:-1 tvg-id="597412" tvg-name="Rompiendo las reglas (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNB2nbkOaXYriSAKEQUoome5vgG.jpg" group-title="ACCION",Rompiendo las reglas (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_K39ubyKFo29oJyZkAstWpf#.mkv
+#EXTINF:-1 tvg-id="597411" tvg-name="Hustle & Flow (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yO5QTMZ2Oex6mwsgJuwRuINGuOQ.jpg" group-title="ACCION",Hustle & Flow (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_JkyOb59RYjAjzIafuYoXNy#.mp4
+#EXTINF:-1 tvg-id="597410" tvg-name="Rambo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YtiecEbDSx4MEt2HUS2fKcJ9Dq.jpg" group-title="ACCION",Rambo (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_JFzLxxxInrXvB_KaRPp8Db#.mkv
+#EXTINF:-1 tvg-id="597409" tvg-name="Nadie (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddO5a3tMPpQutSDQO1bESgLWadB.jpg" group-title="ACCION",Nadie (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_Kd2qRvKIbL64fR55EjSvec#.mkv
+#EXTINF:-1 tvg-id="597408" tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg" group-title="ACCION",Rambo III (1988)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_LBxivK8y4rYdkSkyL11od2#.mkv
+#EXTINF:-1 tvg-id="597408" tvg-name="Rambo III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg" group-title="ACCION",Rambo III (1988)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_LBxivK8y4rYdkSkyL11od2#.mkv
+#EXTINF:-1 tvg-id="617133" tvg-name="Jurassic World: Dominion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg" group-title="PEDIDOS",Jurassic World: Dominion (2022)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJ-GAjCN-IklVd-vqy71v80CRNUPobTblO0PKLIhgysa#.mkv
+#EXTINF:-1 tvg-id="603274" tvg-name="Los Imperdonables (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UClzKmQI1cHWASiwyJXhkxlTMj.jpg" group-title="WESTERN (VIEJO OESTE)",Los Imperdonables (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJ2SRoFPsh5QzeSx76zuR7RuZd1jGyNnXdyoQ8b-sZg2#.mp4
+#EXTINF:-1 tvg-id="597403" tvg-name="Los Caballeros de Santiago (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSF8XzHpeqF1QAtHzJyuqxw1EbD.jpg" group-title="ACCION",Los Caballeros de Santiago (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_IQCl_07_1jIgo1ob1NrJez#.mkv
+#EXTINF:-1 tvg-id="597402" tvg-name="Prueba de vida (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mF5WnXOkhPA1iVT7H2SDXKPDpZr.jpg" group-title="ACCION",Prueba de vida (2000)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_JepZJPffOTaCNVzLbYo6IP#.mkv
+#EXTINF:-1 tvg-id="598516" tvg-name="La guerra del planeta de los simios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iAm7IAqfK6VL2h1yh9QbpcctaT.jpg" group-title="SAGAS",La guerra del planeta de los simios (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BGdPP7ii2aUegmGc5hrm1FqtU1cby0ZZ-PYpBuhtAe0B#.mkv
+#EXTINF:-1 tvg-id="597400" tvg-name="Monster Hunter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/la7nc6pG4vmPJEzl3gV08jboQWX.jpg" group-title="ACCION",Monster Hunter (2020)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJRctBsAmrsDkSB_rlcV-_LDP-sIwU1eapB0Tz7kqI41#.mkv
+#EXTINF:-1 tvg-id="597399" tvg-name="Infierno en Los Ángeles (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaX9HjgYyw5R9KdLh2Ha2RJu3.jpg" group-title="ACCION",Infierno en Los Ángeles (1993)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1jLncWQRqo2JWrzmSOkgrtX#.mp4
+#EXTINF:-1 tvg-id="597398" tvg-name="Al límite del riesgo (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfYirAYm5hdXRQK7M4qQGAN3Yva.jpg" group-title="ACCION",Al límite del riesgo (1996)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1gxtb-G6AqnL77-J_lgexL3#.mkv
+#EXTINF:-1 tvg-id="597396" tvg-name="Los mercen4rios (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qxRrkayxSYiib4JCYRM3sasQe0.jpg" group-title="ACCION",Los mercen4rios (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1jC5OXspkHpu4fpzcL6kH8Z#.avi
+#EXTINF:-1 tvg-id="597395" tvg-name="Lluvia negra (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azws1wRBy37PTbkf8wxbBkFFjYL.jpg" group-title="ACCION",Lluvia negra (1989)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1jaB-vbkageBfBVaYSgHQPt#.mkv
+#EXTINF:-1 tvg-id="597394" tvg-name="John Wick Chapter 2: Wick-vizzed (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQFBj2tBlkKhAcAgDVpdFWLX5x.jpg" group-title="ACCION",John Wick Chapter 2: Wick-vizzed (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1gZ3zRhLEM7dEFtvZ7-PYJM#.mkv
+#EXTINF:-1 tvg-id="597393" tvg-name="Rescate en llamas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jg0cSHHCuiOnFQfEGRGlmZpU4OE.jpg" group-title="ACCION",Rescate en llamas (2023)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1jXUshlRszn2rl6JQWy9Bc_#.mkv
+#EXTINF:-1 tvg-id="597392" tvg-name="Underworld: La rebelión de los licántropos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FvRpx4ijCHpTO2IT7AoCjT0aoB.jpg" group-title="ACCION",Underworld: La rebelión de los licántropos (2009)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1gMGrwi5nEF4otVvrUIQsLB#.mkv
+#EXTINF:-1 tvg-id="597391" tvg-name="Señalado por la muerte (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nO0PZLiOlyaLuO6t29pxMNFS5sq.jpg" group-title="ACCION",Señalado por la muerte (1990)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1gxU41AvcvhN6x2AUjqEGsN#.mkv
+#EXTINF:-1 tvg-id="597390" tvg-name="Underworld (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mq3OSMsmcTtoRLXiYOp8VZGOdw.jpg" group-title="ACCION",Underworld (2003)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1ipOOmZ9BlAVEv7gcSTFvWM#.mkv
+#EXTINF:-1 tvg-id="598652" tvg-name="Kraven the Hunter (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gabWTSVhzltlKkmcqPoJmjKJxyb.jpg" group-title="AVENTURA",Kraven the Hunter (2024)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BMKfmmVSsvTUuQmJiRMLBoBTkl2nZLkEVQbctK4xCRgP#.mkv
+#EXTINF:-1 tvg-id="597388" tvg-name="Desaparecidos sin rastro (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2OrXUnS5K2haCvtGLHxYjuSlDJ.jpg" group-title="ACCION",Desaparecidos sin rastro (2014)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hesF4W-y6GLI3-iokOks1n#.mkv
+#EXTINF:-1 tvg-id="597387" tvg-name="Assassins (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guEH393qNWWh2wBJoGP7oqmjTK5.jpg" group-title="ACCION",Assassins (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1giRJkSOm2O8fQkJFRrgUku#.mkv
+#EXTINF:-1 tvg-id="597386" tvg-name="Hit Man (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYO2ychL6Sw0Ww9LMFUNdcjZVKg.jpg" group-title="ACCION",Hit Man (1972)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hIFeAle4HdhpEeIh422sT9#.mkv
+#EXTINF:-1 tvg-id="597385" tvg-name="IN-FINITO (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOVWIr7GqnZkEbYBW0A2peKu8ZS.jpg" group-title="ACCION",IN-FINITO (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hjI8q5dwyTRU12ltA5lO2w#.mkv
+#EXTINF:-1 tvg-id="597384" tvg-name="Gagarin: Pionero del espacio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axV1ORYQqnAQbOoBGZ6I7qwZUOr.jpg" group-title="ACCION",Gagarin: Pionero del espacio (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1gt9h6gBR9wMboOVCd4u7kN#.mp4
+#EXTINF:-1 tvg-id="658440" tvg-name="Desde París con amor (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luEfodfF9EZ8RZCPadFBpauYkgi.jpg" group-title="ACCION",Desde París con amor (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcGT7rpzDbfzKwuKPyTCVs6T#.mp4
+#EXTINF:-1 tvg-id="658520" tvg-name="El otro guardaespaldas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT29bkqVszT8r6DhC9lTuOx6rK.jpg" group-title="ACCION",El otro guardaespaldas (2017)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BB7mw_aCYdXXtL-J9qkIOgKCz-hlIPrvbyW5e0uI_Nc_#.mp4
+#EXTINF:-1 tvg-id="597381" tvg-name="G.I. Jane (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZT7LaJT879FyVdFLYidG5DOo0k.jpg" group-title="ACCION",G.I. Jane (1951)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1ggwNMYAZQ4lfoV_6OZnT3v#.mkv
+#EXTINF:-1 tvg-id="597380" tvg-name="Yo soy la venganza (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KawNznHOhYKQLLeZdbRhKJbfXp.jpg" group-title="ACCION",Yo soy la venganza (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1il3NR29FrH0hSRTw_OzRtD#.mkv
+#EXTINF:-1 tvg-id="597379" tvg-name="Parejas Cruzadas (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5NBMvek4BafCZySKPwWvSxBkuC.jpg" group-title="ACCION",Parejas Cruzadas (2005)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1jeHW9wlzNtyb6z4wrBDQnR#.mkv
+#EXTINF:-1 tvg-id="597378" tvg-name="El planeta de los simios (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRvUkYCByrlVMy4GMME3iDAe6er.jpg" group-title="ACCION",El planeta de los simios (2001)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hgVxWC2IcS_QWPAC3NKxTs#.mkv
+#EXTINF:-1 tvg-id="597377" tvg-name="El Vengador (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEI5aazuAVJ3PcWeNM8gxYiNjmq.jpg" group-title="ACCION",El Vengador (2006)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1jrsJM20o_8DPjQmBItdOc0#.mkv
+#EXTINF:-1 tvg-id="597376" tvg-name="Acto de valor (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqTJrlvXyj1N2kNEMnGbzyCXCw.jpg" group-title="ACCION",Acto de valor (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hfNtWiUK_TJ6QAKDUWXMXN#.mkv
+#EXTINF:-1 tvg-id="597375" tvg-name="Buscando justicia (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS6AN89NE5RIxCSgSojkGmxQ33l.jpg" group-title="ACCION",Buscando justicia (1991)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1iyBMbsUWZBS-ZilnCgXPze#.mkv
+#EXTINF:-1 tvg-id="597374" tvg-name="Escape Plans (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS6AN89NE5RIxCSgSojkGmxQ33l.jpg" group-title="ACCION",Escape Plans (2013)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1goOWha6sUknei-tIFVJEcQ#.mp4
+#EXTINF:-1 tvg-id="658484" tvg-name="Dredd (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXBx3n0e86mjBznuIRz6EmRv8Mv.jpg" group-title="ACCION",Dredd (2012)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BJDB04618b7nSmRm2ZValcHuLa5iAnyztM2JnNZakD6a#.mkv
+#EXTINF:-1 tvg-id="597372" tvg-name="9 Balas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNaLkaWYN5eeNwnxHnhGgQPr2aT.jpg" group-title="ACCION",9 Balas (2022)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hSL3FQJ3tbeRYJN3nzl2uK#.mp4
+#EXTINF:-1 tvg-id="597371" tvg-name="Dragón blanco (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DKsSLuJ3UyhaWNJUYvPgy1rbjQ.jpg" group-title="ACCION",Dragón blanco (2004)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hww0UnQ0KtxmjiALIIjUix#.mp4
+#EXTINF:-1 tvg-id="597370" tvg-name="Brothers (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV5zGpoPgSpesvPAL4VUOsE4TlX.jpg" group-title="ACCION",Brothers (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hdMPwZy7qr8kUyVQ87TvcT#.mkv
+#EXTINF:-1 tvg-id="597369" tvg-name="Boyka: Invicto IV (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yegOHiGUyHiUXNSFlMfFTEZboj7.jpg" group-title="ACCION",Boyka: Invicto IV (2016)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1ikAcy4OnZPOhvgZENkhrJg#.mkv
+#EXTINF:-1 tvg-id="597368" tvg-name="The Town: Ciudad de ladrones (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VLzLzGr78AOnAUPv6iCcMNoFDB.jpg" group-title="ACCION",The Town: Ciudad de ladrones (2010)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1jD-AL-RsBWo1dqKdWEGIsj#.mkv
+#EXTINF:-1 tvg-id="597331" tvg-name="Sniper: La Última Resistencia (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEscED4NZCHsbA5maY4jnd3Z7xh.jpg" group-title="ACCION",Sniper: La Última Resistencia (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1iLkJ3RyhfMwVPgrvBWFixi#.mkv
+#EXTINF:-1 tvg-id="597320" tvg-name="Fight or Flight (Sicarios en el aire) (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8yjsPIZV4PLTzlb4G8LFMJT7gt.jpg" group-title="ACCION",Fight or Flight (Sicarios en el aire) (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEkagJCfEFzPryeHVEX_M1hw4KaNsQlt75o41-j5L7n0#.mkv
+#EXTINF:-1 tvg-id="614401" tvg-name="Doble espionaje (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chIQxgimGbIFnuFsLqpcoTbsH9.jpg" group-title="ESTRENOS 2025",Doble espionaje (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEvVp7Zp8CiC1Lvg39O7VG5ngv_h-rb4spiehY8tgLKm#.mkv
+#EXTINF:-1 tvg-id="593126" tvg-name="Alba del desierto (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJxo8xxVnSaPAf9EdkjAfKwmoQK.jpg" group-title="ACCION",Alba del desierto (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BCdg9Dmng7LKRmKOL41mTGgJFo2PYTLxHL7fxnl5m99g#.mkv
+#EXTINF:-1 tvg-id="588367" tvg-name="Golpe de estado (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lD3a5DP7LRqBvDjduELvqK9xJo.jpg" group-title="ACCION",Golpe de estado (2015)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BDgy1zPcQbeFkjf_jvpsH-T0cSD55oNNRko96MjpZ1vi#.mkv
+#EXTINF:-1 tvg-id="609097" tvg-name="Diablo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg" group-title="ESTRENOS 2025",Diablo (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BDCIp05SMepDfaDOqY141l5znVmkV1-YxjFzG9KNXk6d#.mkv
+#EXTINF:-1 tvg-id="598656" tvg-name="Instinto asesino (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AjcgNvlVVP43HvFsebdzCfvouUJ.jpg" group-title="PELICULAS 2024",Instinto asesino (2008)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BMKfmmVSsvTUuQmJiRMLBoBNRdLcL9nNEyzZ9-aNGB6t#.mkv
+#EXTINF:-1 tvg-id="598673" tvg-name="El juego del asesino (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81PSS5l5Yr3gfdYKts9I3z2aPkG.jpg" group-title="PELICULAS 2024",El juego del asesino (2024)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BMKfmmVSsvTUuQmJiRMLBoChrxiI7dmE6ubyvI-ykIE7#.mkv
+#EXTINF:-1 tvg-id="588019" tvg-name="Criminales de lujo (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpAbueORafYSgTk2oSc2t6ayktb.jpg" group-title="ESTRENOS 2025",Criminales de lujo (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BLzwifKonl8hDgH9eDdlgJG1SMoFCMRd-u2UL1vUmOuj#.mkv
+#EXTINF:-1 tvg-id="583188" tvg-name="El despertar de la bestia (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHsQwrqiICdEkIXFcX968rVqB3s.jpg" group-title="ESTRENOS 2025",El despertar de la bestia (2024)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BOMeh88nt7o3YQGiliKoITD2OpS9JgP_KaOm64-1ehUI#.mkv
+#EXTINF:-1 tvg-id="567233" tvg-name="G20 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xihssRPgRDZ7xwIjx3xuPTnqPfU.jpg" group-title="NETFLIX",G20 (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BHT5c2Thzm0TilcAwnzf91SGsAFW36l-yvM4H1CT2xKU#.mkv
+#EXTINF:-1 tvg-id="597293" tvg-name="Este amor sí que duele (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg" group-title="ESTRENOS 2025",Este amor sí que duele (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BLkXmkp7YVipWzTt1WyFGxXf2p1h_F_g8DZAkrv_loZb#.mkv
+#EXTINF:-1 tvg-id="365597" tvg-name="Bastion 36 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56hPHYFZMafbPw6ORxrUWG7Qxad.jpg" group-title="ESTRENOS 2025",Bastion 36 (2025)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BEdkgxaIb6heNrtaEJsMzStfy2ETnpsgurP9KM6FhDqs#.mp4
+#EXTINF:-1 tvg-id="660881" tvg-name="Fast & Furious 9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TX1T3c3CDBN0y8iDNvlQbtiA5Z.jpg" group-title="SAGAS",Fast & Furious 9 (2021)
+http://red4tv.lat:80/play/Xb8iksBLyFxXqhtkZQw_BLccrq0S-7YbAWbC1HeNJd8HpdNzZ8gO-llWXoT8c3XM#.mkv
