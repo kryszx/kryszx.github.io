@@ -1,8 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Deportes",EPSN
+#EXTINF:-1,EPSN
 https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljc3Ljk3/13_.m3u8?token=cv_BGihdzZ6UzC1A8EYxnA&expires=1778136549
 
 #EXTM3U
+#EXTINF:-1,CARACOL
+https://regionales.saohgdasregions.fun:9092/MTgxLjc4Ljc3Ljk3/17_.m3u8?token=MyssM-IHFqcrAXw8rz00ew&expires=1778152678
+
+#EXTM3U
+#EXTINF:-1,RCN 2
+https://regionales.saohgdasregions.fun:9092/MTgxLjc4Ljc3Ljk3/18_.m3u8?token=TsLPINW8qLSSI5Yfspeq9w&expires=1778153006
+
 #EXTINF:-1,RCN
 https://regionales.saohgdasregions.fun:9092/MTgxLjc4Ljc3Ljk3/18_.m3u8?token=s0ylvF1EFVwqNsQ13ySsOg&expires=1778152333
 
