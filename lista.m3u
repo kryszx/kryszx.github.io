@@ -2,6 +2,10 @@
 #EXTINF:-1 group-title="Deportes",EPSN
 https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljc3Ljk3/13_.m3u8?token=cv_BGihdzZ6UzC1A8EYxnA&expires=1778136549
 
+#EXTM3U
+#EXTINF:-1,RCN
+https://regionales.saohgdasregions.fun:9092/MTgxLjc4Ljc3Ljk3/18_.m3u8?token=s0ylvF1EFVwqNsQ13ySsOg&expires=1778152333
+
 #EXTINF:-1 group-title="Deportes",EPSN 2
 https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljc3Ljk3/14_.m3u8?token=CMvZ-1tqBzDXFa_IcyTgmQ&expires=1778136776
 
