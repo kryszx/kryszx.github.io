@@ -1,3 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Deportes",EPSN
-https://cdn7.zohanayaan.com:1686/hls/capodeportes.m3u8?md5=0Ukn0ldk7bNl9M4amQmB2g&expires=1778109531
+https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljc3Ljk3/13_.m3u8?token=cv_BGihdzZ6UzC1A8EYxnA&expires=1778136549
+
+#EXTINF:-1 group-title="Deportes",EPSN 2
+https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljc3Ljk3/14_.m3u8?token=CMvZ-1tqBzDXFa_IcyTgmQ&expires=1778136776
+
+#EXTINF:-1 group-title="Deportes",EPSN 3
+https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljc3Ljk3/15_.m3u8?token=JZ3v_d4SFcQDphLfDmBl5Q&expires=1778136884
+
+#EXTINF:-1 group-title="Deportes",EPSN 4
+https://deportes.ksdjugfsddeports.com:9092/MTgxLjc4Ljc3Ljk3/23_.m3u8?token=oPnY7myeDrNb7c-s3fznbA&expires=1778136933
